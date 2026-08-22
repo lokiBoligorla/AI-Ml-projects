@@ -1,0 +1,957 @@
+user_id,date,description,amount,category,type,source,is_anomaly,anomaly_score
+1,2025-05-25 07:28:12.219276,Petrol Pump HP,82.0,Transport,expense,UPI,False,0.0
+1,2025-05-27 00:34:12.219276,Coding gig client work,526.0,Income,income,UPI,False,0.0
+1,2025-05-28 01:08:12.219276,Coursera Certificate subscription,529.0,Education,expense,UPI,False,0.0
+1,2025-05-29 10:39:12.219276,Laundry detergent detergent shop,235.0,Miscellaneous,expense,UPI,False,0.0
+1,2025-05-29 09:12:12.219276,KFC Chicken meal,136.0,Food,expense,UPI,False,0.0
+1,2025-05-30 04:23:12.219276,Hostel laundry charges,52.0,Hostel,expense,UPI,False,0.0
+1,2025-05-30 20:12:12.219276,PG accommodation rent,100.0,Hostel,expense,UPI,False,0.0
+1,2025-06-01 05:35:12.219276,Hostel Room Heater Surcharge,80.0,Hostel,expense,UPI,False,0.0
+1,2025-06-02 21:34:12.219276,Freelance Web Design payment,476.0,Income,income,UPI,False,0.0
+1,2025-06-03 11:25:12.219276,Local vegetable vendor,372.0,Food,expense,UPI,False,0.0
+1,2025-06-04 20:59:12.219276,Photocopy shop xerox notes,210.0,Education,expense,UPI,False,0.0
+1,2025-06-05 08:45:12.219276,University Exam Fee,489.0,Education,expense,UPI,False,0.0
+1,2025-06-05 10:25:12.219276,Stationery shop notebook,1423.0,Shopping,expense,UPI,False,0.0
+1,2025-06-08 00:38:12.219276,Hostel Security Deposit Refundable,64.0,Hostel,expense,UPI,False,0.0
+1,2025-06-10 23:34:12.219276,Social media management fee,1286.0,Income,income,UPI,False,0.0
+1,2025-06-11 10:27:12.219276,Burger King combo,205.0,Food,expense,UPI,False,0.0
+1,2025-06-11 23:51:12.219276,Burger King combo,148.0,Food,expense,UPI,False,0.0
+1,2025-06-12 04:06:12.219276,Nike showroom sneakers,1262.0,Shopping,expense,UPI,False,0.0
+1,2025-06-14 03:44:12.219276,Amazon shopping clothes,414.0,Shopping,expense,UPI,False,0.0
+1,2025-06-13 22:30:12.219276,GitHub Copilot Subscription,1851.0,Bills,expense,UPI,False,0.0
+1,2025-06-15 07:23:12.219276,College Tuition Fee Semester 1,530.0,Education,expense,UPI,False,0.0
+1,2025-06-15 03:29:12.219276,Hostel laundry charges,154.0,Hostel,expense,UPI,False,0.0
+1,2025-06-18 02:35:12.219276,Gas cylinder booking Indane,1350.0,Bills,expense,UPI,False,0.0
+1,2025-06-20 08:34:12.219276,Student Mess Fees Monthly,375.0,Food,expense,UPI,False,0.0
+1,2025-06-20 07:01:12.219276,Hostel laundry charges,187.0,Hostel,expense,UPI,False,0.0
+1,2025-06-20 05:06:12.219276,Supermarket Groceries,249.0,Food,expense,UPI,False,0.0
+1,2025-06-20 21:52:12.219276,Cloud storage Google One,975.0,Bills,expense,UPI,False,0.0
+1,2025-06-22 01:43:12.219276,University Exam Fee,581.0,Education,expense,UPI,False,0.0
+1,2025-06-22 08:48:12.219276,Metro Card Recharge Metro Station,32.0,Transport,expense,UPI,False,0.0
+1,2025-06-23 09:42:12.219276,Electricity bill board,2383.0,Bills,expense,UPI,False,0.0
+1,2025-06-26 10:35:12.219276,Concert ticket EDM show,1013.0,Entertainment,expense,UPI,False,0.0
+1,2025-06-25 21:22:12.219276,Hostel Room Rent Monthly AC,139.0,Hostel,expense,UPI,False,0.0
+1,2025-06-26 23:34:12.219276,Freelance Web Design payment,283.0,Income,income,UPI,False,0.0
+1,2025-06-27 10:18:12.219276,Noodles corner,422.0,Food,expense,UPI,False,0.0
+1,2025-06-28 00:53:12.219276,Biryani House Restaurant,390.0,Food,expense,UPI,False,0.0
+1,2025-06-28 23:18:12.219276,Biryani House Restaurant,433.0,Food,expense,UPI,False,0.0
+1,2025-06-29 15:14:12.219276,MIDNIGHT SUSPICIOUS - University Exam Fee,2394.0,Education,expense,UPI,True,80.5014685210457
+1,2025-07-02 01:39:12.219276,Gift box wrapper,500.0,Miscellaneous,expense,UPI,False,0.0
+1,2025-07-02 11:15:12.219276,Toll plaza fee,238.0,Transport,expense,UPI,False,0.0
+1,2025-07-03 05:16:12.219276,Zomato Order,230.0,Food,expense,UPI,False,0.0
+1,2025-07-05 03:36:12.219276,Campus Canteen Maggie,87.0,Food,expense,UPI,False,0.0
+1,2025-07-05 10:40:12.219276,Juice Shop hostel,229.0,Food,expense,UPI,False,0.0
+1,2025-07-09 02:14:12.219276,Temple donation offering,80.0,Miscellaneous,expense,UPI,False,0.0
+1,2025-07-08 21:44:12.219276,Auto Fare Cash,71.0,Transport,expense,UPI,False,0.0
+1,2025-07-16 05:34:12.219276,Freelance Web Design payment,1472.0,Income,income,UPI,False,0.0
+1,2025-07-23 06:29:12.219276,BookMyShow Movie Ticket PVR,1164.0,Entertainment,expense,UPI,False,0.0
+1,2025-07-23 11:24:12.219276,Student Mess Fees Monthly,415.0,Food,expense,UPI,False,0.0
+1,2025-07-24 04:48:12.219276,GitHub Copilot Subscription,247.0,Bills,expense,UPI,False,0.0
+1,2025-07-25 09:44:12.219276,Chai Tapri Tea & Samosa,404.0,Food,expense,UPI,False,0.0
+1,2025-07-25 04:56:12.219276,Amazon shopping clothes,588.0,Shopping,expense,UPI,False,0.0
+1,2025-07-25 00:45:12.219276,Photocopy shop xerox notes,1187.0,Education,expense,UPI,False,0.0
+1,2025-07-26 02:58:12.219276,Local thrift store jacket,1975.0,Shopping,expense,UPI,False,0.0
+1,2025-07-27 11:27:12.219276,Gift box wrapper,448.0,Miscellaneous,expense,UPI,False,0.0
+1,2025-07-27 02:13:12.219276,Local thrift store jacket,2886.0,Shopping,expense,UPI,False,0.0
+1,2025-07-26 23:31:12.219276,H&M jeans,3494.0,Shopping,expense,UPI,False,0.0
+1,2025-07-29 04:54:12.219276,Biryani House Restaurant,266.0,Food,expense,UPI,False,0.0
+1,2025-08-03 20:53:12.219276,H&M jeans,2072.0,Shopping,expense,UPI,False,0.0
+1,2025-08-04 09:15:12.219276,Gas cylinder booking Indane,2312.0,Bills,expense,UPI,False,0.0
+1,2025-08-07 06:23:12.219276,Car rental service,140.0,Transport,expense,UPI,False,0.0
+1,2025-08-07 04:25:12.219276,CRITICAL SPIKE - Chai Tapri Tea & Samosa,5775.0,Food,expense,UPI,True,91.46015315950442
+1,2025-08-06 19:56:12.219276,Zomato Order,418.0,Food,expense,UPI,False,0.0
+1,2025-08-07 21:42:12.219276,Water supply bill,430.0,Bills,expense,UPI,False,0.0
+1,2025-08-09 02:01:12.219276,PG accommodation rent,160.0,Hostel,expense,UPI,False,0.0
+1,2025-08-10 07:25:12.219276,Zomato Order,123.0,Food,expense,UPI,False,0.0
+1,2025-08-11 07:28:12.219276,Metro Card Recharge Metro Station,276.0,Transport,expense,UPI,False,0.0
+1,2025-08-11 22:21:12.219276,Gift box wrapper,255.0,Miscellaneous,expense,UPI,False,0.0
+1,2025-08-13 01:22:12.219276,Temple donation offering,93.0,Miscellaneous,expense,UPI,False,0.0
+1,2025-08-14 04:47:12.219276,Shell Fuel Station,336.0,Transport,expense,UPI,False,0.0
+1,2025-08-15 08:08:12.219276,CRITICAL SPIKE - Shoppers Stop shoes,13365.0,Shopping,expense,UPI,True,88.67535308574419
+1,2025-08-18 22:43:12.219276,Scientific Calculator Casio,1421.0,Education,expense,UPI,False,0.0
+1,2025-08-20 01:23:12.219276,Friend Splitwise repayment,439.0,Miscellaneous,expense,UPI,False,0.0
+1,2025-08-22 09:40:12.219276,Laundry detergent detergent shop,306.0,Miscellaneous,expense,UPI,False,0.0
+1,2025-08-24 06:53:12.219276,Friend Splitwise repayment,220.0,Miscellaneous,expense,UPI,False,0.0
+1,2025-08-27 01:20:12.219276,Biryani House Restaurant,272.0,Food,expense,UPI,False,0.0
+1,2025-08-27 10:13:12.219276,Electricity bill board,1782.0,Bills,expense,UPI,False,0.0
+1,2025-08-28 00:29:12.219276,PG accommodation rent,157.0,Hostel,expense,UPI,False,0.0
+1,2025-08-28 04:02:12.219276,Hostel laundry charges,81.0,Hostel,expense,UPI,False,0.0
+1,2025-08-30 11:02:12.219276,Campus Canteen Maggie,321.0,Food,expense,UPI,False,0.0
+1,2025-09-01 05:34:12.219276,Freelance Web Design payment,2447.0,Income,income,UPI,False,0.0
+1,2025-08-31 20:49:12.219276,Chai Tapri Tea & Samosa,227.0,Food,expense,UPI,False,0.0
+1,2025-09-04 06:49:12.219276,Sunglasses purchase store,466.0,Shopping,expense,UPI,False,0.0
+1,2025-09-09 07:13:12.219276,Local vegetable vendor,307.0,Food,expense,UPI,False,0.0
+1,2025-09-10 11:07:12.219276,Local thrift store jacket,864.0,Shopping,expense,UPI,False,0.0
+1,2025-09-12 01:24:12.219276,University Exam Fee,694.0,Education,expense,UPI,False,0.0
+1,2025-09-12 10:35:12.219276,Academic Journal Subscription,511.0,Education,expense,UPI,False,0.0
+1,2025-09-12 21:53:12.219276,Lab manual printout charges,1229.0,Education,expense,UPI,False,0.0
+1,2025-09-13 01:23:12.219276,University Exam Fee,1492.0,Education,expense,UPI,False,0.0
+1,2025-09-12 23:07:12.219276,Student Mess Fees Monthly,337.0,Food,expense,UPI,False,0.0
+1,2025-09-14 23:34:12.219276,Social media management fee,1324.0,Income,income,UPI,False,0.0
+1,2025-09-14 23:44:12.219276,Temple donation offering,97.0,Miscellaneous,expense,UPI,False,0.0
+1,2025-09-17 01:02:12.219276,Concert ticket EDM show,1078.0,Entertainment,expense,UPI,False,0.0
+1,2025-09-21 02:11:12.219276,Zomato Order,281.0,Food,expense,UPI,False,0.0
+1,2025-09-23 08:06:12.219276,Hostel Security Deposit Refundable,142.0,Hostel,expense,UPI,False,0.0
+1,2025-09-25 10:50:12.219276,Student Mess Fees Monthly,378.0,Food,expense,UPI,False,0.0
+1,2025-09-26 01:35:12.219276,BookMyShow Movie Ticket PVR,646.0,Entertainment,expense,UPI,False,0.0
+1,2025-09-26 09:06:12.219276,Gas cylinder booking Indane,1815.0,Bills,expense,UPI,False,0.0
+1,2025-09-26 00:07:12.219276,Laundry detergent detergent shop,496.0,Miscellaneous,expense,UPI,False,0.0
+1,2025-09-28 04:36:12.219276,Laser tag game weekend,856.0,Entertainment,expense,UPI,False,0.0
+1,2025-09-28 03:14:12.219276,Biryani House Restaurant,380.0,Food,expense,UPI,False,0.0
+1,2025-09-29 22:15:12.219276,Auto Fare Cash,194.0,Transport,expense,UPI,False,0.0
+1,2025-09-30 01:00:12.219276,Friend Splitwise repayment,323.0,Miscellaneous,expense,UPI,False,0.0
+1,2025-10-01 05:30:12.219276,KFC Chicken meal,283.0,Food,expense,UPI,False,0.0
+1,2025-10-03 05:44:12.219276,Hostel Room Heater Surcharge,5617.0,Hostel,expense,UPI,False,0.0
+1,2025-10-06 21:16:12.219276,Campus Canteen Maggie,414.0,Food,expense,UPI,False,0.0
+1,2025-10-07 02:42:12.219276,Supermarket Groceries,231.0,Food,expense,UPI,False,0.0
+1,2025-10-08 00:54:12.219276,PG accommodation rent,101.0,Hostel,expense,UPI,False,0.0
+1,2025-10-13 08:57:12.219276,Campus Canteen Maggie,289.0,Food,expense,UPI,False,0.0
+1,2025-10-13 03:27:12.219276,University Exam Fee,1200.0,Education,expense,UPI,False,0.0
+1,2025-10-14 05:34:12.219276,Coding gig client work,2096.0,Income,income,UPI,False,0.0
+1,2025-10-15 00:06:12.219276,Jio Prepaid Mobile Recharge,2310.0,Bills,expense,UPI,False,0.0
+1,2025-10-17 10:32:12.219276,Local Bus Ticket,183.0,Transport,expense,UPI,False,0.0
+1,2025-10-17 10:28:12.219276,Auto Fare Cash,134.0,Transport,expense,UPI,False,0.0
+1,2025-10-18 02:33:12.219276,Petrol Pump HP,185.0,Transport,expense,UPI,False,0.0
+1,2025-10-22 21:27:12.219276,Burger King combo,357.0,Food,expense,UPI,False,0.0
+1,2025-10-23 08:42:12.219276,KFC Chicken meal,422.0,Food,expense,UPI,False,0.0
+1,2025-10-22 15:35:12.219276,MIDNIGHT SUSPICIOUS - Ola Cab Booking,321.0,Transport,expense,UPI,True,82.64332299232663
+1,2025-10-25 02:53:12.219276,Maggie Point Gate 2,287.0,Food,expense,UPI,False,0.0
+1,2025-10-25 07:58:12.219276,Supermarket Groceries,412.0,Food,expense,UPI,False,0.0
+1,2025-10-25 00:39:12.219276,Board game cafe bill,1124.0,Entertainment,expense,UPI,False,0.0
+1,2025-10-26 02:47:12.219276,Coaching class monthly fee,295.0,Education,expense,UPI,False,0.0
+1,2025-10-26 04:31:12.219276,Laundry detergent detergent shop,188.0,Miscellaneous,expense,UPI,False,0.0
+1,2025-10-26 22:06:12.219276,Hostel Washing Machine Token,148.0,Hostel,expense,UPI,False,0.0
+1,2025-10-29 21:34:12.219276,BookMyShow Movie Ticket PVR,947.0,Entertainment,expense,UPI,False,0.0
+1,2025-10-31 03:10:12.219276,Netflix subscription premium,747.0,Entertainment,expense,UPI,False,0.0
+1,2025-11-02 04:54:12.219276,Photocopy shop xerox notes,1433.0,Education,expense,UPI,False,0.0
+1,2025-11-02 07:54:12.219276,Gift box wrapper,152.0,Miscellaneous,expense,UPI,False,0.0
+1,2025-11-03 10:25:12.219276,Hostel Room Rent Monthly AC,8403.0,Hostel,expense,UPI,False,0.0
+1,2025-11-05 06:44:12.219276,Academic Journal Subscription,274.0,Education,expense,UPI,False,0.0
+1,2025-11-07 10:40:12.219276,Gift box wrapper,306.0,Miscellaneous,expense,UPI,False,0.0
+1,2025-11-07 06:53:12.219276,Book Store college textbooks,751.0,Shopping,expense,UPI,False,0.0
+1,2025-11-08 23:25:12.219276,Local Bus Ticket,172.0,Transport,expense,UPI,False,0.0
+1,2025-11-10 05:41:12.219276,Nike showroom sneakers,2817.0,Shopping,expense,UPI,False,0.0
+1,2025-11-12 00:54:12.219276,Juice Shop hostel,165.0,Food,expense,UPI,False,0.0
+1,2025-11-12 02:52:12.219276,Cloud storage Google One,785.0,Bills,expense,UPI,False,0.0
+1,2025-11-12 23:34:12.219276,Social media management fee,1382.0,Income,income,UPI,False,0.0
+1,2025-11-13 02:53:12.219276,GitHub Copilot Subscription,995.0,Bills,expense,UPI,False,0.0
+1,2025-11-15 02:25:12.219276,Noodles corner,140.0,Food,expense,UPI,False,0.0
+1,2025-11-16 23:49:12.219276,Netflix subscription premium,717.0,Entertainment,expense,UPI,False,0.0
+1,2025-11-18 08:06:12.219276,Laser tag game weekend,1075.0,Entertainment,expense,UPI,False,0.0
+1,2025-11-19 10:14:12.219276,Cloud storage Google One,1440.0,Bills,expense,UPI,False,0.0
+1,2025-11-20 10:03:12.219276,Supermarket Groceries,315.0,Food,expense,UPI,False,0.0
+1,2025-11-21 07:16:12.219276,Myntra t-shirt purchase,3081.0,Shopping,expense,UPI,False,0.0
+1,2025-11-22 09:15:12.219276,Student Mess Fees Monthly,400.0,Food,expense,UPI,False,0.0
+1,2025-11-24 09:18:12.219276,Electricity bill board,133.0,Bills,expense,UPI,False,0.0
+1,2025-11-23 22:40:12.219276,Noodles corner,116.0,Food,expense,UPI,False,0.0
+1,2025-11-23 23:38:12.219276,Scientific Calculator Casio,380.0,Education,expense,UPI,False,0.0
+1,2025-11-24 09:56:12.219276,PG accommodation rent,52.0,Hostel,expense,UPI,False,0.0
+1,2025-11-24 22:42:12.219276,Pub weekend entry cover charge,1056.0,Entertainment,expense,UPI,False,0.0
+1,2025-11-26 02:51:12.219276,Bowling Alley Arena,1029.0,Entertainment,expense,UPI,False,0.0
+1,2025-11-26 02:21:12.219276,KFC Chicken meal,417.0,Food,expense,UPI,False,0.0
+1,2025-11-26 10:58:12.219276,Concert ticket EDM show,261.0,Entertainment,expense,UPI,False,0.0
+1,2025-11-27 07:33:12.219276,ATM Cash withdrawal Self,320.0,Miscellaneous,expense,UPI,False,0.0
+1,2025-11-27 03:47:12.219276,Water supply bill,168.0,Bills,expense,UPI,False,0.0
+1,2025-11-28 01:34:12.219276,TA Stipend College Dept,2275.0,Income,income,UPI,False,0.0
+1,2025-11-28 00:08:12.219276,Campus Canteen Maggie,120.0,Food,expense,UPI,False,0.0
+1,2025-11-28 05:18:12.219276,Photocopy shop xerox notes,1430.0,Education,expense,UPI,False,0.0
+1,2025-11-30 01:05:12.219276,Swiggy Delivery Hyderabad,442.0,Food,expense,UPI,False,0.0
+1,2025-12-01 04:20:12.219276,Hostel laundry charges,116.0,Hostel,expense,UPI,False,0.0
+1,2025-12-01 11:03:12.219276,Campus Canteen Maggie,444.0,Food,expense,UPI,False,0.0
+1,2025-12-03 06:41:12.219276,Shell Fuel Station,193.0,Transport,expense,UPI,False,0.0
+1,2025-12-02 20:59:12.219276,Hostel warden room repair,8194.0,Hostel,expense,UPI,False,0.0
+1,2025-12-09 09:05:12.219276,Myntra t-shirt purchase,1240.0,Shopping,expense,UPI,False,0.0
+1,2025-12-09 03:31:12.219276,Dominos Pizza,444.0,Food,expense,UPI,False,0.0
+1,2025-12-08 23:06:12.219276,Hostel Room Heater Surcharge,145.0,Hostel,expense,UPI,False,0.0
+1,2025-12-10 02:52:12.219276,Biryani House Restaurant,370.0,Food,expense,UPI,False,0.0
+1,2025-12-09 22:43:12.219276,Local thrift store jacket,705.0,Shopping,expense,UPI,False,0.0
+1,2025-12-11 09:53:12.219276,Juice Shop hostel,263.0,Food,expense,UPI,False,0.0
+1,2025-12-12 23:46:12.219276,Swiggy Delivery Hyderabad,111.0,Food,expense,UPI,False,0.0
+1,2025-12-13 19:38:12.219276,Biryani House Restaurant,380.0,Food,expense,UPI,False,0.0
+1,2025-12-14 05:41:12.219276,Parking charges mall,257.0,Transport,expense,UPI,False,0.0
+1,2025-12-15 06:47:12.219276,Electricity bill board,1667.0,Bills,expense,UPI,False,0.0
+1,2025-12-14 21:13:12.219276,Campus Canteen Maggie,223.0,Food,expense,UPI,False,0.0
+1,2025-12-17 21:34:12.219276,Part time tutoring kid,1350.0,Income,income,UPI,False,0.0
+1,2025-12-17 22:49:12.219276,Hostel Washing Machine Token,199.0,Hostel,expense,UPI,False,0.0
+1,2025-12-18 03:10:12.219276,Auto Fare Cash,303.0,Transport,expense,UPI,False,0.0
+1,2025-12-20 04:34:12.219276,Part time tutoring kid,2356.0,Income,income,UPI,False,0.0
+1,2025-12-21 06:38:12.219276,Biryani House Restaurant,440.0,Food,expense,UPI,False,0.0
+1,2025-12-21 01:20:12.219276,Photocopy shop xerox notes,789.0,Education,expense,UPI,False,0.0
+1,2025-12-22 08:28:12.219276,Concert ticket EDM show,753.0,Entertainment,expense,UPI,False,0.0
+1,2025-12-23 02:56:12.219276,ATM Cash withdrawal Self,304.0,Miscellaneous,expense,UPI,False,0.0
+1,2025-12-25 11:24:12.219276,DTH TV recharge Tata Sky,1538.0,Bills,expense,UPI,False,0.0
+1,2025-12-25 09:38:12.219276,Gift box wrapper,438.0,Miscellaneous,expense,UPI,False,0.0
+1,2025-12-24 21:55:12.219276,Campus Canteen Maggie,90.0,Food,expense,UPI,False,0.0
+1,2025-12-26 06:12:12.219276,Local vegetable vendor,118.0,Food,expense,UPI,False,0.0
+1,2025-12-26 08:44:12.219276,Laundry detergent detergent shop,410.0,Miscellaneous,expense,UPI,False,0.0
+1,2025-12-26 09:18:12.219276,Zomato Order,249.0,Food,expense,UPI,False,0.0
+1,2025-12-26 20:59:12.219276,H&M jeans,1553.0,Shopping,expense,UPI,False,0.0
+1,2025-12-27 06:34:12.219276,Temple donation offering,480.0,Miscellaneous,expense,UPI,False,0.0
+1,2025-12-29 23:41:12.219276,Train Ticket IRCTC,183.0,Transport,expense,UPI,False,0.0
+1,2025-12-29 23:36:12.219276,Airtel broadband wifi,784.0,Bills,expense,UPI,False,0.0
+1,2025-12-30 03:54:12.219276,Spotify Premium monthly plan,1041.0,Entertainment,expense,UPI,False,0.0
+1,2026-01-02 02:42:12.219276,Flipkart electronics gadget,1548.0,Shopping,expense,UPI,False,0.0
+1,2026-01-03 09:47:12.219276,Library overdue book fine,1338.0,Education,expense,UPI,False,0.0
+1,2026-01-05 07:05:12.219276,Hostel Room Heater Surcharge,81.0,Hostel,expense,UPI,False,0.0
+1,2026-01-05 04:35:12.219276,KFC Chicken meal,212.0,Food,expense,UPI,False,0.0
+1,2026-01-06 23:34:12.219276,TA Stipend College Dept,741.0,Income,income,UPI,False,0.0
+1,2026-01-07 07:09:12.219276,Hostel laundry charges,151.0,Hostel,expense,UPI,False,0.0
+1,2026-01-07 10:38:12.219276,Temple donation offering,194.0,Miscellaneous,expense,UPI,False,0.0
+1,2026-01-08 03:31:12.219276,Library overdue book fine,1434.0,Education,expense,UPI,False,0.0
+1,2026-01-09 11:32:12.219276,Netflix subscription premium,538.0,Entertainment,expense,UPI,False,0.0
+1,2026-01-12 06:14:12.219276,Coursera Certificate subscription,1098.0,Education,expense,UPI,False,0.0
+1,2026-01-12 01:05:12.219276,Swiggy Delivery Hyderabad,311.0,Food,expense,UPI,False,0.0
+1,2026-01-15 04:52:12.219276,Lost cash wallet,135.0,Miscellaneous,expense,UPI,False,0.0
+1,2026-01-15 06:31:12.219276,GitHub Copilot Subscription,2246.0,Bills,expense,UPI,False,0.0
+1,2026-01-15 00:41:12.219276,Toll plaza fee,97.0,Transport,expense,UPI,False,0.0
+1,2026-01-16 23:15:12.219276,PG accommodation rent,62.0,Hostel,expense,UPI,False,0.0
+1,2026-01-18 05:00:12.219276,Starbucks Coffee,435.0,Food,expense,UPI,False,0.0
+1,2026-01-20 10:55:12.219276,Swiggy Delivery Hyderabad,360.0,Food,expense,UPI,False,0.0
+1,2026-01-20 10:43:12.219276,Uber Auto Ride,36.0,Transport,expense,UPI,False,0.0
+1,2026-01-20 21:28:12.219276,Flipkart electronics gadget,2301.0,Shopping,expense,UPI,False,0.0
+1,2026-01-21 05:56:12.219276,Swiggy Delivery Hyderabad,150.0,Food,expense,UPI,False,0.0
+1,2026-01-22 00:40:12.219276,BookMyShow Movie Ticket PVR,381.0,Entertainment,expense,UPI,False,0.0
+1,2026-01-23 11:32:12.219276,ATM Cash withdrawal Self,491.0,Miscellaneous,expense,UPI,False,0.0
+1,2026-01-23 04:15:12.219276,Water supply bill,1784.0,Bills,expense,UPI,False,0.0
+1,2026-01-24 22:24:12.219276,Laser tag game weekend,223.0,Entertainment,expense,UPI,False,0.0
+1,2026-01-25 21:31:12.219276,Decathlon sports gear,2538.0,Shopping,expense,UPI,False,0.0
+1,2026-01-26 23:33:12.219276,Spotify Premium monthly plan,670.0,Entertainment,expense,UPI,False,0.0
+1,2026-01-28 23:40:12.219276,Hostel laundry charges,95.0,Hostel,expense,UPI,False,0.0
+1,2026-01-31 01:06:12.219276,Car rental service,178.0,Transport,expense,UPI,False,0.0
+1,2026-02-02 21:18:12.219276,Zara retail mall,1573.0,Shopping,expense,UPI,False,0.0
+1,2026-02-04 03:21:12.219276,Hostel Room Rent Monthly AC,141.0,Hostel,expense,UPI,False,0.0
+1,2026-02-05 07:58:12.219276,Bike taxi Rapido,177.0,Transport,expense,UPI,False,0.0
+1,2026-02-05 07:22:12.219276,LUXURY DIAMOND RING JEWELLER,104036.0,Entertainment,expense,UPI,True,76.28352820930765
+1,2026-02-05 05:02:12.219276,Temple donation offering,428.0,Miscellaneous,expense,UPI,False,0.0
+1,2026-02-06 00:33:12.219276,CRITICAL SPIKE - Biryani House Restaurant,3150.0,Food,expense,UPI,True,81.65828345523948
+1,2026-02-07 06:48:12.219276,Student Mess Fees Monthly,358.0,Food,expense,UPI,False,0.0
+1,2026-02-06 23:16:12.219276,Temple donation offering,293.0,Miscellaneous,expense,UPI,False,0.0
+1,2026-02-08 22:34:12.219276,Coding gig client work,2304.0,Income,income,UPI,False,0.0
+1,2026-02-10 09:27:12.219276,Hostel Room Rent Monthly AC,66.0,Hostel,expense,UPI,False,0.0
+1,2026-02-09 21:38:12.219276,Swiggy Delivery Hyderabad,315.0,Food,expense,UPI,False,0.0
+1,2026-02-10 20:15:12.219276,Bowling Alley Arena,184.0,Entertainment,expense,UPI,False,0.0
+1,2026-02-10 21:56:12.219276,ATM Cash withdrawal Self,437.0,Miscellaneous,expense,UPI,False,0.0
+1,2026-02-12 05:17:12.219276,Board game cafe bill,754.0,Entertainment,expense,UPI,False,0.0
+1,2026-02-11 20:10:12.219276,College Tuition Fee Semester 1,1236.0,Education,expense,UPI,False,0.0
+1,2026-02-13 10:15:12.219276,Dominos Pizza,423.0,Food,expense,UPI,False,0.0
+1,2026-02-15 03:34:12.219276,Freelance Web Design payment,2824.0,Income,income,UPI,False,0.0
+1,2026-02-15 22:31:12.219276,Hostel Security Deposit Refundable,117.0,Hostel,expense,UPI,False,0.0
+1,2026-02-17 03:34:12.219276,Social media management fee,2571.0,Income,income,UPI,False,0.0
+1,2026-02-17 09:44:12.219276,Car rental service,114.0,Transport,expense,UPI,False,0.0
+1,2026-02-18 03:22:12.219276,Local vegetable vendor,327.0,Food,expense,UPI,False,0.0
+1,2026-02-17 21:16:12.219276,Jio Prepaid Mobile Recharge,357.0,Bills,expense,UPI,False,0.0
+1,2026-02-19 03:58:12.219276,Laser tag game weekend,898.0,Entertainment,expense,UPI,False,0.0
+1,2026-02-20 22:06:12.219276,Juice Shop hostel,151.0,Food,expense,UPI,False,0.0
+1,2026-02-22 05:34:12.219276,Freelance Web Design payment,2778.0,Income,income,UPI,False,0.0
+1,2026-02-26 09:26:12.219276,Laser tag game weekend,420.0,Entertainment,expense,UPI,False,0.0
+1,2026-02-28 19:58:12.219276,Uber Auto Ride,33.0,Transport,expense,UPI,False,0.0
+1,2026-03-01 00:01:12.219276,Toll plaza fee,191.0,Transport,expense,UPI,False,0.0
+1,2026-03-01 22:47:12.219276,Local vegetable vendor,197.0,Food,expense,UPI,False,0.0
+1,2026-03-03 00:58:12.219276,PG accommodation rent,7355.0,Hostel,expense,UPI,False,0.0
+1,2026-03-03 21:34:12.219276,Coding gig client work,527.0,Income,income,UPI,False,0.0
+1,2026-03-04 04:46:12.219276,Supermarket Groceries,333.0,Food,expense,UPI,False,0.0
+1,2026-03-04 01:17:12.219276,Chai Tapri Tea & Samosa,386.0,Food,expense,UPI,False,0.0
+1,2026-03-04 22:34:12.219276,Part time tutoring kid,844.0,Income,income,UPI,False,0.0
+1,2026-03-04 20:21:12.219276,Bowling Alley Arena,959.0,Entertainment,expense,UPI,False,0.0
+1,2026-03-06 04:30:12.219276,Juice Shop hostel,230.0,Food,expense,UPI,False,0.0
+1,2026-03-08 03:34:12.219276,Freelance Web Design payment,1493.0,Income,income,UPI,False,0.0
+1,2026-03-09 11:21:12.219276,Scientific Calculator Casio,1274.0,Education,expense,UPI,False,0.0
+1,2026-03-09 02:46:12.219276,Local Bus Ticket,153.0,Transport,expense,UPI,False,0.0
+1,2026-03-08 23:32:12.219276,Car rental service,212.0,Transport,expense,UPI,False,0.0
+1,2026-03-11 09:41:12.219276,Juice Shop hostel,257.0,Food,expense,UPI,False,0.0
+1,2026-03-11 01:58:12.219276,Hostel Room Heater Surcharge,130.0,Hostel,expense,UPI,False,0.0
+1,2026-03-12 04:04:12.219276,Coaching class monthly fee,483.0,Education,expense,UPI,False,0.0
+1,2026-03-14 20:47:12.219276,ATM Cash withdrawal Self,253.0,Miscellaneous,expense,UPI,False,0.0
+1,2026-03-16 01:14:12.219276,Student Mess Fees Monthly,394.0,Food,expense,UPI,False,0.0
+1,2026-03-15 21:44:12.219276,Photocopy shop xerox notes,1270.0,Education,expense,UPI,False,0.0
+1,2026-03-16 19:42:12.219276,Coaching class monthly fee,1022.0,Education,expense,UPI,False,0.0
+1,2026-03-17 22:33:12.219276,Starbucks Coffee,165.0,Food,expense,UPI,False,0.0
+1,2026-03-19 05:02:12.219276,Supermarket Groceries,279.0,Food,expense,UPI,False,0.0
+1,2026-03-20 22:02:12.219276,Hostel Washing Machine Token,138.0,Hostel,expense,UPI,False,0.0
+1,2026-03-23 01:19:12.219276,Udemy Python Course,1248.0,Education,expense,UPI,False,0.0
+1,2026-03-23 10:13:12.219276,Ola Cab Booking,123.0,Transport,expense,UPI,False,0.0
+1,2026-03-23 19:45:12.219276,Jio Prepaid Mobile Recharge,1413.0,Bills,expense,UPI,False,0.0
+1,2026-03-24 05:39:12.219276,Gas cylinder booking Indane,1999.0,Bills,expense,UPI,False,0.0
+1,2026-03-26 08:23:12.219276,Netflix subscription premium,399.0,Entertainment,expense,UPI,False,0.0
+1,2026-03-26 02:04:12.219276,Jio Prepaid Mobile Recharge,237.0,Bills,expense,UPI,False,0.0
+1,2026-03-27 01:41:12.219276,Hostel Electricity surcharge,913.0,Bills,expense,UPI,False,0.0
+1,2026-03-29 23:34:12.219276,Social media management fee,639.0,Income,income,UPI,False,0.0
+1,2026-03-30 04:31:12.219276,Uber Auto Ride,223.0,Transport,expense,UPI,False,0.0
+1,2026-03-30 20:13:12.219276,Chai Tapri Tea & Samosa,406.0,Food,expense,UPI,False,0.0
+1,2026-04-01 01:29:12.219276,Hostel warden room repair,67.0,Hostel,expense,UPI,False,0.0
+1,2026-03-31 21:10:12.219276,Starbucks Coffee,134.0,Food,expense,UPI,False,0.0
+1,2026-04-01 20:33:12.219276,Amazon shopping clothes,1900.0,Shopping,expense,UPI,False,0.0
+1,2026-04-02 10:25:12.219276,Parking charges mall,281.0,Transport,expense,UPI,False,0.0
+1,2026-04-01 22:27:12.219276,KFC Chicken meal,395.0,Food,expense,UPI,False,0.0
+1,2026-04-05 01:09:12.219276,Lab manual printout charges,974.0,Education,expense,UPI,False,0.0
+1,2026-04-05 21:34:12.219276,Coding gig client work,2640.0,Income,income,UPI,False,0.0
+1,2026-04-07 11:26:12.219276,Local vegetable vendor,246.0,Food,expense,UPI,False,0.0
+1,2026-04-11 07:13:12.219276,Scientific Calculator Casio,149.0,Education,expense,UPI,False,0.0
+1,2026-04-11 02:17:12.219276,Airtel broadband wifi,1904.0,Bills,expense,UPI,False,0.0
+1,2026-04-11 03:13:12.219276,Coursera Certificate subscription,275.0,Education,expense,UPI,False,0.0
+1,2026-04-12 02:08:12.219276,Maggie Point Gate 2,187.0,Food,expense,UPI,False,0.0
+1,2026-04-13 08:11:12.219276,Hostel Room Heater Surcharge,86.0,Hostel,expense,UPI,False,0.0
+1,2026-04-14 08:16:12.219276,Noodles corner,415.0,Food,expense,UPI,False,0.0
+1,2026-04-15 06:05:12.219276,Shell Fuel Station,290.0,Transport,expense,UPI,False,0.0
+1,2026-04-18 23:53:12.219276,Biryani House Restaurant,357.0,Food,expense,UPI,False,0.0
+1,2026-04-20 00:54:12.219276,Juice Shop hostel,352.0,Food,expense,UPI,False,0.0
+1,2026-04-19 23:45:12.219276,Hostel Electricity surcharge,722.0,Bills,expense,UPI,False,0.0
+1,2026-04-22 01:48:12.219276,Coursera Certificate subscription,1106.0,Education,expense,UPI,False,0.0
+1,2026-04-23 03:07:12.219276,Noodles corner,313.0,Food,expense,UPI,False,0.0
+1,2026-04-25 00:03:12.219276,Student Mess Fees Monthly,230.0,Food,expense,UPI,False,0.0
+1,2026-04-28 01:23:12.219276,Gift box wrapper,491.0,Miscellaneous,expense,UPI,False,0.0
+1,2026-04-29 10:05:12.219276,Uber Auto Ride,348.0,Transport,expense,UPI,False,0.0
+1,2026-04-30 03:30:12.219276,Amusement park ticket,312.0,Entertainment,expense,UPI,False,0.0
+1,2026-04-29 20:45:12.219276,Hostel Washing Machine Token,192.0,Hostel,expense,UPI,False,0.0
+1,2026-04-29 21:16:12.219276,Swiggy Delivery Hyderabad,414.0,Food,expense,UPI,False,0.0
+1,2026-05-01 05:04:12.219276,Spotify Premium monthly plan,1025.0,Entertainment,expense,UPI,False,0.0
+1,2026-05-01 22:04:12.219276,Hostel Security Deposit Refundable,103.0,Hostel,expense,UPI,False,0.0
+1,2026-05-02 19:41:12.219276,Airtel broadband wifi,1053.0,Bills,expense,UPI,False,0.0
+1,2026-05-03 09:00:12.219276,Noodles corner,400.0,Food,expense,UPI,False,0.0
+1,2026-05-02 20:14:12.219276,Maggie Point Gate 2,259.0,Food,expense,UPI,False,0.0
+1,2026-05-08 07:02:12.219276,College Tuition Fee Semester 1,277.0,Education,expense,UPI,False,0.0
+1,2026-05-08 07:24:12.219276,Local thrift store jacket,2550.0,Shopping,expense,UPI,False,0.0
+1,2026-05-09 05:34:12.219276,Part time tutoring kid,2017.0,Income,income,UPI,False,0.0
+1,2026-05-10 06:03:12.219276,Amazon shopping clothes,3214.0,Shopping,expense,UPI,False,0.0
+1,2026-05-12 02:08:12.219276,Swiggy Delivery Hyderabad,398.0,Food,expense,UPI,False,0.0
+1,2026-05-15 09:40:12.219276,Hostel Room Rent Monthly AC,169.0,Hostel,expense,UPI,False,0.0
+1,2026-05-19 01:16:12.219276,Laser tag game weekend,850.0,Entertainment,expense,UPI,False,0.0
+2,2025-05-20 12:57:12.219276,MIDNIGHT SUSPICIOUS - Water supply bill,7458.0,Bills,expense,UPI,True,94.66054121226517
+2,2025-05-22 23:34:12.219276,Student health insurance premium,790.0,Healthcare,expense,UPI,False,0.0
+2,2025-05-25 03:04:12.219276,ATM Cash withdrawal Self,317.0,Miscellaneous,expense,UPI,False,0.0
+2,2025-05-28 10:45:12.219276,Hotel room booking OYO,3436.0,Travel,expense,UPI,False,0.0
+2,2025-06-01 20:00:12.219276,GitHub Copilot Subscription,143.0,Bills,expense,UPI,False,0.0
+2,2025-06-03 21:37:12.219276,Concert ticket EDM show,665.0,Entertainment,expense,UPI,False,0.0
+2,2025-06-03 22:28:12.219276,Pub weekend entry cover charge,399.0,Entertainment,expense,UPI,False,0.0
+2,2025-06-06 07:45:12.219276,Stationery shop notebook,684.0,Shopping,expense,UPI,False,0.0
+2,2025-06-06 21:16:12.219276,MakeMyTrip flight Bangalore to Delhi,6077.0,Travel,expense,UPI,False,0.0
+2,2025-06-08 02:34:12.219276,Airbnb stay vacation room,5308.0,Travel,expense,UPI,False,0.0
+2,2025-06-08 07:08:12.219276,DTH TV recharge Tata Sky,326.0,Bills,expense,UPI,False,0.0
+2,2025-06-08 20:58:12.219276,Train Ticket IRCTC,178.0,Transport,expense,UPI,False,0.0
+2,2025-06-10 07:41:12.219276,Maggie Point Gate 2,108.0,Food,expense,UPI,False,0.0
+2,2025-06-10 21:21:12.219276,Sunglasses purchase store,2773.0,Shopping,expense,UPI,False,0.0
+2,2025-06-10 23:05:12.219276,Nike showroom sneakers,661.0,Shopping,expense,UPI,False,0.0
+2,2025-06-11 21:11:12.219276,Friend Splitwise repayment,214.0,Miscellaneous,expense,UPI,False,0.0
+2,2025-06-12 08:44:12.219276,Shoppers Stop shoes,658.0,Shopping,expense,UPI,False,0.0
+2,2025-06-12 19:34:12.219276,Student health insurance premium,232.0,Healthcare,expense,UPI,False,0.0
+2,2025-06-13 23:07:12.219276,DTH TV recharge Tata Sky,118.0,Bills,expense,UPI,False,0.0
+2,2025-06-15 11:05:12.219276,Electricity bill board,893.0,Bills,expense,UPI,False,0.0
+2,2025-06-17 00:44:12.219276,Cloud storage Google One,277.0,Bills,expense,UPI,False,0.0
+2,2025-06-17 10:11:12.219276,Noodles corner,343.0,Food,expense,UPI,False,0.0
+2,2025-06-17 22:04:12.219276,Laser tag game weekend,559.0,Entertainment,expense,UPI,False,0.0
+2,2025-06-20 09:28:12.219276,Nike showroom sneakers,2664.0,Shopping,expense,UPI,False,0.0
+2,2025-06-25 10:05:12.219276,Laundry detergent detergent shop,295.0,Miscellaneous,expense,UPI,False,0.0
+2,2025-06-24 20:04:12.219276,Hostel Electricity surcharge,1079.0,Bills,expense,UPI,False,0.0
+2,2025-06-26 21:58:12.219276,Shoppers Stop shoes,2967.0,Shopping,expense,UPI,False,0.0
+2,2025-06-27 07:30:12.219276,Car rental service,201.0,Transport,expense,UPI,False,0.0
+2,2025-06-29 22:44:12.219276,Student health insurance premium,790.0,Healthcare,expense,UPI,False,0.0
+2,2025-06-29 19:52:12.219276,Water supply bill,706.0,Bills,expense,UPI,False,0.0
+2,2025-07-01 04:46:12.219276,Stationery shop notebook,1820.0,Shopping,expense,UPI,False,0.0
+2,2025-07-02 00:49:12.219276,Sunglasses purchase store,3237.0,Shopping,expense,UPI,False,0.0
+2,2025-07-02 21:16:12.219276,Stationery shop notebook,1466.0,Shopping,expense,UPI,False,0.0
+2,2025-07-05 22:34:12.219276,TA Stipend College Dept,1663.0,Income,income,UPI,False,0.0
+2,2025-07-09 01:45:12.219276,Travel agent booking ticket,6652.0,Travel,expense,UPI,False,0.0
+2,2025-07-09 23:50:12.219276,Gift box wrapper,287.0,Miscellaneous,expense,UPI,False,0.0
+2,2025-07-10 19:41:12.219276,Student health insurance premium,1207.0,Healthcare,expense,UPI,False,0.0
+2,2025-07-12 23:12:12.219276,GitHub Copilot Subscription,414.0,Bills,expense,UPI,False,0.0
+2,2025-07-13 22:47:12.219276,Airbnb stay vacation room,4787.0,Travel,expense,UPI,False,0.0
+2,2025-07-16 22:48:12.219276,Lost cash wallet,138.0,Miscellaneous,expense,UPI,False,0.0
+2,2025-07-16 21:35:12.219276,Myntra t-shirt purchase,2140.0,Shopping,expense,UPI,False,0.0
+2,2025-07-16 21:04:12.219276,Airbnb stay vacation room,2348.0,Travel,expense,UPI,False,0.0
+2,2025-07-17 23:32:12.219276,Zomato Order,234.0,Food,expense,UPI,False,0.0
+2,2025-07-20 02:32:12.219276,Decathlon sports gear,417.0,Shopping,expense,UPI,False,0.0
+2,2025-07-22 11:22:12.219276,Water supply bill,2008.0,Bills,expense,UPI,False,0.0
+2,2025-07-24 00:38:12.219276,Book Store college textbooks,2040.0,Shopping,expense,UPI,False,0.0
+2,2025-07-25 22:50:12.219276,Lost cash wallet,125.0,Miscellaneous,expense,UPI,False,0.0
+2,2025-07-25 19:40:12.219276,Airbnb stay vacation room,3890.0,Travel,expense,UPI,False,0.0
+2,2025-07-26 00:58:12.219276,KFC Chicken meal,114.0,Food,expense,UPI,False,0.0
+2,2025-07-27 11:24:12.219276,Flipkart electronics gadget,2947.0,Shopping,expense,UPI,False,0.0
+2,2025-07-27 20:45:12.219276,Hotel room booking OYO,5082.0,Travel,expense,UPI,False,0.0
+2,2025-07-28 11:01:12.219276,Gift box wrapper,490.0,Miscellaneous,expense,UPI,False,0.0
+2,2025-07-28 11:16:12.219276,Flipkart electronics gadget,3331.0,Shopping,expense,UPI,False,0.0
+2,2025-07-29 08:56:12.219276,Chai Tapri Tea & Samosa,400.0,Food,expense,UPI,False,0.0
+2,2025-07-30 05:36:12.219276,Auto Fare Cash,88.0,Transport,expense,UPI,False,0.0
+2,2025-07-31 05:10:12.219276,Bike taxi Rapido,139.0,Transport,expense,UPI,False,0.0
+2,2025-08-03 10:47:12.219276,Supermarket Groceries,440.0,Food,expense,UPI,False,0.0
+2,2025-08-04 01:57:12.219276,GitHub Copilot Subscription,1876.0,Bills,expense,UPI,False,0.0
+2,2025-08-04 19:49:12.219276,Laser tag game weekend,638.0,Entertainment,expense,UPI,False,0.0
+2,2025-08-05 04:24:12.219276,Starbucks Coffee,161.0,Food,expense,UPI,False,0.0
+2,2025-08-05 11:24:12.219276,GitHub Copilot Subscription,820.0,Bills,expense,UPI,False,0.0
+2,2025-08-06 08:27:12.219276,Shell Fuel Station,216.0,Transport,expense,UPI,False,0.0
+2,2025-08-06 23:23:12.219276,Lost cash wallet,304.0,Miscellaneous,expense,UPI,False,0.0
+2,2025-08-07 08:47:12.219276,Gas cylinder booking Indane,2493.0,Bills,expense,UPI,False,0.0
+2,2025-08-07 06:08:12.219276,Electricity bill board,2108.0,Bills,expense,UPI,False,0.0
+2,2025-08-09 02:50:12.219276,KFC Chicken meal,419.0,Food,expense,UPI,False,0.0
+2,2025-08-09 21:15:12.219276,Gift box wrapper,217.0,Miscellaneous,expense,UPI,False,0.0
+2,2025-08-11 22:03:12.219276,Burger King combo,365.0,Food,expense,UPI,False,0.0
+2,2025-08-16 07:11:12.219276,Hostel Electricity surcharge,1064.0,Bills,expense,UPI,False,0.0
+2,2025-08-18 21:11:12.219276,General Physician consultation fee,1008.0,Healthcare,expense,UPI,False,0.0
+2,2025-08-20 06:21:12.219276,GitHub Copilot Subscription,1382.0,Bills,expense,UPI,False,0.0
+2,2025-08-22 06:39:12.219276,MakeMyTrip flight Bangalore to Delhi,7896.0,Travel,expense,UPI,False,0.0
+2,2025-08-23 05:43:12.219276,Shell Fuel Station,221.0,Transport,expense,UPI,False,0.0
+2,2025-08-24 22:53:12.219276,Gym membership monthly fee,783.0,Healthcare,expense,UPI,False,0.0
+2,2025-08-29 04:29:12.219276,Gas cylinder booking Indane,866.0,Bills,expense,UPI,False,0.0
+2,2025-08-29 19:46:12.219276,DTH TV recharge Tata Sky,1339.0,Bills,expense,UPI,False,0.0
+2,2025-08-30 11:15:12.219276,Uber Auto Ride,126.0,Transport,expense,UPI,False,0.0
+2,2025-08-29 22:44:12.219276,Cloud storage Google One,706.0,Bills,expense,UPI,False,0.0
+2,2025-08-31 09:00:12.219276,DTH TV recharge Tata Sky,308.0,Bills,expense,UPI,False,0.0
+2,2025-09-02 06:32:12.219276,Hotel room booking OYO,5589.0,Travel,expense,UPI,False,0.0
+2,2025-09-03 10:42:12.219276,RedBus booking home town,7094.0,Travel,expense,UPI,False,0.0
+2,2025-09-03 09:05:12.219276,Local thrift store jacket,1040.0,Shopping,expense,UPI,False,0.0
+2,2025-09-05 02:41:12.219276,Chai Tapri Tea & Samosa,112.0,Food,expense,UPI,False,0.0
+2,2025-09-04 23:19:12.219276,Chai Tapri Tea & Samosa,365.0,Food,expense,UPI,False,0.0
+2,2025-09-04 23:24:12.219276,Burger King combo,304.0,Food,expense,UPI,False,0.0
+2,2025-09-11 00:31:12.219276,Student health insurance premium,1088.0,Healthcare,expense,UPI,False,0.0
+2,2025-09-12 08:02:12.219276,LUXURY DIAMOND RING JEWELLER,115003.0,Bills,expense,UPI,True,76.99451861906955
+2,2025-09-13 05:20:12.219276,Swiggy Delivery Hyderabad,356.0,Food,expense,UPI,False,0.0
+2,2025-09-16 07:32:12.219276,Amusement park ticket,1119.0,Entertainment,expense,UPI,False,0.0
+2,2025-09-18 09:04:12.219276,Zomato Order,360.0,Food,expense,UPI,False,0.0
+2,2025-09-19 07:55:12.219276,Car rental service,349.0,Transport,expense,UPI,False,0.0
+2,2025-09-21 02:13:12.219276,Gift box wrapper,113.0,Miscellaneous,expense,UPI,False,0.0
+2,2025-09-23 09:39:12.219276,Amazon shopping clothes,1526.0,Shopping,expense,UPI,False,0.0
+2,2025-09-23 11:29:12.219276,Temple donation offering,214.0,Miscellaneous,expense,UPI,False,0.0
+2,2025-09-23 05:58:12.219276,Maggie Point Gate 2,303.0,Food,expense,UPI,False,0.0
+2,2025-09-23 21:13:12.219276,Metro Card Recharge Metro Station,187.0,Transport,expense,UPI,False,0.0
+2,2025-09-24 20:46:12.219276,Hostel Electricity surcharge,1638.0,Bills,expense,UPI,False,0.0
+2,2025-09-26 05:34:12.219276,Part time tutoring kid,1302.0,Income,income,UPI,False,0.0
+2,2025-09-26 05:10:12.219276,Local Bus Ticket,314.0,Transport,expense,UPI,False,0.0
+2,2025-09-26 09:32:12.219276,Shoppers Stop shoes,2613.0,Shopping,expense,UPI,False,0.0
+2,2025-09-25 19:37:12.219276,LUXURY DIAMOND RING JEWELLER,93956.0,Miscellaneous,expense,UPI,True,81.61630134305254
+2,2025-09-27 04:36:12.219276,Hostel Electricity surcharge,1657.0,Bills,expense,UPI,False,0.0
+2,2025-09-27 20:12:12.219276,Luggage bag purchase Safari,4690.0,Travel,expense,UPI,False,0.0
+2,2025-09-29 23:03:12.219276,Cough syrup & vitamins,992.0,Healthcare,expense,UPI,False,0.0
+2,2025-10-03 02:16:12.219276,Auto Fare Cash,321.0,Transport,expense,UPI,False,0.0
+2,2025-10-02 23:50:12.219276,Myntra t-shirt purchase,2809.0,Shopping,expense,UPI,False,0.0
+2,2025-10-03 04:17:12.219276,Board game cafe bill,711.0,Entertainment,expense,UPI,False,0.0
+2,2025-10-04 06:01:12.219276,Student Mess Fees Monthly,408.0,Food,expense,UPI,False,0.0
+2,2025-10-05 22:35:12.219276,Gaming Zone Arcade Mall,486.0,Entertainment,expense,UPI,False,0.0
+2,2025-10-06 06:07:12.219276,Train Ticket IRCTC,152.0,Transport,expense,UPI,False,0.0
+2,2025-10-07 21:37:12.219276,MakeMyTrip flight Bangalore to Delhi,7122.0,Travel,expense,UPI,False,0.0
+2,2025-10-07 23:37:12.219276,Student Mess Fees Monthly,240.0,Food,expense,UPI,False,0.0
+2,2025-10-10 00:04:12.219276,Hostel Electricity surcharge,2490.0,Bills,expense,UPI,False,0.0
+2,2025-10-09 23:37:12.219276,Gas cylinder booking Indane,1292.0,Bills,expense,UPI,False,0.0
+2,2025-10-12 10:30:12.219276,Hostel Electricity surcharge,1814.0,Bills,expense,UPI,False,0.0
+2,2025-10-12 03:03:12.219276,Noodles corner,192.0,Food,expense,UPI,False,0.0
+2,2025-10-12 06:35:12.219276,Student health insurance premium,213.0,Healthcare,expense,UPI,False,0.0
+2,2025-10-13 20:27:12.219276,Netflix subscription premium,510.0,Entertainment,expense,UPI,False,0.0
+2,2025-10-15 07:25:12.219276,Petrol Pump HP,137.0,Transport,expense,UPI,False,0.0
+2,2025-10-15 01:46:12.219276,Ola Cab Booking,103.0,Transport,expense,UPI,False,0.0
+2,2025-10-15 21:14:12.219276,Lost cash wallet,454.0,Miscellaneous,expense,UPI,False,0.0
+2,2025-10-17 11:24:12.219276,Temple donation offering,300.0,Miscellaneous,expense,UPI,False,0.0
+2,2025-10-19 06:19:12.219276,Lost cash wallet,305.0,Miscellaneous,expense,UPI,False,0.0
+2,2025-10-19 10:29:12.219276,Apollo Pharmacy medicines,624.0,Healthcare,expense,UPI,False,0.0
+2,2025-10-22 04:33:12.219276,Auto Fare Cash,286.0,Transport,expense,UPI,False,0.0
+2,2025-10-24 02:34:12.219276,Social media management fee,1020.0,Income,income,UPI,False,0.0
+2,2025-10-26 07:48:12.219276,Noodles corner,414.0,Food,expense,UPI,False,0.0
+2,2025-10-26 09:23:12.219276,Hotel room booking OYO,2703.0,Travel,expense,UPI,False,0.0
+2,2025-10-27 06:42:12.219276,Amusement park ticket,1071.0,Entertainment,expense,UPI,False,0.0
+2,2025-10-26 21:33:12.219276,First aid box bandage,813.0,Healthcare,expense,UPI,False,0.0
+2,2025-10-28 07:46:12.219276,Gym membership monthly fee,618.0,Healthcare,expense,UPI,False,0.0
+2,2025-10-29 05:16:12.219276,Spotify Premium monthly plan,940.0,Entertainment,expense,UPI,False,0.0
+2,2025-10-29 00:08:12.219276,DTH TV recharge Tata Sky,1701.0,Bills,expense,UPI,False,0.0
+2,2025-11-01 00:02:12.219276,Board game cafe bill,1089.0,Entertainment,expense,UPI,False,0.0
+2,2025-11-02 09:03:12.219276,DTH TV recharge Tata Sky,817.0,Bills,expense,UPI,False,0.0
+2,2025-11-02 03:30:12.219276,Student health insurance premium,1364.0,Healthcare,expense,UPI,False,0.0
+2,2025-11-02 02:32:12.219276,Flipkart electronics gadget,2972.0,Shopping,expense,UPI,False,0.0
+2,2025-11-03 09:35:12.219276,RedBus booking home town,4070.0,Travel,expense,UPI,False,0.0
+2,2025-11-03 06:16:12.219276,Swiggy Delivery Hyderabad,208.0,Food,expense,UPI,False,0.0
+2,2025-11-04 09:42:12.219276,MakeMyTrip flight Bangalore to Delhi,2676.0,Travel,expense,UPI,False,0.0
+2,2025-11-03 22:45:12.219276,Hotel room booking OYO,3321.0,Travel,expense,UPI,False,0.0
+2,2025-11-03 22:16:12.219276,Water supply bill,2289.0,Bills,expense,UPI,False,0.0
+2,2025-11-05 02:02:12.219276,Stationery shop notebook,1866.0,Shopping,expense,UPI,False,0.0
+2,2025-11-05 08:18:12.219276,KFC Chicken meal,405.0,Food,expense,UPI,False,0.0
+2,2025-11-07 08:35:12.219276,Bowling Alley Arena,638.0,Entertainment,expense,UPI,False,0.0
+2,2025-11-08 01:20:12.219276,Spotify Premium monthly plan,601.0,Entertainment,expense,UPI,False,0.0
+2,2025-11-09 02:47:12.219276,Board game cafe bill,959.0,Entertainment,expense,UPI,False,0.0
+2,2025-11-10 04:49:12.219276,Starbucks Coffee,90.0,Food,expense,UPI,False,0.0
+2,2025-11-12 03:33:12.219276,Jio Prepaid Mobile Recharge,721.0,Bills,expense,UPI,False,0.0
+2,2025-11-14 10:14:12.219276,Pub weekend entry cover charge,931.0,Entertainment,expense,UPI,False,0.0
+2,2025-11-16 08:45:12.219276,Hotel room booking OYO,3344.0,Travel,expense,UPI,False,0.0
+2,2025-11-16 04:29:12.219276,Concert ticket EDM show,734.0,Entertainment,expense,UPI,False,0.0
+2,2025-11-16 11:02:12.219276,MakeMyTrip flight Bangalore to Delhi,4945.0,Travel,expense,UPI,False,0.0
+2,2025-11-16 19:34:12.219276,Airtel broadband wifi,2022.0,Bills,expense,UPI,False,0.0
+2,2025-11-18 08:33:12.219276,Water supply bill,1774.0,Bills,expense,UPI,False,0.0
+2,2025-11-19 23:50:12.219276,Burger King combo,265.0,Food,expense,UPI,False,0.0
+2,2025-11-21 23:46:12.219276,DTH TV recharge Tata Sky,798.0,Bills,expense,UPI,False,0.0
+2,2025-11-26 07:29:12.219276,Bowling Alley Arena,966.0,Entertainment,expense,UPI,False,0.0
+2,2025-11-28 07:02:12.219276,Bike taxi Rapido,173.0,Transport,expense,UPI,False,0.0
+2,2025-11-28 05:35:12.219276,Luggage bag purchase Safari,5384.0,Travel,expense,UPI,False,0.0
+2,2025-11-28 10:59:12.219276,Electricity bill board,1433.0,Bills,expense,UPI,False,0.0
+2,2025-11-29 11:16:12.219276,Laundry detergent detergent shop,136.0,Miscellaneous,expense,UPI,False,0.0
+2,2025-11-28 23:01:12.219276,Friend Splitwise repayment,174.0,Miscellaneous,expense,UPI,False,0.0
+2,2025-12-02 02:40:12.219276,Gym membership monthly fee,854.0,Healthcare,expense,UPI,False,0.0
+2,2025-12-03 05:53:12.219276,RedBus booking home town,6927.0,Travel,expense,UPI,False,0.0
+2,2025-12-06 06:22:12.219276,Jio Prepaid Mobile Recharge,2344.0,Bills,expense,UPI,False,0.0
+2,2025-12-06 00:02:12.219276,KFC Chicken meal,443.0,Food,expense,UPI,False,0.0
+2,2025-12-06 19:57:12.219276,Local thrift store jacket,1293.0,Shopping,expense,UPI,False,0.0
+2,2025-12-08 20:41:12.219276,Student health insurance premium,1484.0,Healthcare,expense,UPI,False,0.0
+2,2025-12-11 11:15:12.219276,Electricity bill board,591.0,Bills,expense,UPI,False,0.0
+2,2025-12-12 08:09:12.219276,Toll plaza fee,305.0,Transport,expense,UPI,False,0.0
+2,2025-12-14 04:28:12.219276,Nike showroom sneakers,1244.0,Shopping,expense,UPI,False,0.0
+2,2025-12-17 02:11:12.219276,Flipkart electronics gadget,3906.0,Shopping,expense,UPI,False,0.0
+2,2025-12-19 06:24:12.219276,GitHub Copilot Subscription,771.0,Bills,expense,UPI,False,0.0
+2,2025-12-23 07:48:12.219276,Airtel broadband wifi,1024.0,Bills,expense,UPI,False,0.0
+2,2025-12-24 00:54:12.219276,GitHub Copilot Subscription,1210.0,Bills,expense,UPI,False,0.0
+2,2025-12-23 23:43:12.219276,Flipkart electronics gadget,438.0,Shopping,expense,UPI,False,0.0
+2,2025-12-25 05:00:12.219276,First aid box bandage,668.0,Healthcare,expense,UPI,False,0.0
+2,2025-12-24 21:44:12.219276,Water supply bill,425.0,Bills,expense,UPI,False,0.0
+2,2025-12-27 11:05:12.219276,MakeMyTrip flight Bangalore to Delhi,5473.0,Travel,expense,UPI,False,0.0
+2,2025-12-27 07:34:12.219276,Gift box wrapper,396.0,Miscellaneous,expense,UPI,False,0.0
+2,2025-12-28 06:37:12.219276,BookMyShow Movie Ticket PVR,303.0,Entertainment,expense,UPI,False,0.0
+2,2025-12-28 06:32:12.219276,Multivitamins health supplements,976.0,Healthcare,expense,UPI,False,0.0
+2,2025-12-29 00:00:12.219276,CRITICAL SPIKE - Book Store college textbooks,27780.0,Shopping,expense,UPI,True,80.77009541765715
+2,2025-12-29 03:40:12.219276,Cough syrup & vitamins,812.0,Healthcare,expense,UPI,False,0.0
+2,2025-12-30 07:30:12.219276,Zara retail mall,1848.0,Shopping,expense,UPI,False,0.0
+2,2025-12-30 08:00:12.219276,Spotify Premium monthly plan,538.0,Entertainment,expense,UPI,False,0.0
+2,2026-01-01 00:46:12.219276,Eye test & spectacles frames,1170.0,Healthcare,expense,UPI,False,0.0
+2,2026-01-01 03:46:12.219276,Local thrift store jacket,893.0,Shopping,expense,UPI,False,0.0
+2,2025-12-31 20:58:12.219276,Book Store college textbooks,472.0,Shopping,expense,UPI,False,0.0
+2,2026-01-03 01:34:12.219276,Coding gig client work,1689.0,Income,income,UPI,False,0.0
+2,2026-01-02 20:34:12.219276,Eye test & spectacles frames,855.0,Healthcare,expense,UPI,False,0.0
+2,2026-01-04 05:57:12.219276,Supermarket Groceries,362.0,Food,expense,UPI,False,0.0
+2,2026-01-05 22:34:12.219276,Freelance Web Design payment,2025.0,Income,income,UPI,False,0.0
+2,2026-01-06 23:36:12.219276,Hostel Electricity surcharge,2042.0,Bills,expense,UPI,False,0.0
+2,2026-01-07 11:00:12.219276,Cloud storage Google One,580.0,Bills,expense,UPI,False,0.0
+2,2026-01-08 08:05:12.219276,Biryani House Restaurant,111.0,Food,expense,UPI,False,0.0
+2,2026-01-09 04:36:12.219276,Metro Card Recharge Metro Station,144.0,Transport,expense,UPI,False,0.0
+2,2026-01-10 02:08:12.219276,Flipkart electronics gadget,3977.0,Shopping,expense,UPI,False,0.0
+2,2026-01-11 06:48:12.219276,Gas cylinder booking Indane,334.0,Bills,expense,UPI,False,0.0
+2,2026-01-12 09:45:12.219276,Airtel broadband wifi,2062.0,Bills,expense,UPI,False,0.0
+2,2026-01-12 04:35:12.219276,Local thrift store jacket,2733.0,Shopping,expense,UPI,False,0.0
+2,2026-01-12 23:26:12.219276,Biryani House Restaurant,131.0,Food,expense,UPI,False,0.0
+2,2026-01-13 03:23:12.219276,Chai Tapri Tea & Samosa,409.0,Food,expense,UPI,False,0.0
+2,2026-01-14 06:28:12.219276,Chai Tapri Tea & Samosa,84.0,Food,expense,UPI,False,0.0
+2,2026-01-15 20:26:12.219276,Netflix subscription premium,697.0,Entertainment,expense,UPI,False,0.0
+2,2026-01-18 02:40:12.219276,Laser tag game weekend,380.0,Entertainment,expense,UPI,False,0.0
+2,2026-01-18 07:33:12.219276,Gas cylinder booking Indane,412.0,Bills,expense,UPI,False,0.0
+2,2026-01-20 05:43:12.219276,KFC Chicken meal,156.0,Food,expense,UPI,False,0.0
+2,2026-01-24 05:03:12.219276,Uber Auto Ride,208.0,Transport,expense,UPI,False,0.0
+2,2026-01-24 23:41:12.219276,Eye test & spectacles frames,631.0,Healthcare,expense,UPI,False,0.0
+2,2026-01-24 20:10:12.219276,Shoppers Stop shoes,978.0,Shopping,expense,UPI,False,0.0
+2,2026-01-26 04:41:12.219276,Cough syrup & vitamins,1109.0,Healthcare,expense,UPI,False,0.0
+2,2026-01-26 00:34:12.219276,Amazon shopping clothes,3031.0,Shopping,expense,UPI,False,0.0
+2,2026-01-27 07:42:12.219276,Laser tag game weekend,471.0,Entertainment,expense,UPI,False,0.0
+2,2026-01-26 22:26:12.219276,Laser tag game weekend,264.0,Entertainment,expense,UPI,False,0.0
+2,2026-01-28 02:12:12.219276,Concert ticket EDM show,483.0,Entertainment,expense,UPI,False,0.0
+2,2026-01-30 02:34:12.219276,Coding gig client work,234.0,Income,income,UPI,False,0.0
+2,2026-01-31 04:44:12.219276,Biryani House Restaurant,275.0,Food,expense,UPI,False,0.0
+2,2026-02-01 02:25:12.219276,Parking charges mall,77.0,Transport,expense,UPI,False,0.0
+2,2026-02-02 10:40:12.219276,Dominos Pizza,238.0,Food,expense,UPI,False,0.0
+2,2026-02-01 21:51:12.219276,Hotel room booking OYO,3390.0,Travel,expense,UPI,False,0.0
+2,2026-02-07 10:43:12.219276,Auto Fare Cash,262.0,Transport,expense,UPI,False,0.0
+2,2026-02-06 20:22:12.219276,DTH TV recharge Tata Sky,2039.0,Bills,expense,UPI,False,0.0
+2,2026-02-09 08:56:12.219276,DTH TV recharge Tata Sky,2072.0,Bills,expense,UPI,False,0.0
+2,2026-02-10 08:50:12.219276,RedBus booking home town,6091.0,Travel,expense,UPI,False,0.0
+2,2026-02-10 10:14:12.219276,Gift box wrapper,51.0,Miscellaneous,expense,UPI,False,0.0
+2,2026-02-11 06:47:12.219276,First aid box bandage,540.0,Healthcare,expense,UPI,False,0.0
+2,2026-02-12 22:25:12.219276,General Physician consultation fee,1470.0,Healthcare,expense,UPI,False,0.0
+2,2026-02-14 19:43:12.219276,CRITICAL SPIKE - DTH TV recharge Tata Sky,16335.0,Bills,expense,UPI,True,92.72647626969156
+2,2026-02-16 20:01:12.219276,Friend Splitwise repayment,215.0,Miscellaneous,expense,UPI,False,0.0
+2,2026-02-18 03:15:12.219276,Travel agent booking ticket,7173.0,Travel,expense,UPI,False,0.0
+2,2026-02-18 22:41:12.219276,Campus Canteen Maggie,122.0,Food,expense,UPI,False,0.0
+2,2026-02-19 21:38:12.219276,Ola Cab Booking,102.0,Transport,expense,UPI,False,0.0
+2,2026-02-20 01:16:12.219276,Cloud storage Google One,759.0,Bills,expense,UPI,False,0.0
+2,2026-02-20 20:08:12.219276,Gift box wrapper,180.0,Miscellaneous,expense,UPI,False,0.0
+2,2026-02-21 06:41:12.219276,Juice Shop hostel,342.0,Food,expense,UPI,False,0.0
+2,2026-02-20 23:51:12.219276,Netflix subscription premium,820.0,Entertainment,expense,UPI,False,0.0
+2,2026-02-24 04:11:12.219276,Gas cylinder booking Indane,363.0,Bills,expense,UPI,False,0.0
+2,2026-02-25 06:01:12.219276,Lost cash wallet,253.0,Miscellaneous,expense,UPI,False,0.0
+2,2026-02-25 05:47:12.219276,Water supply bill,139.0,Bills,expense,UPI,False,0.0
+2,2026-02-27 11:05:12.219276,Cough syrup & vitamins,855.0,Healthcare,expense,UPI,False,0.0
+2,2026-02-27 22:04:12.219276,Temple donation offering,70.0,Miscellaneous,expense,UPI,False,0.0
+2,2026-02-28 21:26:12.219276,Petrol Pump HP,346.0,Transport,expense,UPI,False,0.0
+2,2026-03-02 06:29:12.219276,Zara retail mall,2789.0,Shopping,expense,UPI,False,0.0
+2,2026-03-03 11:16:12.219276,Multivitamins health supplements,450.0,Healthcare,expense,UPI,False,0.0
+2,2026-03-03 02:18:12.219276,Hostel Electricity surcharge,439.0,Bills,expense,UPI,False,0.0
+2,2026-03-03 02:03:12.219276,Ola Cab Booking,283.0,Transport,expense,UPI,False,0.0
+2,2026-03-05 06:58:12.219276,Decathlon sports gear,832.0,Shopping,expense,UPI,False,0.0
+2,2026-03-06 11:16:12.219276,Burger King combo,315.0,Food,expense,UPI,False,0.0
+2,2026-03-07 09:51:12.219276,First aid box bandage,1082.0,Healthcare,expense,UPI,False,0.0
+2,2026-03-09 02:41:12.219276,Luggage bag purchase Safari,5551.0,Travel,expense,UPI,False,0.0
+2,2026-03-10 03:34:12.219276,Coding gig client work,1127.0,Income,income,UPI,False,0.0
+2,2026-03-12 07:04:12.219276,Flipkart electronics gadget,715.0,Shopping,expense,UPI,False,0.0
+2,2026-03-13 05:27:12.219276,Amusement park ticket,374.0,Entertainment,expense,UPI,False,0.0
+2,2026-03-12 22:40:12.219276,Board game cafe bill,1180.0,Entertainment,expense,UPI,False,0.0
+2,2026-03-17 05:05:12.219276,Decathlon sports gear,1586.0,Shopping,expense,UPI,False,0.0
+2,2026-03-17 01:52:12.219276,Water supply bill,1307.0,Bills,expense,UPI,False,0.0
+2,2026-03-19 03:43:12.219276,GitHub Copilot Subscription,2396.0,Bills,expense,UPI,False,0.0
+2,2026-03-19 11:33:12.219276,Laser tag game weekend,315.0,Entertainment,expense,UPI,False,0.0
+2,2026-03-20 03:42:12.219276,Cough syrup & vitamins,1384.0,Healthcare,expense,UPI,False,0.0
+2,2026-03-20 05:10:12.219276,First aid box bandage,608.0,Healthcare,expense,UPI,False,0.0
+2,2026-03-22 06:42:12.219276,Metro Card Recharge Metro Station,344.0,Transport,expense,UPI,False,0.0
+2,2026-03-21 21:37:12.219276,Noodles corner,345.0,Food,expense,UPI,False,0.0
+2,2026-03-24 21:18:12.219276,Travel agent booking ticket,4714.0,Travel,expense,UPI,False,0.0
+2,2026-03-25 11:13:12.219276,Flipkart electronics gadget,2973.0,Shopping,expense,UPI,False,0.0
+2,2026-03-25 22:53:12.219276,KFC Chicken meal,338.0,Food,expense,UPI,False,0.0
+2,2026-03-25 19:45:12.219276,Travel agent booking ticket,7055.0,Travel,expense,UPI,False,0.0
+2,2026-03-27 11:04:12.219276,Decathlon sports gear,3437.0,Shopping,expense,UPI,False,0.0
+2,2026-03-29 10:00:12.219276,Hostel Electricity surcharge,1702.0,Bills,expense,UPI,False,0.0
+2,2026-03-29 07:34:12.219276,Student health insurance premium,257.0,Healthcare,expense,UPI,False,0.0
+2,2026-03-30 07:15:12.219276,Laundry detergent detergent shop,312.0,Miscellaneous,expense,UPI,False,0.0
+2,2026-03-31 11:33:12.219276,KFC Chicken meal,161.0,Food,expense,UPI,False,0.0
+2,2026-04-01 08:22:12.219276,Gaming Zone Arcade Mall,365.0,Entertainment,expense,UPI,False,0.0
+2,2026-03-31 21:28:12.219276,Dentist consultation clinic,326.0,Healthcare,expense,UPI,False,0.0
+2,2026-04-03 02:21:12.219276,Cloud storage Google One,1892.0,Bills,expense,UPI,False,0.0
+2,2026-04-04 01:36:12.219276,Spotify Premium monthly plan,199.0,Entertainment,expense,UPI,False,0.0
+2,2026-04-05 10:48:12.219276,Metro Card Recharge Metro Station,294.0,Transport,expense,UPI,False,0.0
+2,2026-04-05 05:33:12.219276,Biryani House Restaurant,356.0,Food,expense,UPI,False,0.0
+2,2026-04-05 04:38:12.219276,DTH TV recharge Tata Sky,1565.0,Bills,expense,UPI,False,0.0
+2,2026-04-06 06:30:12.219276,Swiggy Delivery Hyderabad,253.0,Food,expense,UPI,False,0.0
+2,2026-04-06 22:36:12.219276,Laundry detergent detergent shop,116.0,Miscellaneous,expense,UPI,False,0.0
+2,2026-04-07 08:17:12.219276,Netflix subscription premium,263.0,Entertainment,expense,UPI,False,0.0
+2,2026-04-09 23:02:12.219276,Book Store college textbooks,3272.0,Shopping,expense,UPI,False,0.0
+2,2026-04-10 03:00:12.219276,Starbucks Coffee,198.0,Food,expense,UPI,False,0.0
+2,2026-04-12 04:36:12.219276,Zomato Order,109.0,Food,expense,UPI,False,0.0
+2,2026-04-13 11:19:12.219276,Ola Cab Booking,158.0,Transport,expense,UPI,False,0.0
+2,2026-04-14 02:53:12.219276,Hotel room booking OYO,2642.0,Travel,expense,UPI,False,0.0
+2,2026-04-13 20:49:12.219276,Friend Splitwise repayment,112.0,Miscellaneous,expense,UPI,False,0.0
+2,2026-04-14 11:27:12.219276,Travel agent booking ticket,5717.0,Travel,expense,UPI,False,0.0
+2,2026-04-16 09:08:12.219276,MakeMyTrip flight Bangalore to Delhi,3838.0,Travel,expense,UPI,False,0.0
+2,2026-04-18 04:25:12.219276,Multivitamins health supplements,687.0,Healthcare,expense,UPI,False,0.0
+2,2026-04-19 09:36:12.219276,Stationery shop notebook,2295.0,Shopping,expense,UPI,False,0.0
+2,2026-04-18 21:51:12.219276,Cloud storage Google One,2379.0,Bills,expense,UPI,False,0.0
+2,2026-04-20 02:41:12.219276,BookMyShow Movie Ticket PVR,450.0,Entertainment,expense,UPI,False,0.0
+2,2026-04-22 02:56:12.219276,Electricity bill board,1547.0,Bills,expense,UPI,False,0.0
+2,2026-04-22 19:40:12.219276,Dominos Pizza,268.0,Food,expense,UPI,False,0.0
+2,2026-04-23 22:33:12.219276,Supermarket Groceries,156.0,Food,expense,UPI,False,0.0
+2,2026-04-24 05:49:12.219276,Jio Prepaid Mobile Recharge,2456.0,Bills,expense,UPI,False,0.0
+2,2026-04-25 03:02:12.219276,Amusement park ticket,794.0,Entertainment,expense,UPI,False,0.0
+2,2026-04-26 03:23:12.219276,Amusement park ticket,1007.0,Entertainment,expense,UPI,False,0.0
+2,2026-04-26 11:14:12.219276,Ola Cab Booking,239.0,Transport,expense,UPI,False,0.0
+2,2026-04-28 00:38:12.219276,Metro Card Recharge Metro Station,47.0,Transport,expense,UPI,False,0.0
+2,2026-04-30 08:52:12.219276,Local Bus Ticket,182.0,Transport,expense,UPI,False,0.0
+2,2026-04-29 21:26:12.219276,DTH TV recharge Tata Sky,1404.0,Bills,expense,UPI,False,0.0
+2,2026-05-02 00:35:12.219276,Local Bus Ticket,172.0,Transport,expense,UPI,False,0.0
+2,2026-05-04 06:47:12.219276,Friend Splitwise repayment,53.0,Miscellaneous,expense,UPI,False,0.0
+2,2026-05-04 07:25:12.219276,Metro Card Recharge Metro Station,172.0,Transport,expense,UPI,False,0.0
+2,2026-05-04 23:34:12.219276,Part time tutoring kid,1539.0,Income,income,UPI,False,0.0
+2,2026-05-04 19:49:12.219276,Gift box wrapper,478.0,Miscellaneous,expense,UPI,False,0.0
+2,2026-05-05 01:50:12.219276,Nike showroom sneakers,1940.0,Shopping,expense,UPI,False,0.0
+2,2026-05-06 01:34:12.219276,Airtel broadband wifi,913.0,Bills,expense,UPI,False,0.0
+2,2026-05-06 00:36:12.219276,Dentist consultation clinic,1204.0,Healthcare,expense,UPI,False,0.0
+2,2026-05-07 02:41:12.219276,Cough syrup & vitamins,1312.0,Healthcare,expense,UPI,False,0.0
+2,2026-05-08 04:05:12.219276,Multivitamins health supplements,1070.0,Healthcare,expense,UPI,False,0.0
+2,2026-05-09 19:36:12.219276,Gas cylinder booking Indane,1793.0,Bills,expense,UPI,False,0.0
+2,2026-05-10 22:34:12.219276,Part time tutoring kid,1315.0,Income,income,UPI,False,0.0
+2,2026-05-10 22:06:12.219276,Student health insurance premium,752.0,Healthcare,expense,UPI,False,0.0
+2,2026-05-13 04:55:12.219276,Amusement park ticket,907.0,Entertainment,expense,UPI,False,0.0
+2,2026-05-13 02:29:12.219276,H&M jeans,742.0,Shopping,expense,UPI,False,0.0
+2,2026-05-14 11:08:12.219276,DTH TV recharge Tata Sky,122.0,Bills,expense,UPI,False,0.0
+2,2026-05-15 22:44:12.219276,Shell Fuel Station,95.0,Transport,expense,UPI,False,0.0
+2,2026-05-17 01:34:12.219276,TA Stipend College Dept,1405.0,Income,income,UPI,False,0.0
+2,2026-05-17 05:07:12.219276,Gas cylinder booking Indane,2409.0,Bills,expense,UPI,False,0.0
+2,2026-05-17 05:18:12.219276,Student health insurance premium,507.0,Healthcare,expense,UPI,False,0.0
+2,2026-05-18 21:56:12.219276,Uber Auto Ride,349.0,Transport,expense,UPI,False,0.0
+2,2026-05-19 03:52:12.219276,Friend Splitwise repayment,226.0,Miscellaneous,expense,UPI,False,0.0
+2,2026-05-20 04:10:12.219276,Myntra t-shirt purchase,3392.0,Shopping,expense,UPI,False,0.0
+2,2026-05-21 01:39:12.219276,Cloud storage Google One,957.0,Bills,expense,UPI,False,0.0
+2,2026-05-21 05:38:12.219276,Zara retail mall,1075.0,Shopping,expense,UPI,False,0.0
+3,2025-05-21 01:44:12.219276,Hostel Electricity surcharge,2238.0,Bills,expense,UPI,False,0.0
+3,2025-05-20 20:29:12.219276,Bike taxi Rapido,252.0,Transport,expense,UPI,False,0.0
+3,2025-05-22 07:57:12.219276,DTH TV recharge Tata Sky,975.0,Bills,expense,UPI,False,0.0
+3,2025-05-24 01:29:12.219276,Uber Auto Ride,219.0,Transport,expense,UPI,False,0.0
+3,2025-05-23 21:02:12.219276,Myntra t-shirt purchase,2118.0,Shopping,expense,UPI,False,0.0
+3,2025-05-24 21:46:12.219276,ATM Cash withdrawal Self,390.0,Miscellaneous,expense,UPI,False,0.0
+3,2025-05-25 09:36:12.219276,Friend Splitwise repayment,423.0,Miscellaneous,expense,UPI,False,0.0
+3,2025-05-26 04:51:12.219276,Laundry detergent detergent shop,138.0,Miscellaneous,expense,UPI,False,0.0
+3,2025-05-28 01:20:12.219276,Car rental service,267.0,Transport,expense,UPI,False,0.0
+3,2025-05-28 01:24:12.219276,Metro Card Recharge Metro Station,192.0,Transport,expense,UPI,False,0.0
+3,2025-05-28 02:53:12.219276,Starbucks Coffee,406.0,Food,expense,UPI,False,0.0
+3,2025-05-29 00:52:12.219276,Eye test & spectacles frames,585.0,Healthcare,expense,UPI,False,0.0
+3,2025-05-30 07:43:12.219276,Travel agent booking ticket,7628.0,Travel,expense,UPI,False,0.0
+3,2025-06-04 01:06:12.219276,General Physician consultation fee,1382.0,Healthcare,expense,UPI,False,0.0
+3,2025-06-05 07:03:12.219276,Electricity bill board,470.0,Bills,expense,UPI,False,0.0
+3,2025-06-06 01:34:12.219276,Freelance Web Design payment,904.0,Income,income,UPI,False,0.0
+3,2025-06-07 07:42:12.219276,Multivitamins health supplements,697.0,Healthcare,expense,UPI,False,0.0
+3,2025-06-08 08:32:12.219276,Bowling Alley Arena,891.0,Entertainment,expense,UPI,False,0.0
+3,2025-06-09 00:34:12.219276,Freelance Web Design payment,2247.0,Income,income,UPI,False,0.0
+3,2025-06-10 07:17:12.219276,First aid box bandage,417.0,Healthcare,expense,UPI,False,0.0
+3,2025-06-13 19:55:12.219276,Laundry detergent detergent shop,495.0,Miscellaneous,expense,UPI,False,0.0
+3,2025-06-16 00:20:12.219276,Eye test & spectacles frames,558.0,Healthcare,expense,UPI,False,0.0
+3,2025-06-16 08:06:12.219276,Nike showroom sneakers,3364.0,Shopping,expense,UPI,False,0.0
+3,2025-06-19 04:06:12.219276,RedBus booking home town,5579.0,Travel,expense,UPI,False,0.0
+3,2025-06-22 22:14:12.219276,H&M jeans,1997.0,Shopping,expense,UPI,False,0.0
+3,2025-06-24 07:10:12.219276,MakeMyTrip flight Bangalore to Delhi,3277.0,Travel,expense,UPI,False,0.0
+3,2025-06-26 04:45:12.219276,Ola Cab Booking,232.0,Transport,expense,UPI,False,0.0
+3,2025-06-29 01:04:12.219276,Stationery shop notebook,1911.0,Shopping,expense,UPI,False,0.0
+3,2025-06-30 02:10:12.219276,Airtel broadband wifi,1300.0,Bills,expense,UPI,False,0.0
+3,2025-07-03 04:34:12.219276,TA Stipend College Dept,2328.0,Income,income,UPI,False,0.0
+3,2025-07-03 05:25:12.219276,Gift box wrapper,62.0,Miscellaneous,expense,UPI,False,0.0
+3,2025-07-07 05:04:12.219276,Hostel Electricity surcharge,1356.0,Bills,expense,UPI,False,0.0
+3,2025-07-07 00:12:12.219276,Travel agent booking ticket,4415.0,Travel,expense,UPI,False,0.0
+3,2025-07-07 02:11:12.219276,DTH TV recharge Tata Sky,1153.0,Bills,expense,UPI,False,0.0
+3,2025-07-12 04:25:12.219276,Noodles corner,370.0,Food,expense,UPI,False,0.0
+3,2025-07-12 09:45:12.219276,Sunglasses purchase store,3065.0,Shopping,expense,UPI,False,0.0
+3,2025-07-13 02:49:12.219276,Metro Card Recharge Metro Station,297.0,Transport,expense,UPI,False,0.0
+3,2025-07-14 06:24:12.219276,Airbnb stay vacation room,2805.0,Travel,expense,UPI,False,0.0
+3,2025-07-14 10:46:12.219276,Local Bus Ticket,274.0,Transport,expense,UPI,False,0.0
+3,2025-07-14 10:23:12.219276,Biryani House Restaurant,300.0,Food,expense,UPI,False,0.0
+3,2025-07-19 08:24:12.219276,Pub weekend entry cover charge,466.0,Entertainment,expense,UPI,False,0.0
+3,2025-07-20 02:16:12.219276,Stationery shop notebook,3541.0,Shopping,expense,UPI,False,0.0
+3,2025-07-22 08:18:12.219276,Travel agent booking ticket,6857.0,Travel,expense,UPI,False,0.0
+3,2025-07-24 06:28:12.219276,Lost cash wallet,403.0,Miscellaneous,expense,UPI,False,0.0
+3,2025-07-24 23:41:12.219276,Concert ticket EDM show,672.0,Entertainment,expense,UPI,False,0.0
+3,2025-07-24 21:32:12.219276,Gym membership monthly fee,1011.0,Healthcare,expense,UPI,False,0.0
+3,2025-07-25 22:10:12.219276,Laundry detergent detergent shop,194.0,Miscellaneous,expense,UPI,False,0.0
+3,2025-07-27 10:13:12.219276,Bike taxi Rapido,111.0,Transport,expense,UPI,False,0.0
+3,2025-07-29 04:28:12.219276,Swiggy Delivery Hyderabad,195.0,Food,expense,UPI,False,0.0
+3,2025-07-29 07:31:12.219276,Pub weekend entry cover charge,818.0,Entertainment,expense,UPI,False,0.0
+3,2025-07-30 02:34:12.219276,Freelance Web Design payment,2412.0,Income,income,UPI,False,0.0
+3,2025-08-02 01:22:12.219276,Decathlon sports gear,2768.0,Shopping,expense,UPI,False,0.0
+3,2025-08-04 06:57:12.219276,Gym membership monthly fee,1019.0,Healthcare,expense,UPI,False,0.0
+3,2025-08-07 00:18:12.219276,BookMyShow Movie Ticket PVR,168.0,Entertainment,expense,UPI,False,0.0
+3,2025-08-07 04:57:12.219276,MakeMyTrip flight Bangalore to Delhi,2501.0,Travel,expense,UPI,False,0.0
+3,2025-08-08 00:57:12.219276,Student health insurance premium,557.0,Healthcare,expense,UPI,False,0.0
+3,2025-08-11 08:22:12.219276,MakeMyTrip flight Bangalore to Delhi,3182.0,Travel,expense,UPI,False,0.0
+3,2025-08-12 11:05:12.219276,Lost cash wallet,364.0,Miscellaneous,expense,UPI,False,0.0
+3,2025-08-13 03:16:12.219276,BookMyShow Movie Ticket PVR,599.0,Entertainment,expense,UPI,False,0.0
+3,2025-08-14 08:14:12.219276,Cough syrup & vitamins,497.0,Healthcare,expense,UPI,False,0.0
+3,2025-08-14 00:14:12.219276,Chai Tapri Tea & Samosa,181.0,Food,expense,UPI,False,0.0
+3,2025-08-15 02:34:12.219276,Freelance Web Design payment,1825.0,Income,income,UPI,False,0.0
+3,2025-08-16 10:13:12.219276,Jio Prepaid Mobile Recharge,2464.0,Bills,expense,UPI,False,0.0
+3,2025-08-16 23:09:12.219276,Myntra t-shirt purchase,1330.0,Shopping,expense,UPI,False,0.0
+3,2025-08-18 00:59:12.219276,Hostel Electricity surcharge,1953.0,Bills,expense,UPI,False,0.0
+3,2025-08-19 07:07:12.219276,BookMyShow Movie Ticket PVR,604.0,Entertainment,expense,UPI,False,0.0
+3,2025-08-19 07:08:12.219276,Nike showroom sneakers,3922.0,Shopping,expense,UPI,False,0.0
+3,2025-08-19 01:14:12.219276,Board game cafe bill,491.0,Entertainment,expense,UPI,False,0.0
+3,2025-08-20 02:59:12.219276,Student health insurance premium,494.0,Healthcare,expense,UPI,False,0.0
+3,2025-08-20 03:27:12.219276,H&M jeans,2116.0,Shopping,expense,UPI,False,0.0
+3,2025-08-22 09:43:12.219276,RedBus booking home town,7410.0,Travel,expense,UPI,False,0.0
+3,2025-08-23 11:22:12.219276,Parking charges mall,268.0,Transport,expense,UPI,False,0.0
+3,2025-08-24 10:48:12.219276,Zomato Order,445.0,Food,expense,UPI,False,0.0
+3,2025-08-24 23:10:12.219276,Gift box wrapper,245.0,Miscellaneous,expense,UPI,False,0.0
+3,2025-08-26 07:15:12.219276,DTH TV recharge Tata Sky,1712.0,Bills,expense,UPI,False,0.0
+3,2025-08-27 05:32:12.219276,Amazon shopping clothes,2982.0,Shopping,expense,UPI,False,0.0
+3,2025-08-30 05:32:12.219276,Zara retail mall,1722.0,Shopping,expense,UPI,False,0.0
+3,2025-09-03 03:09:12.219276,Petrol Pump HP,145.0,Transport,expense,UPI,False,0.0
+3,2025-09-03 02:49:12.219276,H&M jeans,1521.0,Shopping,expense,UPI,False,0.0
+3,2025-09-04 11:27:12.219276,BookMyShow Movie Ticket PVR,175.0,Entertainment,expense,UPI,False,0.0
+3,2025-09-05 06:08:12.219276,DTH TV recharge Tata Sky,1616.0,Bills,expense,UPI,False,0.0
+3,2025-09-04 23:40:12.219276,Water supply bill,650.0,Bills,expense,UPI,False,0.0
+3,2025-09-06 20:09:12.219276,Airbnb stay vacation room,6841.0,Travel,expense,UPI,False,0.0
+3,2025-09-08 07:47:12.219276,Airbnb stay vacation room,7768.0,Travel,expense,UPI,False,0.0
+3,2025-09-09 03:12:12.219276,Bike taxi Rapido,241.0,Transport,expense,UPI,False,0.0
+3,2025-09-10 02:56:12.219276,MakeMyTrip flight Bangalore to Delhi,3511.0,Travel,expense,UPI,False,0.0
+3,2025-09-12 07:28:12.219276,Swiggy Delivery Hyderabad,247.0,Food,expense,UPI,False,0.0
+3,2025-09-12 07:10:12.219276,Bowling Alley Arena,348.0,Entertainment,expense,UPI,False,0.0
+3,2025-09-12 00:26:12.219276,Stationery shop notebook,3293.0,Shopping,expense,UPI,False,0.0
+3,2025-09-14 01:31:12.219276,Auto Fare Cash,179.0,Transport,expense,UPI,False,0.0
+3,2025-09-13 21:55:12.219276,Laundry detergent detergent shop,451.0,Miscellaneous,expense,UPI,False,0.0
+3,2025-09-16 05:14:12.219276,Gas cylinder booking Indane,654.0,Bills,expense,UPI,False,0.0
+3,2025-09-17 06:09:12.219276,Dentist consultation clinic,1204.0,Healthcare,expense,UPI,False,0.0
+3,2025-09-20 03:19:12.219276,Electricity bill board,978.0,Bills,expense,UPI,False,0.0
+3,2025-09-22 04:30:12.219276,Apollo Pharmacy medicines,519.0,Healthcare,expense,UPI,False,0.0
+3,2025-09-23 22:09:12.219276,Water supply bill,589.0,Bills,expense,UPI,False,0.0
+3,2025-09-24 11:04:12.219276,RedBus booking home town,3041.0,Travel,expense,UPI,False,0.0
+3,2025-09-25 03:01:12.219276,KFC Chicken meal,278.0,Food,expense,UPI,False,0.0
+3,2025-09-26 06:29:12.219276,Bowling Alley Arena,239.0,Entertainment,expense,UPI,False,0.0
+3,2025-09-26 07:58:12.219276,Airtel broadband wifi,1534.0,Bills,expense,UPI,False,0.0
+3,2025-09-27 06:16:12.219276,ATM Cash withdrawal Self,165.0,Miscellaneous,expense,UPI,False,0.0
+3,2025-09-27 05:09:12.219276,MakeMyTrip flight Bangalore to Delhi,5608.0,Travel,expense,UPI,False,0.0
+3,2025-09-27 23:17:12.219276,Sunglasses purchase store,1717.0,Shopping,expense,UPI,False,0.0
+3,2025-09-29 07:21:12.219276,Airtel broadband wifi,1691.0,Bills,expense,UPI,False,0.0
+3,2025-09-30 01:49:12.219276,Gas cylinder booking Indane,1435.0,Bills,expense,UPI,False,0.0
+3,2025-10-04 10:54:12.219276,Book Store college textbooks,1696.0,Shopping,expense,UPI,False,0.0
+3,2025-10-04 21:39:12.219276,Gift box wrapper,371.0,Miscellaneous,expense,UPI,False,0.0
+3,2025-10-05 06:33:12.219276,Swiggy Delivery Hyderabad,107.0,Food,expense,UPI,False,0.0
+3,2025-10-05 04:53:12.219276,Cloud storage Google One,2045.0,Bills,expense,UPI,False,0.0
+3,2025-10-07 09:40:12.219276,Jio Prepaid Mobile Recharge,564.0,Bills,expense,UPI,False,0.0
+3,2025-10-08 05:52:12.219276,Myntra t-shirt purchase,3639.0,Shopping,expense,UPI,False,0.0
+3,2025-10-10 07:28:12.219276,Biryani House Restaurant,382.0,Food,expense,UPI,False,0.0
+3,2025-10-12 06:29:12.219276,Hostel Electricity surcharge,441.0,Bills,expense,UPI,False,0.0
+3,2025-10-12 02:38:12.219276,ATM Cash withdrawal Self,61.0,Miscellaneous,expense,UPI,False,0.0
+3,2025-10-15 02:32:12.219276,Water supply bill,599.0,Bills,expense,UPI,False,0.0
+3,2025-10-14 20:01:12.219276,Metro Card Recharge Metro Station,76.0,Transport,expense,UPI,False,0.0
+3,2025-10-16 03:43:12.219276,Decathlon sports gear,425.0,Shopping,expense,UPI,False,0.0
+3,2025-10-16 01:45:12.219276,Temple donation offering,146.0,Miscellaneous,expense,UPI,False,0.0
+3,2025-10-22 08:00:12.219276,Multivitamins health supplements,1151.0,Healthcare,expense,UPI,False,0.0
+3,2025-10-22 22:35:12.219276,Zara retail mall,2828.0,Shopping,expense,UPI,False,0.0
+3,2025-10-22 20:05:12.219276,Multivitamins health supplements,506.0,Healthcare,expense,UPI,False,0.0
+3,2025-10-24 11:16:12.219276,Airbnb stay vacation room,5564.0,Travel,expense,UPI,False,0.0
+3,2025-10-24 20:02:12.219276,Shoppers Stop shoes,2715.0,Shopping,expense,UPI,False,0.0
+3,2025-10-26 11:10:12.219276,Jio Prepaid Mobile Recharge,1070.0,Bills,expense,UPI,False,0.0
+3,2025-10-30 10:49:12.219276,Airtel broadband wifi,1590.0,Bills,expense,UPI,False,0.0
+3,2025-10-31 22:52:12.219276,Friend Splitwise repayment,471.0,Miscellaneous,expense,UPI,False,0.0
+3,2025-10-31 23:52:12.219276,Gym membership monthly fee,222.0,Healthcare,expense,UPI,False,0.0
+3,2025-11-02 04:03:12.219276,Nike showroom sneakers,2219.0,Shopping,expense,UPI,False,0.0
+3,2025-11-03 04:54:12.219276,Student health insurance premium,868.0,Healthcare,expense,UPI,False,0.0
+3,2025-11-03 10:38:12.219276,Burger King combo,341.0,Food,expense,UPI,False,0.0
+3,2025-11-03 22:22:12.219276,Myntra t-shirt purchase,2541.0,Shopping,expense,UPI,False,0.0
+3,2025-11-05 10:59:12.219276,Water supply bill,1790.0,Bills,expense,UPI,False,0.0
+3,2025-11-06 00:29:12.219276,Amusement park ticket,236.0,Entertainment,expense,UPI,False,0.0
+3,2025-11-08 03:55:12.219276,Lost cash wallet,311.0,Miscellaneous,expense,UPI,False,0.0
+3,2025-11-09 01:46:12.219276,Myntra t-shirt purchase,570.0,Shopping,expense,UPI,False,0.0
+3,2025-11-10 03:10:12.219276,Pub weekend entry cover charge,771.0,Entertainment,expense,UPI,False,0.0
+3,2025-11-10 02:27:12.219276,Jio Prepaid Mobile Recharge,2193.0,Bills,expense,UPI,False,0.0
+3,2025-11-11 11:04:12.219276,Cloud storage Google One,1700.0,Bills,expense,UPI,False,0.0
+3,2025-11-10 22:13:12.219276,Temple donation offering,196.0,Miscellaneous,expense,UPI,False,0.0
+3,2025-11-11 04:33:12.219276,Uber Auto Ride,45.0,Transport,expense,UPI,False,0.0
+3,2025-11-13 05:23:12.219276,Cough syrup & vitamins,355.0,Healthcare,expense,UPI,False,0.0
+3,2025-11-14 01:34:12.219276,Coding gig client work,780.0,Income,income,UPI,False,0.0
+3,2025-11-14 01:38:12.219276,Local vegetable vendor,368.0,Food,expense,UPI,False,0.0
+3,2025-11-18 04:57:12.219276,Gift box wrapper,300.0,Miscellaneous,expense,UPI,False,0.0
+3,2025-11-19 06:33:12.219276,Dentist consultation clinic,1433.0,Healthcare,expense,UPI,False,0.0
+3,2025-11-20 06:06:12.219276,Luggage bag purchase Safari,7573.0,Travel,expense,UPI,False,0.0
+3,2025-11-20 00:26:12.219276,Nike showroom sneakers,1799.0,Shopping,expense,UPI,False,0.0
+3,2025-11-19 21:07:12.219276,Laser tag game weekend,317.0,Entertainment,expense,UPI,False,0.0
+3,2025-11-22 19:35:12.219276,Gift box wrapper,99.0,Miscellaneous,expense,UPI,False,0.0
+3,2025-11-23 22:34:12.219276,Freelance Web Design payment,960.0,Income,income,UPI,False,0.0
+3,2025-12-02 04:11:12.219276,DTH TV recharge Tata Sky,2294.0,Bills,expense,UPI,False,0.0
+3,2025-12-04 07:36:12.219276,Netflix subscription premium,943.0,Entertainment,expense,UPI,False,0.0
+3,2025-12-04 00:21:12.219276,Travel agent booking ticket,2951.0,Travel,expense,UPI,False,0.0
+3,2025-12-05 09:04:12.219276,Gift box wrapper,238.0,Miscellaneous,expense,UPI,False,0.0
+3,2025-12-06 08:41:12.219276,Cloud storage Google One,373.0,Bills,expense,UPI,False,0.0
+3,2025-12-05 23:07:12.219276,Apollo Pharmacy medicines,961.0,Healthcare,expense,UPI,False,0.0
+3,2025-12-07 06:32:12.219276,ATM Cash withdrawal Self,205.0,Miscellaneous,expense,UPI,False,0.0
+3,2025-12-07 11:06:12.219276,Decathlon sports gear,995.0,Shopping,expense,UPI,False,0.0
+3,2025-12-13 06:51:12.219276,Toll plaza fee,104.0,Transport,expense,UPI,False,0.0
+3,2025-12-14 04:14:12.219276,GitHub Copilot Subscription,2217.0,Bills,expense,UPI,False,0.0
+3,2025-12-14 06:33:12.219276,Hostel Electricity surcharge,1283.0,Bills,expense,UPI,False,0.0
+3,2025-12-15 00:25:12.219276,Hostel Electricity surcharge,1836.0,Bills,expense,UPI,False,0.0
+3,2025-12-16 08:04:12.219276,H&M jeans,3716.0,Shopping,expense,UPI,False,0.0
+3,2025-12-17 21:28:12.219276,Metro Card Recharge Metro Station,122.0,Transport,expense,UPI,False,0.0
+3,2025-12-19 01:25:12.219276,Juice Shop hostel,379.0,Food,expense,UPI,False,0.0
+3,2025-12-20 04:25:12.219276,Board game cafe bill,185.0,Entertainment,expense,UPI,False,0.0
+3,2025-12-20 03:40:12.219276,Luggage bag purchase Safari,3356.0,Travel,expense,UPI,False,0.0
+3,2025-12-22 11:01:12.219276,Apollo Pharmacy medicines,1308.0,Healthcare,expense,UPI,False,0.0
+3,2025-12-22 07:44:12.219276,Luggage bag purchase Safari,3683.0,Travel,expense,UPI,False,0.0
+3,2025-12-23 05:31:12.219276,Bowling Alley Arena,873.0,Entertainment,expense,UPI,False,0.0
+3,2025-12-23 22:02:12.219276,MakeMyTrip flight Bangalore to Delhi,7623.0,Travel,expense,UPI,False,0.0
+3,2025-12-24 03:28:12.219276,Gas cylinder booking Indane,1164.0,Bills,expense,UPI,False,0.0
+3,2025-12-25 23:34:12.219276,Social media management fee,413.0,Income,income,UPI,False,0.0
+3,2025-12-25 20:25:12.219276,Laundry detergent detergent shop,266.0,Miscellaneous,expense,UPI,False,0.0
+3,2025-12-26 04:26:12.219276,Pub weekend entry cover charge,307.0,Entertainment,expense,UPI,False,0.0
+3,2025-12-27 00:08:12.219276,Train Ticket IRCTC,313.0,Transport,expense,UPI,False,0.0
+3,2025-12-27 03:29:12.219276,Zara retail mall,598.0,Shopping,expense,UPI,False,0.0
+3,2025-12-26 23:19:12.219276,Hostel Electricity surcharge,1994.0,Bills,expense,UPI,False,0.0
+3,2025-12-27 20:47:12.219276,Student health insurance premium,1230.0,Healthcare,expense,UPI,False,0.0
+3,2025-12-29 10:29:12.219276,Starbucks Coffee,302.0,Food,expense,UPI,False,0.0
+3,2025-12-28 23:35:12.219276,H&M jeans,3651.0,Shopping,expense,UPI,False,0.0
+3,2025-12-30 02:43:12.219276,Amusement park ticket,417.0,Entertainment,expense,UPI,False,0.0
+3,2025-12-31 02:14:12.219276,Metro Card Recharge Metro Station,317.0,Transport,expense,UPI,False,0.0
+3,2026-01-01 21:43:12.219276,Airbnb stay vacation room,5550.0,Travel,expense,UPI,False,0.0
+3,2026-01-02 20:36:12.219276,Car rental service,226.0,Transport,expense,UPI,False,0.0
+3,2026-01-04 09:09:12.219276,Laser tag game weekend,546.0,Entertainment,expense,UPI,False,0.0
+3,2026-01-07 03:26:12.219276,Gift box wrapper,192.0,Miscellaneous,expense,UPI,False,0.0
+3,2026-01-08 03:03:12.219276,Water supply bill,706.0,Bills,expense,UPI,False,0.0
+3,2026-01-10 06:33:12.219276,BookMyShow Movie Ticket PVR,1135.0,Entertainment,expense,UPI,False,0.0
+3,2026-01-10 09:04:12.219276,Student Mess Fees Monthly,287.0,Food,expense,UPI,False,0.0
+3,2026-01-10 11:30:12.219276,Maggie Point Gate 2,269.0,Food,expense,UPI,False,0.0
+3,2026-01-14 20:04:12.219276,MakeMyTrip flight Bangalore to Delhi,7712.0,Travel,expense,UPI,False,0.0
+3,2026-01-16 23:05:12.219276,Train Ticket IRCTC,340.0,Transport,expense,UPI,False,0.0
+3,2026-01-17 23:40:12.219276,Amazon shopping clothes,725.0,Shopping,expense,UPI,False,0.0
+3,2026-01-21 04:00:12.219276,Airtel broadband wifi,130.0,Bills,expense,UPI,False,0.0
+3,2026-01-21 03:06:12.219276,Train Ticket IRCTC,201.0,Transport,expense,UPI,False,0.0
+3,2026-01-22 07:19:12.219276,BookMyShow Movie Ticket PVR,1005.0,Entertainment,expense,UPI,False,0.0
+3,2026-01-21 23:55:12.219276,LUXURY DIAMOND RING JEWELLER,88219.0,Bills,expense,UPI,True,82.06995915091932
+3,2026-01-23 11:27:12.219276,Gas cylinder booking Indane,173.0,Bills,expense,UPI,False,0.0
+3,2026-01-25 08:09:12.219276,Board game cafe bill,738.0,Entertainment,expense,UPI,False,0.0
+3,2026-01-25 12:40:12.219276,MIDNIGHT SUSPICIOUS - Gift box wrapper,456.0,Miscellaneous,expense,UPI,True,80.7375120892519
+3,2026-01-29 00:34:12.219276,Part time tutoring kid,213.0,Income,income,UPI,False,0.0
+3,2026-01-30 10:06:12.219276,Myntra t-shirt purchase,3533.0,Shopping,expense,UPI,False,0.0
+3,2026-01-30 07:24:12.219276,Train Ticket IRCTC,344.0,Transport,expense,UPI,False,0.0
+3,2026-01-30 21:38:12.219276,Eye test & spectacles frames,1316.0,Healthcare,expense,UPI,False,0.0
+3,2026-02-01 11:33:12.219276,Decathlon sports gear,3739.0,Shopping,expense,UPI,False,0.0
+3,2026-02-02 11:09:12.219276,Luggage bag purchase Safari,7712.0,Travel,expense,UPI,False,0.0
+3,2026-02-01 20:36:12.219276,Airbnb stay vacation room,4639.0,Travel,expense,UPI,False,0.0
+3,2026-02-02 07:15:12.219276,RedBus booking home town,2030.0,Travel,expense,UPI,False,0.0
+3,2026-02-03 11:05:12.219276,Temple donation offering,442.0,Miscellaneous,expense,UPI,False,0.0
+3,2026-02-02 21:24:12.219276,Temple donation offering,421.0,Miscellaneous,expense,UPI,False,0.0
+3,2026-02-03 04:26:12.219276,Uber Auto Ride,183.0,Transport,expense,UPI,False,0.0
+3,2026-02-05 06:41:12.219276,Metro Card Recharge Metro Station,298.0,Transport,expense,UPI,False,0.0
+3,2026-02-08 08:22:12.219276,Lost cash wallet,332.0,Miscellaneous,expense,UPI,False,0.0
+3,2026-02-09 01:21:12.219276,Noodles corner,191.0,Food,expense,UPI,False,0.0
+3,2026-02-11 00:19:12.219276,H&M jeans,2776.0,Shopping,expense,UPI,False,0.0
+3,2026-02-12 03:34:12.219276,Part time tutoring kid,495.0,Income,income,UPI,False,0.0
+3,2026-02-11 23:27:12.219276,Concert ticket EDM show,380.0,Entertainment,expense,UPI,False,0.0
+3,2026-02-12 23:29:12.219276,Petrol Pump HP,135.0,Transport,expense,UPI,False,0.0
+3,2026-02-13 03:05:12.219276,BookMyShow Movie Ticket PVR,573.0,Entertainment,expense,UPI,False,0.0
+3,2026-02-14 10:07:12.219276,CRITICAL SPIKE - Apollo Pharmacy medicines,10740.0,Healthcare,expense,UPI,True,81.58956273619181
+3,2026-02-14 20:23:12.219276,Airtel broadband wifi,2067.0,Bills,expense,UPI,False,0.0
+3,2026-02-15 22:51:12.219276,Eye test & spectacles frames,1329.0,Healthcare,expense,UPI,False,0.0
+3,2026-02-16 03:31:12.219276,Apollo Pharmacy medicines,328.0,Healthcare,expense,UPI,False,0.0
+3,2026-02-18 05:20:12.219276,Electricity bill board,2070.0,Bills,expense,UPI,False,0.0
+3,2026-02-18 05:36:12.219276,Multivitamins health supplements,1479.0,Healthcare,expense,UPI,False,0.0
+3,2026-02-19 09:09:12.219276,RedBus booking home town,6362.0,Travel,expense,UPI,False,0.0
+3,2026-02-19 03:00:12.219276,Local vegetable vendor,119.0,Food,expense,UPI,False,0.0
+3,2026-02-19 23:17:12.219276,Airbnb stay vacation room,6382.0,Travel,expense,UPI,False,0.0
+3,2026-02-21 01:57:12.219276,Travel agent booking ticket,3111.0,Travel,expense,UPI,False,0.0
+3,2026-02-24 02:26:12.219276,Local thrift store jacket,3420.0,Shopping,expense,UPI,False,0.0
+3,2026-02-24 23:36:12.219276,Cloud storage Google One,350.0,Bills,expense,UPI,False,0.0
+3,2026-02-26 01:04:12.219276,Hostel Electricity surcharge,1868.0,Bills,expense,UPI,False,0.0
+3,2026-02-28 00:51:12.219276,Metro Card Recharge Metro Station,242.0,Transport,expense,UPI,False,0.0
+3,2026-02-28 19:46:12.219276,Hotel room booking OYO,4586.0,Travel,expense,UPI,False,0.0
+3,2026-03-02 21:01:12.219276,Gas cylinder booking Indane,2348.0,Bills,expense,UPI,False,0.0
+3,2026-03-02 22:07:12.219276,RedBus booking home town,3144.0,Travel,expense,UPI,False,0.0
+3,2026-03-03 20:23:12.219276,Gas cylinder booking Indane,222.0,Bills,expense,UPI,False,0.0
+3,2026-03-05 10:24:12.219276,Ola Cab Booking,127.0,Transport,expense,UPI,False,0.0
+3,2026-03-05 05:22:12.219276,Shoppers Stop shoes,1681.0,Shopping,expense,UPI,False,0.0
+3,2026-03-05 10:52:12.219276,Hostel Electricity surcharge,752.0,Bills,expense,UPI,False,0.0
+3,2026-03-08 08:20:12.219276,Electricity bill board,1599.0,Bills,expense,UPI,False,0.0
+3,2026-03-09 00:42:12.219276,Laundry detergent detergent shop,366.0,Miscellaneous,expense,UPI,False,0.0
+3,2026-03-09 07:50:12.219276,Uber Auto Ride,167.0,Transport,expense,UPI,False,0.0
+3,2026-03-09 04:14:12.219276,ATM Cash withdrawal Self,334.0,Miscellaneous,expense,UPI,False,0.0
+3,2026-03-10 01:58:12.219276,Laundry detergent detergent shop,305.0,Miscellaneous,expense,UPI,False,0.0
+3,2026-03-12 09:22:12.219276,DTH TV recharge Tata Sky,1318.0,Bills,expense,UPI,False,0.0
+3,2026-03-12 07:52:12.219276,Auto Fare Cash,158.0,Transport,expense,UPI,False,0.0
+3,2026-03-13 04:46:12.219276,Eye test & spectacles frames,955.0,Healthcare,expense,UPI,False,0.0
+3,2026-03-15 05:36:12.219276,Gas cylinder booking Indane,649.0,Bills,expense,UPI,False,0.0
+3,2026-03-17 08:20:12.219276,Lost cash wallet,350.0,Miscellaneous,expense,UPI,False,0.0
+3,2026-03-20 10:47:12.219276,Gaming Zone Arcade Mall,337.0,Entertainment,expense,UPI,False,0.0
+3,2026-03-19 21:30:12.219276,Book Store college textbooks,3037.0,Shopping,expense,UPI,False,0.0
+3,2026-03-20 20:11:12.219276,Swiggy Delivery Hyderabad,174.0,Food,expense,UPI,False,0.0
+3,2026-03-20 19:49:12.219276,Petrol Pump HP,242.0,Transport,expense,UPI,False,0.0
+3,2026-03-21 23:29:12.219276,Amazon shopping clothes,712.0,Shopping,expense,UPI,False,0.0
+3,2026-03-22 04:48:12.219276,Gift box wrapper,445.0,Miscellaneous,expense,UPI,False,0.0
+3,2026-03-22 21:49:12.219276,Local thrift store jacket,2884.0,Shopping,expense,UPI,False,0.0
+3,2026-03-22 21:50:12.219276,Hotel room booking OYO,4745.0,Travel,expense,UPI,False,0.0
+3,2026-03-23 22:41:12.219276,Airbnb stay vacation room,5511.0,Travel,expense,UPI,False,0.0
+3,2026-03-25 01:57:12.219276,Swiggy Delivery Hyderabad,178.0,Food,expense,UPI,False,0.0
+3,2026-03-25 07:43:12.219276,Gym membership monthly fee,1444.0,Healthcare,expense,UPI,False,0.0
+3,2026-03-24 22:45:12.219276,MakeMyTrip flight Bangalore to Delhi,4624.0,Travel,expense,UPI,False,0.0
+3,2026-03-27 01:48:12.219276,Gift box wrapper,320.0,Miscellaneous,expense,UPI,False,0.0
+3,2026-03-28 09:50:12.219276,Hostel Electricity surcharge,2451.0,Bills,expense,UPI,False,0.0
+3,2026-03-30 05:23:12.219276,Local thrift store jacket,843.0,Shopping,expense,UPI,False,0.0
+3,2026-03-31 10:43:12.219276,First aid box bandage,312.0,Healthcare,expense,UPI,False,0.0
+3,2026-03-31 09:45:12.219276,Dentist consultation clinic,1136.0,Healthcare,expense,UPI,False,0.0
+3,2026-03-31 06:16:12.219276,Concert ticket EDM show,617.0,Entertainment,expense,UPI,False,0.0
+3,2026-04-01 00:31:12.219276,Electricity bill board,1511.0,Bills,expense,UPI,False,0.0
+3,2026-04-03 05:28:12.219276,Concert ticket EDM show,966.0,Entertainment,expense,UPI,False,0.0
+3,2026-04-03 01:04:12.219276,Lost cash wallet,370.0,Miscellaneous,expense,UPI,False,0.0
+3,2026-04-10 11:20:12.219276,Shoppers Stop shoes,479.0,Shopping,expense,UPI,False,0.0
+3,2026-04-11 01:56:12.219276,Shoppers Stop shoes,1865.0,Shopping,expense,UPI,False,0.0
+3,2026-04-11 09:34:12.219276,Dentist consultation clinic,1156.0,Healthcare,expense,UPI,False,0.0
+3,2026-04-10 19:58:12.219276,BookMyShow Movie Ticket PVR,358.0,Entertainment,expense,UPI,False,0.0
+3,2026-04-13 08:04:12.219276,Amusement park ticket,569.0,Entertainment,expense,UPI,False,0.0
+3,2026-04-14 00:38:12.219276,Travel agent booking ticket,6093.0,Travel,expense,UPI,False,0.0
+3,2026-04-15 05:34:12.219276,Part time tutoring kid,2213.0,Income,income,UPI,False,0.0
+3,2026-04-16 03:30:12.219276,RedBus booking home town,5489.0,Travel,expense,UPI,False,0.0
+3,2026-04-16 11:24:12.219276,Jio Prepaid Mobile Recharge,2444.0,Bills,expense,UPI,False,0.0
+3,2026-04-17 08:29:12.219276,Gym membership monthly fee,443.0,Healthcare,expense,UPI,False,0.0
+3,2026-04-16 19:57:12.219276,RedBus booking home town,5318.0,Travel,expense,UPI,False,0.0
+3,2026-04-17 00:48:12.219276,Student Mess Fees Monthly,356.0,Food,expense,UPI,False,0.0
+3,2026-04-18 00:42:12.219276,First aid box bandage,791.0,Healthcare,expense,UPI,False,0.0
+3,2026-04-22 04:56:12.219276,GitHub Copilot Subscription,2367.0,Bills,expense,UPI,False,0.0
+3,2026-04-22 09:39:12.219276,Travel agent booking ticket,6470.0,Travel,expense,UPI,False,0.0
+3,2026-04-21 20:33:12.219276,RedBus booking home town,6417.0,Travel,expense,UPI,False,0.0
+3,2026-04-25 06:37:12.219276,ATM Cash withdrawal Self,254.0,Miscellaneous,expense,UPI,False,0.0
+3,2026-04-28 05:45:12.219276,Petrol Pump HP,237.0,Transport,expense,UPI,False,0.0
+3,2026-04-28 08:11:12.219276,DTH TV recharge Tata Sky,786.0,Bills,expense,UPI,False,0.0
+3,2026-04-29 11:07:12.219276,Bike taxi Rapido,230.0,Transport,expense,UPI,False,0.0
+3,2026-04-28 19:46:12.219276,Travel agent booking ticket,4353.0,Travel,expense,UPI,False,0.0
+3,2026-04-28 23:32:12.219276,Water supply bill,2198.0,Bills,expense,UPI,False,0.0
+3,2026-05-03 03:28:12.219276,Stationery shop notebook,427.0,Shopping,expense,UPI,False,0.0
+3,2026-05-04 20:36:12.219276,Electricity bill board,657.0,Bills,expense,UPI,False,0.0
+3,2026-05-06 23:21:12.219276,Bike taxi Rapido,141.0,Transport,expense,UPI,False,0.0
+3,2026-05-09 09:45:12.219276,Stationery shop notebook,2054.0,Shopping,expense,UPI,False,0.0
+3,2026-05-10 05:43:12.219276,Book Store college textbooks,1033.0,Shopping,expense,UPI,False,0.0
+3,2026-05-11 09:41:12.219276,Spotify Premium monthly plan,953.0,Entertainment,expense,UPI,False,0.0
+3,2026-05-11 02:02:12.219276,RedBus booking home town,2518.0,Travel,expense,UPI,False,0.0
+3,2026-05-11 05:45:12.219276,Pub weekend entry cover charge,531.0,Entertainment,expense,UPI,False,0.0
+3,2026-05-14 10:12:12.219276,Luggage bag purchase Safari,7861.0,Travel,expense,UPI,False,0.0
+3,2026-05-15 00:24:12.219276,Friend Splitwise repayment,116.0,Miscellaneous,expense,UPI,False,0.0
+3,2026-05-14 21:30:12.219276,DTH TV recharge Tata Sky,322.0,Bills,expense,UPI,False,0.0
+3,2026-05-16 01:34:12.219276,Freelance Web Design payment,271.0,Income,income,UPI,False,0.0
+3,2026-05-16 02:29:12.219276,MakeMyTrip flight Bangalore to Delhi,4841.0,Travel,expense,UPI,False,0.0
+3,2026-05-18 02:34:12.219276,Social media management fee,885.0,Income,income,UPI,False,0.0
+3,2026-05-20 02:17:12.219276,Biryani House Restaurant,292.0,Food,expense,UPI,False,0.0

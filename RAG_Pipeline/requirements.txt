@@ -1,0 +1,11 @@
+langchain
+langchain-community
+langchain-google-genai
+langchain-huggingface
+chromadb
+sentence-transformers
+python-dotenv
+pypdf
+docx2txt
+langchain-chroma
+

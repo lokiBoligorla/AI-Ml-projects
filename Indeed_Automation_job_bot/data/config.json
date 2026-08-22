@@ -1,0 +1,10 @@
+{
+  "role": "Frontend developer",
+  "matchThreshold": 70,
+  "delayMin": 3000,
+  "delayMax": 8000,
+  "smtpHost": "",
+  "smtpPort": "587",
+  "smtpUser": "",
+  "smtpPass": ""
+}

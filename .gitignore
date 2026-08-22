@@ -1,0 +1,26 @@
+ALL_DOCUMENTS/
+spring-tools-for-eclipse-5.0.1.RELEASE-e4.38.0-win32.win32.x86_64/
+features_raw.csv/
+Django/
+Playwright/
+CJUBCI/
+Django/
+Emotiv Epoc+ Data Extraction/
+indeed_bot_2/
+Indeed_bot_python/
+indeed-automation-bot-main/
+Keyword extraction/
+KeywordExtraction/
+LangChainUpdated/
+spring/
+This/
+WhiteVolunteer-main/
+node_modules/
+__pycache__/
+*.pyc
+.env
+.venv/
+venv/
+Next-Word-Prediction-with-NLP-and-Deep-Learning/nextword1.h5
+credit-card-fraud-detection-main/datasets/creditcard.csv
+node_modules/

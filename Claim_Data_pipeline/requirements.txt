@@ -1,0 +1,14 @@
+requests
+httpx
+beautifulsoup4
+feedparser
+pdfplumber
+newspaper3k
+pydantic
+pymongo
+apscheduler
+openai
+python-dotenv
+google-generativeai
+selenium
+webdriver-manager

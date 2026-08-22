@@ -1,0 +1,216 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>VoiceFlow — Advanced Voice to Text Engine</title>
+    <!-- Google Fonts -->
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=JetBrains+Mono:wght@400;500&family=Outfit:wght@300;400;500;600;700&display=swap" rel="stylesheet">
+    <!-- FontAwesome Icons -->
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
+    <!-- Custom CSS -->
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <!-- Ambient Background Gradients -->
+    <div class="ambient-glow bg-glow-1"></div>
+    <div class="ambient-glow bg-glow-2"></div>
+    
+    <div class="app-container">
+        <!-- Header -->
+        <header class="app-header">
+            <div class="logo-area">
+                <div class="logo-icon">
+                    <i class="fa-solid fa-waveform"></i>
+                </div>
+                <div class="logo-text">
+                    <h1>VoiceFlow</h1>
+                    <span>Advanced Transcription Suite</span>
+                </div>
+            </div>
+            <div class="system-status" id="systemStatus">
+                <span class="status-dot green"></span>
+                <span class="status-text">Server Online</span>
+            </div>
+        </header>
+
+        <!-- Main Content Grid -->
+        <main class="app-grid">
+            <!-- Left Panel: Controls and Input -->
+            <section class="panel-left">
+                <!-- Engine Configuration Card -->
+                <div class="glass-card config-card">
+                    <h3 class="card-title"><i class="fa-solid fa-sliders"></i> Engine Settings</h3>
+                    
+                    <div class="form-group">
+                        <label for="engineSelect">Transcription Engine</label>
+                        <select id="engineSelect" class="form-control">
+                            <option value="google" selected>Google Speech Recognition (Free & Fast)</option>
+                            <option value="openai_api">OpenAI Whisper API (Cloud & Ultra-accurate)</option>
+                            <option value="whisper_local">Whisper Local Model (CPU/GPU Offline)</option>
+                        </select>
+                    </div>
+
+                    <div id="openaiKeyGroup" class="form-group hidden">
+                        <label for="openaiKey">OpenAI API Key</label>
+                        <div class="input-with-icon">
+                            <i class="fa-solid fa-key"></i>
+                            <input type="password" id="openaiKey" class="form-control" placeholder="sk-proj-...">
+                        </div>
+                        <span class="help-text">Your key is processed securely and never saved on the server.</span>
+                    </div>
+
+                    <div class="form-group">
+                        <label for="languageSelect">Language (Optional)</label>
+                        <select id="languageSelect" class="form-control">
+                            <option value="en-US">English (US)</option>
+                            <option value="es-ES">Spanish</option>
+                            <option value="fr-FR">French</option>
+                            <option value="de-DE">German</option>
+                            <option value="it-IT">Italian</option>
+                            <option value="hi-IN">Hindi</option>
+                            <option value="zh-CN">Chinese (Simplified)</option>
+                            <option value="auto">Auto Detect (Whisper Only)</option>
+                        </select>
+                    </div>
+                </div>
+
+                <!-- Input Method Card (Tabs) -->
+                <div class="glass-card input-card">
+                    <div class="tab-headers">
+                        <button class="tab-btn active" data-tab="recordTab">
+                            <i class="fa-solid fa-microphone"></i> Record Live
+                        </button>
+                        <button class="tab-btn" data-tab="uploadTab">
+                            <i class="fa-solid fa-cloud-arrow-up"></i> Upload File
+                        </button>
+                    </div>
+
+                    <div class="tab-content">
+                        <!-- Record Tab -->
+                        <div id="recordTab" class="tab-pane active">
+                            <div class="visualizer-container">
+                                <canvas id="waveformCanvas"></canvas>
+                                <div class="timer" id="recordTimer">00:00</div>
+                            </div>
+                            
+                            <div class="control-actions">
+                                <button id="recordBtn" class="btn btn-primary btn-record">
+                                    <span class="btn-icon"><i class="fa-solid fa-microphone"></i></span>
+                                    <span class="btn-label">Start Recording</span>
+                                </button>
+                                <button id="stopRecordBtn" class="btn btn-danger hidden">
+                                    <span class="btn-icon"><i class="fa-solid fa-square"></i></span>
+                                    <span class="btn-label">Stop & Transcribe</span>
+                                </button>
+                            </div>
+                        </div>
+
+                        <!-- Upload Tab -->
+                        <div id="uploadTab" class="tab-pane">
+                            <div class="upload-dropzone" id="dropZone">
+                                <input type="file" id="fileInput" accept="audio/*" class="hidden">
+                                <i class="fa-solid fa-cloud-arrow-up drop-icon"></i>
+                                <p class="drop-text">Drag & drop your audio file here or <span class="highlight">browse</span></p>
+                                <span class="drop-subtext">Supports WAV, MP3, M4A, FLAC (Max 25MB)</span>
+                            </div>
+
+                            <div class="file-details hidden" id="fileDetails">
+                                <div class="file-info-header">
+                                    <i class="fa-solid fa-file-audio file-icon"></i>
+                                    <div class="file-metadata">
+                                        <div class="file-name" id="fileName">audio_sample.wav</div>
+                                        <div class="file-size" id="fileSize">1.2 MB</div>
+                                    </div>
+                                    <button class="btn-remove-file" id="removeFileBtn">
+                                        <i class="fa-solid fa-xmark"></i>
+                                    </button>
+                                </div>
+                                <button id="transcribeFileBtn" class="btn btn-primary btn-block">
+                                    <i class="fa-solid fa-wand-magic-sparkles"></i> Transcribe Audio File
+                                </button>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </section>
+
+            <!-- Right Panel: Results & Analytics -->
+            <section class="panel-right">
+                <div class="glass-card results-card">
+                    <div class="results-header">
+                        <h3 class="card-title"><i class="fa-solid fa-align-left"></i> Transcript Output</h3>
+                        <div class="results-actions">
+                            <button id="copyBtn" class="btn btn-secondary btn-sm" title="Copy to clipboard" disabled>
+                                <i class="fa-solid fa-copy"></i> Copy
+                            </button>
+                            <button id="downloadTxtBtn" class="btn btn-secondary btn-sm" title="Download TXT" disabled>
+                                <i class="fa-solid fa-file-arrow-down"></i> TXT
+                            </button>
+                            <button id="downloadJsonBtn" class="btn btn-secondary btn-sm" title="Download JSON" disabled>
+                                <i class="fa-solid fa-code"></i> JSON
+                            </button>
+                        </div>
+                    </div>
+
+                    <!-- Transcription Text Output -->
+                    <div class="transcript-viewport">
+                        <!-- Loading State -->
+                        <div id="loadingState" class="loading-state hidden">
+                            <div class="spinner-pulse">
+                                <div></div>
+                                <div></div>
+                            </div>
+                            <p class="loading-text">Analyzing audio and transcribing...</p>
+                            <span class="loading-subtext">This can take a few seconds depending on the engine</span>
+                        </div>
+
+                        <!-- Empty State -->
+                        <div id="emptyState" class="empty-state">
+                            <i class="fa-solid fa-waveform empty-icon animate-pulse"></i>
+                            <p>Ready to transcribe</p>
+                            <span>Start recording or upload an audio file to see the transcript here.</span>
+                        </div>
+
+                        <!-- Transcript Text -->
+                        <div id="transcriptText" class="transcript-text hidden" contenteditable="true" spellcheck="true"></div>
+                    </div>
+
+                    <!-- Analytics Dashboard -->
+                    <div class="analytics-section">
+                        <h4 class="analytics-title"><i class="fa-solid fa-chart-simple"></i> Transcription Insights</h4>
+                        <div class="metrics-grid">
+                            <div class="metric-card">
+                                <span class="metric-label">Duration</span>
+                                <span class="metric-value" id="valDuration">--</span>
+                            </div>
+                            <div class="metric-card">
+                                <span class="metric-label">Word Count</span>
+                                <span class="metric-value" id="valWords">--</span>
+                            </div>
+                            <div class="metric-card">
+                                <span class="metric-label">Latency</span>
+                                <span class="metric-value" id="valLatency">--</span>
+                            </div>
+                            <div class="metric-card">
+                                <span class="metric-label">Speech Speed</span>
+                                <span class="metric-value" id="valSpeed">--</span>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </section>
+        </main>
+    </div>
+
+    <!-- Notification Toast -->
+    <div id="toast" class="toast hidden">
+        <i class="fa-solid fa-circle-info toast-icon"></i>
+        <span class="toast-message">Message text</span>
+    </div>
+
+    <script src="app.js"></script>
+</body>
+</html>

@@ -1,0 +1,926 @@
+user_id,date,description,amount,category,type,source,is_anomaly,anomaly_score
+1,2025-05-25 03:43:12.219276,Chai Tapri Tea & Samosa,161.0,Food,expense,NetBanking,False,0.0
+1,2025-05-25 22:09:12.219276,Local vegetable vendor,315.0,Food,expense,Credit Card,False,0.0
+1,2025-05-26 02:19:12.219276,H&M jeans,2933.0,Shopping,expense,NetBanking,False,0.0
+1,2025-05-28 03:38:12.219276,College Tuition Fee Semester 1,165.0,Education,expense,Credit Card,False,0.0
+1,2025-05-28 23:50:12.219276,Udemy Python Course,910.0,Education,expense,Credit Card,False,0.0
+1,2025-05-30 01:06:12.219276,University Exam Fee,423.0,Education,expense,NetBanking,False,0.0
+1,2025-05-31 02:37:12.219276,Lab manual printout charges,33788.0,Education,expense,NetBanking,False,0.0
+1,2025-06-01 07:02:12.219276,Hostel laundry charges,101.0,Hostel,expense,Credit Card,False,0.0
+1,2025-06-03 02:08:12.219276,Juice Shop hostel,201.0,Food,expense,Credit Card,False,0.0
+1,2025-06-06 10:47:12.219276,Zomato Order,201.0,Food,expense,Credit Card,False,0.0
+1,2025-06-06 04:33:12.219276,Netflix subscription premium,487.0,Entertainment,expense,Credit Card,False,0.0
+1,2025-06-07 23:30:12.219276,ATM Cash withdrawal Self,395.0,Miscellaneous,expense,Credit Card,False,0.0
+1,2025-06-08 02:16:12.219276,Temple donation offering,317.0,Miscellaneous,expense,NetBanking,False,0.0
+1,2025-06-09 09:54:12.219276,Book Store college textbooks,936.0,Shopping,expense,NetBanking,False,0.0
+1,2025-06-16 09:25:12.219276,Netflix subscription premium,517.0,Entertainment,expense,NetBanking,False,0.0
+1,2025-06-16 21:28:12.219276,Zara retail mall,3625.0,Shopping,expense,Credit Card,False,0.0
+1,2025-06-19 01:11:12.219276,Hostel Washing Machine Token,57.0,Hostel,expense,NetBanking,False,0.0
+1,2025-06-19 06:01:12.219276,Amazon shopping clothes,844.0,Shopping,expense,NetBanking,False,0.0
+1,2025-06-19 23:46:12.219276,H&M jeans,2072.0,Shopping,expense,NetBanking,False,0.0
+1,2025-06-22 10:59:12.219276,Pub weekend entry cover charge,548.0,Entertainment,expense,Credit Card,False,0.0
+1,2025-06-23 09:27:12.219276,GitHub Copilot Subscription,2389.0,Bills,expense,Credit Card,False,0.0
+1,2025-06-23 09:50:12.219276,Hostel Room Heater Surcharge,90.0,Hostel,expense,Credit Card,False,0.0
+1,2025-06-24 06:31:12.219276,Local vegetable vendor,226.0,Food,expense,NetBanking,False,0.0
+1,2025-06-24 00:19:12.219276,Hostel Room Rent Monthly AC,85.0,Hostel,expense,Credit Card,False,0.0
+1,2025-06-25 03:05:12.219276,Maggie Point Gate 2,232.0,Food,expense,Credit Card,False,0.0
+1,2025-06-25 06:16:12.219276,Auto Fare Cash,253.0,Transport,expense,Credit Card,False,0.0
+1,2025-06-26 00:37:12.219276,Zomato Order,409.0,Food,expense,Credit Card,False,0.0
+1,2025-06-26 06:22:12.219276,Book Store college textbooks,1740.0,Shopping,expense,NetBanking,False,0.0
+1,2025-06-30 09:16:12.219276,Chai Tapri Tea & Samosa,369.0,Food,expense,NetBanking,False,0.0
+1,2025-07-02 05:45:12.219276,Gift box wrapper,244.0,Miscellaneous,expense,Credit Card,False,0.0
+1,2025-07-02 04:30:12.219276,Jio Prepaid Mobile Recharge,1553.0,Bills,expense,NetBanking,False,0.0
+1,2025-07-03 09:21:12.219276,Lost cash wallet,292.0,Miscellaneous,expense,NetBanking,False,0.0
+1,2025-07-03 04:50:12.219276,Hostel Washing Machine Token,5941.0,Hostel,expense,NetBanking,False,0.0
+1,2025-07-04 04:20:12.219276,University Exam Fee,479.0,Education,expense,Credit Card,False,0.0
+1,2025-07-05 02:57:12.219276,Lost cash wallet,101.0,Miscellaneous,expense,NetBanking,False,0.0
+1,2025-07-05 05:45:12.219276,Biryani House Restaurant,225.0,Food,expense,Credit Card,False,0.0
+1,2025-07-09 03:23:12.219276,Myntra t-shirt purchase,1416.0,Shopping,expense,Credit Card,False,0.0
+1,2025-07-09 08:53:12.219276,Hostel Room Heater Surcharge,165.0,Hostel,expense,NetBanking,False,0.0
+1,2025-07-10 23:38:12.219276,Juice Shop hostel,195.0,Food,expense,NetBanking,False,0.0
+1,2025-07-11 22:12:12.219276,Concert ticket EDM show,1174.0,Entertainment,expense,Credit Card,False,0.0
+1,2025-07-12 21:22:12.219276,ATM Cash withdrawal Self,441.0,Miscellaneous,expense,NetBanking,False,0.0
+1,2025-07-13 01:11:12.219276,Noodles corner,345.0,Food,expense,NetBanking,False,0.0
+1,2025-07-13 05:54:12.219276,Amusement park ticket,336.0,Entertainment,expense,Credit Card,False,0.0
+1,2025-07-13 05:16:12.219276,KFC Chicken meal,162.0,Food,expense,Credit Card,False,0.0
+1,2025-07-13 23:23:12.219276,Noodles corner,125.0,Food,expense,NetBanking,False,0.0
+1,2025-07-14 10:22:12.219276,Starbucks Coffee,345.0,Food,expense,Credit Card,False,0.0
+1,2025-07-14 10:30:12.219276,Starbucks Coffee,216.0,Food,expense,NetBanking,False,0.0
+1,2025-07-20 11:04:12.219276,Hostel Electricity surcharge,2184.0,Bills,expense,Credit Card,False,0.0
+1,2025-07-21 08:03:12.219276,Noodles corner,355.0,Food,expense,NetBanking,False,0.0
+1,2025-07-21 20:54:12.219276,Car rental service,226.0,Transport,expense,Credit Card,False,0.0
+1,2025-07-22 20:20:12.219276,KFC Chicken meal,305.0,Food,expense,Credit Card,False,0.0
+1,2025-07-24 07:54:12.219276,Gift box wrapper,253.0,Miscellaneous,expense,NetBanking,False,0.0
+1,2025-07-26 04:16:12.219276,Starbucks Coffee,316.0,Food,expense,Credit Card,False,0.0
+1,2025-07-26 04:03:12.219276,Gas cylinder booking Indane,1325.0,Bills,expense,Credit Card,False,0.0
+1,2025-07-27 03:34:12.219276,Sunglasses purchase store,1609.0,Shopping,expense,Credit Card,False,0.0
+1,2025-07-29 05:21:12.219276,Hostel Washing Machine Token,92.0,Hostel,expense,Credit Card,False,0.0
+1,2025-07-31 19:50:12.219276,Board game cafe bill,899.0,Entertainment,expense,Credit Card,False,0.0
+1,2025-08-01 23:17:12.219276,Laundry detergent detergent shop,471.0,Miscellaneous,expense,NetBanking,False,0.0
+1,2025-08-05 02:02:12.219276,Laundry detergent detergent shop,193.0,Miscellaneous,expense,NetBanking,False,0.0
+1,2025-08-05 06:37:12.219276,Jio Prepaid Mobile Recharge,1585.0,Bills,expense,NetBanking,False,0.0
+1,2025-08-04 22:16:12.219276,Concert ticket EDM show,538.0,Entertainment,expense,Credit Card,False,0.0
+1,2025-08-06 20:42:12.219276,Car rental service,195.0,Transport,expense,NetBanking,False,0.0
+1,2025-08-07 23:02:12.219276,Local vegetable vendor,112.0,Food,expense,NetBanking,False,0.0
+1,2025-08-07 23:05:12.219276,Swiggy Delivery Hyderabad,325.0,Food,expense,Credit Card,False,0.0
+1,2025-08-09 08:00:12.219276,Jio Prepaid Mobile Recharge,1794.0,Bills,expense,Credit Card,False,0.0
+1,2025-08-09 06:43:12.219276,Maggie Point Gate 2,298.0,Food,expense,NetBanking,False,0.0
+1,2025-08-09 20:52:12.219276,Student Mess Fees Monthly,261.0,Food,expense,Credit Card,False,0.0
+1,2025-08-10 19:45:12.219276,Board game cafe bill,203.0,Entertainment,expense,NetBanking,False,0.0
+1,2025-08-11 06:34:12.219276,Sunglasses purchase store,3522.0,Shopping,expense,NetBanking,False,0.0
+1,2025-08-13 06:23:12.219276,Amusement park ticket,848.0,Entertainment,expense,NetBanking,False,0.0
+1,2025-08-13 09:05:12.219276,ATM Cash withdrawal Self,395.0,Miscellaneous,expense,Credit Card,False,0.0
+1,2025-08-14 08:41:12.219276,Local thrift store jacket,3492.0,Shopping,expense,NetBanking,False,0.0
+1,2025-08-14 21:59:12.219276,Bike taxi Rapido,316.0,Transport,expense,NetBanking,False,0.0
+1,2025-08-17 01:25:12.219276,Concert ticket EDM show,385.0,Entertainment,expense,NetBanking,False,0.0
+1,2025-08-16 22:01:12.219276,Laundry detergent detergent shop,475.0,Miscellaneous,expense,NetBanking,False,0.0
+1,2025-08-18 05:21:12.219276,Pub weekend entry cover charge,970.0,Entertainment,expense,Credit Card,False,0.0
+1,2025-08-21 04:11:12.219276,Coursera Certificate subscription,1060.0,Education,expense,NetBanking,False,0.0
+1,2025-08-21 09:36:12.219276,Maggie Point Gate 2,339.0,Food,expense,Credit Card,False,0.0
+1,2025-08-22 10:07:12.219276,University Exam Fee,453.0,Education,expense,Credit Card,False,0.0
+1,2025-08-22 21:24:12.219276,Scientific Calculator Casio,893.0,Education,expense,NetBanking,False,0.0
+1,2025-08-24 04:50:12.219276,Maggie Point Gate 2,128.0,Food,expense,Credit Card,False,0.0
+1,2025-08-25 08:15:12.219276,Biryani House Restaurant,442.0,Food,expense,NetBanking,False,0.0
+1,2025-08-25 06:35:12.219276,Coursera Certificate subscription,1178.0,Education,expense,Credit Card,False,0.0
+1,2025-08-25 01:48:12.219276,Library overdue book fine,538.0,Education,expense,Credit Card,False,0.0
+1,2025-08-27 23:19:12.219276,Amazon shopping clothes,3026.0,Shopping,expense,NetBanking,False,0.0
+1,2025-08-28 20:00:12.219276,Spotify Premium monthly plan,604.0,Entertainment,expense,NetBanking,False,0.0
+1,2025-08-29 23:42:12.219276,Uber Auto Ride,193.0,Transport,expense,NetBanking,False,0.0
+1,2025-08-31 20:14:12.219276,Pub weekend entry cover charge,1086.0,Entertainment,expense,Credit Card,False,0.0
+1,2025-09-01 08:34:12.219276,PG accommodation rent,111.0,Hostel,expense,NetBanking,False,0.0
+1,2025-09-03 23:36:12.219276,Chai Tapri Tea & Samosa,377.0,Food,expense,NetBanking,False,0.0
+1,2025-09-05 01:25:12.219276,KFC Chicken meal,430.0,Food,expense,Credit Card,False,0.0
+1,2025-09-04 20:52:12.219276,Zomato Order,446.0,Food,expense,Credit Card,False,0.0
+1,2025-09-05 21:29:12.219276,Chai Tapri Tea & Samosa,411.0,Food,expense,NetBanking,False,0.0
+1,2025-09-07 10:31:12.219276,Chai Tapri Tea & Samosa,268.0,Food,expense,Credit Card,False,0.0
+1,2025-09-07 07:33:12.219276,Bowling Alley Arena,532.0,Entertainment,expense,Credit Card,False,0.0
+1,2025-09-08 05:02:12.219276,Shoppers Stop shoes,820.0,Shopping,expense,NetBanking,False,0.0
+1,2025-09-09 07:06:12.219276,Concert ticket EDM show,267.0,Entertainment,expense,Credit Card,False,0.0
+1,2025-09-08 20:42:12.219276,Swiggy Delivery Hyderabad,153.0,Food,expense,Credit Card,False,0.0
+1,2025-09-10 10:22:12.219276,Supermarket Groceries,310.0,Food,expense,NetBanking,False,0.0
+1,2025-09-10 06:15:12.219276,Biryani House Restaurant,150.0,Food,expense,Credit Card,False,0.0
+1,2025-09-10 09:47:12.219276,Board game cafe bill,391.0,Entertainment,expense,NetBanking,False,0.0
+1,2025-09-10 22:25:12.219276,Noodles corner,168.0,Food,expense,Credit Card,False,0.0
+1,2025-09-17 10:49:12.219276,Noodles corner,401.0,Food,expense,NetBanking,False,0.0
+1,2025-09-19 08:49:12.219276,Zomato Order,105.0,Food,expense,Credit Card,False,0.0
+1,2025-09-20 10:05:12.219276,Coaching class monthly fee,488.0,Education,expense,Credit Card,False,0.0
+1,2025-09-21 05:08:12.219276,College Tuition Fee Semester 1,1113.0,Education,expense,Credit Card,False,0.0
+1,2025-09-21 07:22:12.219276,KFC Chicken meal,135.0,Food,expense,NetBanking,False,0.0
+1,2025-09-23 07:22:12.219276,Student Mess Fees Monthly,271.0,Food,expense,NetBanking,False,0.0
+1,2025-09-25 06:17:12.219276,Lost cash wallet,293.0,Miscellaneous,expense,NetBanking,False,0.0
+1,2025-09-26 07:54:12.219276,Bike taxi Rapido,196.0,Transport,expense,Credit Card,False,0.0
+1,2025-09-27 10:46:12.219276,Hostel Washing Machine Token,189.0,Hostel,expense,NetBanking,False,0.0
+1,2025-09-27 05:19:12.219276,Auto Fare Cash,315.0,Transport,expense,NetBanking,False,0.0
+1,2025-09-27 03:52:12.219276,Toll plaza fee,280.0,Transport,expense,NetBanking,False,0.0
+1,2025-09-28 04:21:12.219276,Sunglasses purchase store,723.0,Shopping,expense,Credit Card,False,0.0
+1,2025-09-28 03:42:12.219276,Jio Prepaid Mobile Recharge,927.0,Bills,expense,NetBanking,False,0.0
+1,2025-09-30 11:04:12.219276,CRITICAL SPIKE - Supermarket Groceries,2250.0,Food,expense,Credit Card,True,83.75881414449042
+1,2025-10-03 00:28:12.219276,Stationery shop notebook,3026.0,Shopping,expense,Credit Card,False,0.0
+1,2025-10-06 05:53:12.219276,Campus Canteen Maggie,276.0,Food,expense,NetBanking,False,0.0
+1,2025-10-08 22:31:12.219276,Supermarket Groceries,185.0,Food,expense,Credit Card,False,0.0
+1,2025-10-08 19:59:12.219276,ATM Cash withdrawal Self,336.0,Miscellaneous,expense,NetBanking,False,0.0
+1,2025-10-13 23:51:12.219276,Hostel Room Heater Surcharge,108.0,Hostel,expense,NetBanking,False,0.0
+1,2025-10-13 19:49:12.219276,Toll plaza fee,87.0,Transport,expense,Credit Card,False,0.0
+1,2025-10-13 20:49:12.219276,Ola Cab Booking,81.0,Transport,expense,Credit Card,False,0.0
+1,2025-10-15 00:16:12.219276,Gift box wrapper,469.0,Miscellaneous,expense,NetBanking,False,0.0
+1,2025-10-16 08:24:12.219276,Board game cafe bill,1165.0,Entertainment,expense,NetBanking,False,0.0
+1,2025-10-16 07:45:12.219276,Hostel Washing Machine Token,156.0,Hostel,expense,NetBanking,False,0.0
+1,2025-10-18 03:18:12.219276,Toll plaza fee,90.0,Transport,expense,Credit Card,False,0.0
+1,2025-10-19 10:08:12.219276,Gaming Zone Arcade Mall,808.0,Entertainment,expense,Credit Card,False,0.0
+1,2025-10-19 23:25:12.219276,Shoppers Stop shoes,2500.0,Shopping,expense,Credit Card,False,0.0
+1,2025-10-19 21:10:12.219276,Gas cylinder booking Indane,932.0,Bills,expense,Credit Card,False,0.0
+1,2025-10-22 05:50:12.219276,Shell Fuel Station,321.0,Transport,expense,Credit Card,False,0.0
+1,2025-10-22 00:42:12.219276,Cloud storage Google One,1987.0,Bills,expense,NetBanking,False,0.0
+1,2025-10-24 00:40:12.219276,Hostel Washing Machine Token,54.0,Hostel,expense,Credit Card,False,0.0
+1,2025-10-25 19:47:12.219276,PG accommodation rent,58.0,Hostel,expense,NetBanking,False,0.0
+1,2025-10-27 08:23:12.219276,College Tuition Fee Semester 1,575.0,Education,expense,NetBanking,False,0.0
+1,2025-10-28 08:45:12.219276,Cloud storage Google One,1034.0,Bills,expense,Credit Card,False,0.0
+1,2025-10-31 08:40:12.219276,Library overdue book fine,278.0,Education,expense,Credit Card,False,0.0
+1,2025-10-31 23:38:12.219276,Dominos Pizza,217.0,Food,expense,Credit Card,False,0.0
+1,2025-10-31 21:57:12.219276,Student Mess Fees Monthly,221.0,Food,expense,Credit Card,False,0.0
+1,2025-11-03 10:42:12.219276,Sunglasses purchase store,683.0,Shopping,expense,Credit Card,False,0.0
+1,2025-11-03 22:02:12.219276,H&M jeans,1031.0,Shopping,expense,Credit Card,False,0.0
+1,2025-11-04 21:24:12.219276,Laundry detergent detergent shop,323.0,Miscellaneous,expense,Credit Card,False,0.0
+1,2025-11-05 06:24:12.219276,ATM Cash withdrawal Self,338.0,Miscellaneous,expense,Credit Card,False,0.0
+1,2025-11-06 23:02:12.219276,Lab manual printout charges,1167.0,Education,expense,Credit Card,False,0.0
+1,2025-11-07 23:17:12.219276,University Exam Fee,335.0,Education,expense,NetBanking,False,0.0
+1,2025-11-08 00:45:12.219276,Hostel Room Heater Surcharge,168.0,Hostel,expense,Credit Card,False,0.0
+1,2025-11-09 07:34:12.219276,Netflix subscription premium,554.0,Entertainment,expense,Credit Card,False,0.0
+1,2025-11-08 22:50:12.219276,Hostel Security Deposit Refundable,143.0,Hostel,expense,Credit Card,False,0.0
+1,2025-11-11 23:46:12.219276,Electricity bill board,1570.0,Bills,expense,Credit Card,False,0.0
+1,2025-11-12 11:00:12.219276,Board game cafe bill,1185.0,Entertainment,expense,Credit Card,False,0.0
+1,2025-11-12 21:22:12.219276,Campus Canteen Maggie,358.0,Food,expense,NetBanking,False,0.0
+1,2025-11-16 00:54:12.219276,Uber Auto Ride,321.0,Transport,expense,NetBanking,False,0.0
+1,2025-11-19 02:05:12.219276,University Exam Fee,914.0,Education,expense,Credit Card,False,0.0
+1,2025-11-19 20:36:12.219276,Academic Journal Subscription,1259.0,Education,expense,NetBanking,False,0.0
+1,2025-11-27 23:03:12.219276,Gaming Zone Arcade Mall,268.0,Entertainment,expense,Credit Card,False,0.0
+1,2025-12-01 04:07:12.219276,Chai Tapri Tea & Samosa,95.0,Food,expense,Credit Card,False,0.0
+1,2025-12-03 06:58:12.219276,Swiggy Delivery Hyderabad,86.0,Food,expense,Credit Card,False,0.0
+1,2025-12-03 02:54:12.219276,Dominos Pizza,98.0,Food,expense,Credit Card,False,0.0
+1,2025-12-06 02:20:12.219276,Friend Splitwise repayment,287.0,Miscellaneous,expense,Credit Card,False,0.0
+1,2025-12-05 19:48:12.219276,Hostel laundry charges,112.0,Hostel,expense,Credit Card,False,0.0
+1,2025-12-10 06:02:12.219276,Shoppers Stop shoes,3680.0,Shopping,expense,NetBanking,False,0.0
+1,2025-12-10 20:47:12.219276,Hostel Electricity surcharge,591.0,Bills,expense,NetBanking,False,0.0
+1,2025-12-10 21:17:12.219276,Coursera Certificate subscription,608.0,Education,expense,Credit Card,False,0.0
+1,2025-12-15 09:30:12.219276,Temple donation offering,175.0,Miscellaneous,expense,Credit Card,False,0.0
+1,2025-12-17 11:08:12.219276,Hostel laundry charges,54.0,Hostel,expense,NetBanking,False,0.0
+1,2025-12-17 03:45:12.219276,Gas cylinder booking Indane,2416.0,Bills,expense,Credit Card,False,0.0
+1,2025-12-18 20:39:12.219276,Train Ticket IRCTC,307.0,Transport,expense,Credit Card,False,0.0
+1,2025-12-20 20:35:12.219276,Metro Card Recharge Metro Station,204.0,Transport,expense,NetBanking,False,0.0
+1,2025-12-23 09:34:12.219276,Coursera Certificate subscription,281.0,Education,expense,NetBanking,False,0.0
+1,2025-12-23 04:24:12.219276,Local thrift store jacket,1422.0,Shopping,expense,NetBanking,False,0.0
+1,2025-12-26 22:04:12.219276,Swiggy Delivery Hyderabad,185.0,Food,expense,NetBanking,False,0.0
+1,2025-12-27 22:15:12.219276,Amusement park ticket,1151.0,Entertainment,expense,NetBanking,False,0.0
+1,2025-12-28 06:45:12.219276,Hostel Room Heater Surcharge,97.0,Hostel,expense,Credit Card,False,0.0
+1,2025-12-28 20:43:12.219276,Cloud storage Google One,1178.0,Bills,expense,NetBanking,False,0.0
+1,2025-12-30 11:10:12.219276,KFC Chicken meal,278.0,Food,expense,Credit Card,False,0.0
+1,2026-01-02 00:13:12.219276,Laundry detergent detergent shop,69.0,Miscellaneous,expense,Credit Card,False,0.0
+1,2026-01-02 06:18:12.219276,Gift box wrapper,405.0,Miscellaneous,expense,Credit Card,False,0.0
+1,2026-01-01 19:55:12.219276,Uber Auto Ride,273.0,Transport,expense,NetBanking,False,0.0
+1,2026-01-04 01:51:12.219276,Starbucks Coffee,96.0,Food,expense,NetBanking,False,0.0
+1,2026-01-05 06:56:12.219276,Laundry detergent detergent shop,140.0,Miscellaneous,expense,Credit Card,False,0.0
+1,2026-01-06 09:06:12.219276,Parking charges mall,145.0,Transport,expense,NetBanking,False,0.0
+1,2026-01-07 04:01:12.219276,Starbucks Coffee,209.0,Food,expense,NetBanking,False,0.0
+1,2026-01-07 05:17:12.219276,Bowling Alley Arena,1090.0,Entertainment,expense,Credit Card,False,0.0
+1,2026-01-08 00:20:12.219276,Chai Tapri Tea & Samosa,387.0,Food,expense,NetBanking,False,0.0
+1,2026-01-11 10:28:12.219276,Bowling Alley Arena,911.0,Entertainment,expense,NetBanking,False,0.0
+1,2026-01-12 08:37:12.219276,KFC Chicken meal,428.0,Food,expense,NetBanking,False,0.0
+1,2026-01-13 19:36:12.219276,Laser tag game weekend,1028.0,Entertainment,expense,Credit Card,False,0.0
+1,2026-01-14 01:35:12.219276,Hostel Security Deposit Refundable,145.0,Hostel,expense,NetBanking,False,0.0
+1,2026-01-14 04:42:12.219276,Supermarket Groceries,207.0,Food,expense,NetBanking,False,0.0
+1,2026-01-14 19:48:12.219276,Gas cylinder booking Indane,871.0,Bills,expense,Credit Card,False,0.0
+1,2026-01-17 07:41:12.219276,Swiggy Delivery Hyderabad,433.0,Food,expense,Credit Card,False,0.0
+1,2026-01-17 23:24:12.219276,Juice Shop hostel,448.0,Food,expense,NetBanking,False,0.0
+1,2026-01-21 03:03:12.219276,Local vegetable vendor,450.0,Food,expense,NetBanking,False,0.0
+1,2026-01-20 22:40:12.219276,Shoppers Stop shoes,3683.0,Shopping,expense,Credit Card,False,0.0
+1,2026-01-22 00:41:12.219276,Sunglasses purchase store,780.0,Shopping,expense,NetBanking,False,0.0
+1,2026-01-22 11:25:12.219276,Laser tag game weekend,1084.0,Entertainment,expense,Credit Card,False,0.0
+1,2026-01-22 01:13:12.219276,Pub weekend entry cover charge,1138.0,Entertainment,expense,Credit Card,False,0.0
+1,2026-01-23 23:01:12.219276,Gift box wrapper,339.0,Miscellaneous,expense,NetBanking,False,0.0
+1,2026-01-24 00:27:12.219276,Train Ticket IRCTC,207.0,Transport,expense,Credit Card,False,0.0
+1,2026-01-24 00:38:12.219276,LUXURY DIAMOND RING JEWELLER,105755.0,Hostel,expense,Credit Card,True,93.35928551050412
+1,2026-01-23 21:06:12.219276,Gas cylinder booking Indane,1086.0,Bills,expense,NetBanking,False,0.0
+1,2026-01-24 19:40:12.219276,Cloud storage Google One,1394.0,Bills,expense,Credit Card,False,0.0
+1,2026-01-26 05:57:12.219276,Decathlon sports gear,2703.0,Shopping,expense,Credit Card,False,0.0
+1,2026-01-26 11:19:12.219276,KFC Chicken meal,194.0,Food,expense,NetBanking,False,0.0
+1,2026-01-26 07:27:12.219276,Lab manual printout charges,1449.0,Education,expense,NetBanking,False,0.0
+1,2026-01-27 21:33:12.219276,Jio Prepaid Mobile Recharge,1484.0,Bills,expense,Credit Card,False,0.0
+1,2026-01-29 11:33:12.219276,Juice Shop hostel,104.0,Food,expense,Credit Card,False,0.0
+1,2026-01-29 09:12:12.219276,Pub weekend entry cover charge,809.0,Entertainment,expense,Credit Card,False,0.0
+1,2026-01-29 23:42:12.219276,Book Store college textbooks,1804.0,Shopping,expense,Credit Card,False,0.0
+1,2026-01-31 11:11:12.219276,Hostel warden room repair,132.0,Hostel,expense,NetBanking,False,0.0
+1,2026-02-06 11:24:12.219276,Coaching class monthly fee,1380.0,Education,expense,NetBanking,False,0.0
+1,2026-02-06 02:45:12.219276,Temple donation offering,233.0,Miscellaneous,expense,NetBanking,False,0.0
+1,2026-02-07 02:22:12.219276,Parking charges mall,199.0,Transport,expense,NetBanking,False,0.0
+1,2026-02-07 20:32:12.219276,Spotify Premium monthly plan,940.0,Entertainment,expense,NetBanking,False,0.0
+1,2026-02-09 22:21:12.219276,Starbucks Coffee,355.0,Food,expense,Credit Card,False,0.0
+1,2026-02-10 21:52:12.219276,Hostel Room Rent Monthly AC,124.0,Hostel,expense,NetBanking,False,0.0
+1,2026-02-13 02:00:12.219276,Hostel Room Rent Monthly AC,128.0,Hostel,expense,NetBanking,False,0.0
+1,2026-02-12 22:46:12.219276,Hostel Room Rent Monthly AC,124.0,Hostel,expense,NetBanking,False,0.0
+1,2026-02-13 22:31:12.219276,Scientific Calculator Casio,1442.0,Education,expense,NetBanking,False,0.0
+1,2026-02-14 08:44:12.219276,Friend Splitwise repayment,339.0,Miscellaneous,expense,NetBanking,False,0.0
+1,2026-02-15 09:56:12.219276,Coursera Certificate subscription,779.0,Education,expense,Credit Card,False,0.0
+1,2026-02-16 20:16:12.219276,GitHub Copilot Subscription,2190.0,Bills,expense,NetBanking,False,0.0
+1,2026-02-17 20:36:12.219276,Bike taxi Rapido,214.0,Transport,expense,Credit Card,False,0.0
+1,2026-02-18 04:11:12.219276,University Exam Fee,1167.0,Education,expense,NetBanking,False,0.0
+1,2026-02-20 11:24:12.219276,Hostel Room Heater Surcharge,140.0,Hostel,expense,NetBanking,False,0.0
+1,2026-02-20 23:16:12.219276,Local thrift store jacket,1015.0,Shopping,expense,NetBanking,False,0.0
+1,2026-02-21 11:04:12.219276,Shell Fuel Station,199.0,Transport,expense,Credit Card,False,0.0
+1,2026-02-20 19:49:12.219276,Car rental service,112.0,Transport,expense,Credit Card,False,0.0
+1,2026-02-25 10:44:12.219276,Starbucks Coffee,309.0,Food,expense,Credit Card,False,0.0
+1,2026-02-25 21:48:12.219276,Local vegetable vendor,431.0,Food,expense,Credit Card,False,0.0
+1,2026-02-28 08:57:12.219276,Airtel broadband wifi,2308.0,Bills,expense,Credit Card,False,0.0
+1,2026-02-28 07:56:12.219276,Local vegetable vendor,351.0,Food,expense,Credit Card,False,0.0
+1,2026-03-02 02:00:12.219276,Pub weekend entry cover charge,898.0,Entertainment,expense,Credit Card,False,0.0
+1,2026-03-02 10:50:12.219276,Hostel laundry charges,192.0,Hostel,expense,NetBanking,False,0.0
+1,2026-03-02 00:28:12.219276,Nike showroom sneakers,1810.0,Shopping,expense,Credit Card,False,0.0
+1,2026-03-03 08:39:12.219276,Chai Tapri Tea & Samosa,126.0,Food,expense,Credit Card,False,0.0
+1,2026-03-06 08:10:12.219276,Hostel laundry charges,197.0,Hostel,expense,Credit Card,False,0.0
+1,2026-03-06 22:50:12.219276,Lab manual printout charges,1301.0,Education,expense,Credit Card,False,0.0
+1,2026-03-08 02:52:12.219276,PG accommodation rent,52.0,Hostel,expense,NetBanking,False,0.0
+1,2026-03-07 22:09:12.219276,Student Mess Fees Monthly,424.0,Food,expense,NetBanking,False,0.0
+1,2026-03-11 11:08:12.219276,Car rental service,95.0,Transport,expense,Credit Card,False,0.0
+1,2026-03-12 02:00:12.219276,Lost cash wallet,237.0,Miscellaneous,expense,Credit Card,False,0.0
+1,2026-03-14 00:31:12.219276,Noodles corner,84.0,Food,expense,Credit Card,False,0.0
+1,2026-03-15 04:09:12.219276,Hostel warden room repair,130.0,Hostel,expense,NetBanking,False,0.0
+1,2026-03-15 05:50:12.219276,Stationery shop notebook,3836.0,Shopping,expense,Credit Card,False,0.0
+1,2026-03-14 22:56:12.219276,Scientific Calculator Casio,627.0,Education,expense,Credit Card,False,0.0
+1,2026-03-16 10:30:12.219276,Shoppers Stop shoes,1731.0,Shopping,expense,Credit Card,False,0.0
+1,2026-03-17 10:23:12.219276,Library overdue book fine,1339.0,Education,expense,NetBanking,False,0.0
+1,2026-03-17 21:40:12.219276,GitHub Copilot Subscription,320.0,Bills,expense,Credit Card,False,0.0
+1,2026-03-20 06:29:12.219276,Hostel laundry charges,93.0,Hostel,expense,NetBanking,False,0.0
+1,2026-03-20 19:34:12.219276,Shoppers Stop shoes,2088.0,Shopping,expense,NetBanking,False,0.0
+1,2026-03-22 10:53:12.219276,Library overdue book fine,117.0,Education,expense,Credit Card,False,0.0
+1,2026-03-23 03:07:12.219276,Laser tag game weekend,601.0,Entertainment,expense,Credit Card,False,0.0
+1,2026-03-23 19:48:12.219276,Campus Canteen Maggie,217.0,Food,expense,Credit Card,False,0.0
+1,2026-03-24 08:53:12.219276,Dominos Pizza,87.0,Food,expense,NetBanking,False,0.0
+1,2026-03-25 00:46:12.219276,Campus Canteen Maggie,280.0,Food,expense,Credit Card,False,0.0
+1,2026-03-28 02:34:12.219276,College Tuition Fee Semester 1,665.0,Education,expense,Credit Card,False,0.0
+1,2026-03-30 10:20:12.219276,Petrol Pump HP,315.0,Transport,expense,NetBanking,False,0.0
+1,2026-03-30 10:46:12.219276,Noodles corner,441.0,Food,expense,NetBanking,False,0.0
+1,2026-03-31 07:03:12.219276,Hostel Security Deposit Refundable,165.0,Hostel,expense,NetBanking,False,0.0
+1,2026-03-31 22:40:12.219276,Hostel Security Deposit Refundable,122.0,Hostel,expense,NetBanking,False,0.0
+1,2026-04-02 07:24:12.219276,Maggie Point Gate 2,365.0,Food,expense,Credit Card,False,0.0
+1,2026-04-05 09:26:12.219276,Scientific Calculator Casio,764.0,Education,expense,Credit Card,False,0.0
+1,2026-04-05 20:23:12.219276,CRITICAL SPIKE - Burger King combo,3510.0,Food,expense,NetBanking,True,94.60986063292002
+1,2026-04-06 07:30:12.219276,Noodles corner,262.0,Food,expense,NetBanking,False,0.0
+1,2026-04-05 22:10:12.219276,Friend Splitwise repayment,169.0,Miscellaneous,expense,NetBanking,False,0.0
+1,2026-04-08 09:33:12.219276,Burger King combo,251.0,Food,expense,Credit Card,False,0.0
+1,2026-04-07 23:54:12.219276,Netflix subscription premium,774.0,Entertainment,expense,NetBanking,False,0.0
+1,2026-04-09 10:22:12.219276,Swiggy Delivery Hyderabad,424.0,Food,expense,Credit Card,False,0.0
+1,2026-04-09 23:42:12.219276,Starbucks Coffee,301.0,Food,expense,Credit Card,False,0.0
+1,2026-04-09 21:59:12.219276,University Exam Fee,200.0,Education,expense,NetBanking,False,0.0
+1,2026-04-10 02:05:12.219276,Hostel Room Heater Surcharge,83.0,Hostel,expense,Credit Card,False,0.0
+1,2026-04-11 06:46:12.219276,Zomato Order,423.0,Food,expense,NetBanking,False,0.0
+1,2026-04-12 10:04:12.219276,Maggie Point Gate 2,435.0,Food,expense,NetBanking,False,0.0
+1,2026-04-13 02:24:12.219276,Hostel Room Rent Monthly AC,115.0,Hostel,expense,NetBanking,False,0.0
+1,2026-04-13 22:35:12.219276,H&M jeans,3890.0,Shopping,expense,NetBanking,False,0.0
+1,2026-04-15 06:05:12.219276,Swiggy Delivery Hyderabad,206.0,Food,expense,NetBanking,False,0.0
+1,2026-04-16 03:06:12.219276,Maggie Point Gate 2,430.0,Food,expense,NetBanking,False,0.0
+1,2026-04-18 08:16:12.219276,Juice Shop hostel,223.0,Food,expense,NetBanking,False,0.0
+1,2026-04-18 06:02:12.219276,Car rental service,108.0,Transport,expense,NetBanking,False,0.0
+1,2026-04-20 08:53:12.219276,Local vegetable vendor,95.0,Food,expense,Credit Card,False,0.0
+1,2026-04-21 00:06:12.219276,Maggie Point Gate 2,120.0,Food,expense,Credit Card,False,0.0
+1,2026-04-22 03:21:12.219276,Student Mess Fees Monthly,87.0,Food,expense,Credit Card,False,0.0
+1,2026-04-22 11:18:12.219276,Local Bus Ticket,63.0,Transport,expense,Credit Card,False,0.0
+1,2026-04-25 05:03:12.219276,Starbucks Coffee,229.0,Food,expense,NetBanking,False,0.0
+1,2026-04-25 02:30:12.219276,Bowling Alley Arena,1073.0,Entertainment,expense,Credit Card,False,0.0
+1,2026-04-26 06:39:12.219276,Coursera Certificate subscription,353.0,Education,expense,Credit Card,False,0.0
+1,2026-04-28 05:14:12.219276,Student Mess Fees Monthly,237.0,Food,expense,Credit Card,False,0.0
+1,2026-05-01 00:44:12.219276,Shoppers Stop shoes,759.0,Shopping,expense,Credit Card,False,0.0
+1,2026-05-01 05:57:12.219276,Lost cash wallet,68.0,Miscellaneous,expense,NetBanking,False,0.0
+1,2026-05-02 04:07:12.219276,Gift box wrapper,197.0,Miscellaneous,expense,NetBanking,False,0.0
+1,2026-05-03 20:27:12.219276,Zomato Order,431.0,Food,expense,Credit Card,False,0.0
+1,2026-05-05 00:14:12.219276,Lab manual printout charges,172.0,Education,expense,Credit Card,False,0.0
+1,2026-05-04 21:27:12.219276,GitHub Copilot Subscription,1472.0,Bills,expense,Credit Card,False,0.0
+1,2026-05-07 08:14:12.219276,University Exam Fee,674.0,Education,expense,NetBanking,False,0.0
+1,2026-05-07 01:12:12.219276,Hostel laundry charges,92.0,Hostel,expense,Credit Card,False,0.0
+1,2026-05-10 22:51:12.219276,Auto Fare Cash,171.0,Transport,expense,Credit Card,False,0.0
+1,2026-05-12 02:44:12.219276,Academic Journal Subscription,389.0,Education,expense,NetBanking,False,0.0
+1,2026-05-12 20:39:12.219276,Noodles corner,425.0,Food,expense,Credit Card,False,0.0
+1,2026-05-14 06:53:12.219276,Temple donation offering,372.0,Miscellaneous,expense,Credit Card,False,0.0
+1,2026-05-16 10:05:12.219276,Photocopy shop xerox notes,1462.0,Education,expense,NetBanking,False,0.0
+1,2026-05-16 10:28:12.219276,Zomato Order,323.0,Food,expense,Credit Card,False,0.0
+1,2026-05-16 22:54:12.219276,Temple donation offering,115.0,Miscellaneous,expense,Credit Card,False,0.0
+1,2026-05-18 07:38:12.219276,Friend Splitwise repayment,330.0,Miscellaneous,expense,Credit Card,False,0.0
+1,2026-05-18 23:11:12.219276,Local vegetable vendor,444.0,Food,expense,Credit Card,False,0.0
+1,2026-05-19 00:53:12.219276,Laundry detergent detergent shop,216.0,Miscellaneous,expense,Credit Card,False,0.0
+1,2026-05-21 04:58:12.219276,CRITICAL SPIKE - Gift box wrapper,6960.0,Miscellaneous,expense,Credit Card,True,73.6681338513049
+2,2025-05-21 09:19:12.219276,Gaming Zone Arcade Mall,798.0,Entertainment,expense,NetBanking,False,0.0
+2,2025-05-20 23:29:12.219276,ATM Cash withdrawal Self,50.0,Miscellaneous,expense,NetBanking,False,0.0
+2,2025-05-23 02:16:12.219276,Cough syrup & vitamins,983.0,Healthcare,expense,Credit Card,False,0.0
+2,2025-05-23 07:27:12.219276,Stationery shop notebook,969.0,Shopping,expense,Credit Card,False,0.0
+2,2025-05-23 08:42:12.219276,Parking charges mall,38.0,Transport,expense,Credit Card,False,0.0
+2,2025-05-24 06:48:12.219276,Laundry detergent detergent shop,332.0,Miscellaneous,expense,Credit Card,False,0.0
+2,2025-05-24 23:11:12.219276,Electricity bill board,255.0,Bills,expense,NetBanking,False,0.0
+2,2025-05-24 21:31:12.219276,Parking charges mall,306.0,Transport,expense,NetBanking,False,0.0
+2,2025-05-27 04:44:12.219276,Luggage bag purchase Safari,4715.0,Travel,expense,NetBanking,False,0.0
+2,2025-05-26 19:52:12.219276,Luggage bag purchase Safari,3385.0,Travel,expense,NetBanking,False,0.0
+2,2025-05-27 03:42:12.219276,MakeMyTrip flight Bangalore to Delhi,3038.0,Travel,expense,NetBanking,False,0.0
+2,2025-05-31 03:16:12.219276,Stationery shop notebook,3483.0,Shopping,expense,Credit Card,False,0.0
+2,2025-05-31 10:53:12.219276,Water supply bill,315.0,Bills,expense,Credit Card,False,0.0
+2,2025-05-31 10:50:12.219276,Travel agent booking ticket,6362.0,Travel,expense,Credit Card,False,0.0
+2,2025-05-31 20:40:12.219276,Campus Canteen Maggie,309.0,Food,expense,NetBanking,False,0.0
+2,2025-06-01 03:55:12.219276,Gift box wrapper,231.0,Miscellaneous,expense,Credit Card,False,0.0
+2,2025-06-05 10:16:12.219276,Myntra t-shirt purchase,3249.0,Shopping,expense,NetBanking,False,0.0
+2,2025-06-05 09:18:12.219276,Parking charges mall,262.0,Transport,expense,NetBanking,False,0.0
+2,2025-06-04 20:58:12.219276,Hostel Electricity surcharge,763.0,Bills,expense,NetBanking,False,0.0
+2,2025-06-06 02:13:12.219276,MakeMyTrip flight Bangalore to Delhi,3178.0,Travel,expense,Credit Card,False,0.0
+2,2025-06-06 20:06:12.219276,General Physician consultation fee,510.0,Healthcare,expense,Credit Card,False,0.0
+2,2025-06-08 06:17:12.219276,Multivitamins health supplements,448.0,Healthcare,expense,NetBanking,False,0.0
+2,2025-06-09 10:39:12.219276,Concert ticket EDM show,948.0,Entertainment,expense,NetBanking,False,0.0
+2,2025-06-10 09:35:12.219276,Dentist consultation clinic,1307.0,Healthcare,expense,Credit Card,False,0.0
+2,2025-06-10 23:03:12.219276,Amazon shopping clothes,1105.0,Shopping,expense,NetBanking,False,0.0
+2,2025-06-12 05:41:12.219276,Spotify Premium monthly plan,565.0,Entertainment,expense,Credit Card,False,0.0
+2,2025-06-13 09:18:12.219276,Myntra t-shirt purchase,3294.0,Shopping,expense,NetBanking,False,0.0
+2,2025-06-13 10:00:12.219276,Travel agent booking ticket,3039.0,Travel,expense,NetBanking,False,0.0
+2,2025-06-12 22:14:12.219276,BookMyShow Movie Ticket PVR,227.0,Entertainment,expense,Credit Card,False,0.0
+2,2025-06-18 02:40:12.219276,Bowling Alley Arena,621.0,Entertainment,expense,NetBanking,False,0.0
+2,2025-06-19 01:55:12.219276,Travel agent booking ticket,3590.0,Travel,expense,NetBanking,False,0.0
+2,2025-06-20 10:00:12.219276,Campus Canteen Maggie,149.0,Food,expense,Credit Card,False,0.0
+2,2025-06-25 01:42:12.219276,Spotify Premium monthly plan,175.0,Entertainment,expense,Credit Card,False,0.0
+2,2025-06-26 10:23:12.219276,Luggage bag purchase Safari,6781.0,Travel,expense,Credit Card,False,0.0
+2,2025-06-27 02:24:12.219276,GitHub Copilot Subscription,233.0,Bills,expense,NetBanking,False,0.0
+2,2025-06-28 02:22:12.219276,Jio Prepaid Mobile Recharge,2310.0,Bills,expense,Credit Card,False,0.0
+2,2025-06-29 03:37:12.219276,Gas cylinder booking Indane,1195.0,Bills,expense,Credit Card,False,0.0
+2,2025-06-29 21:39:12.219276,Water supply bill,871.0,Bills,expense,Credit Card,False,0.0
+2,2025-07-01 03:04:12.219276,Airtel broadband wifi,1355.0,Bills,expense,NetBanking,False,0.0
+2,2025-07-04 20:42:12.219276,Hotel room booking OYO,7645.0,Travel,expense,Credit Card,False,0.0
+2,2025-07-05 22:06:12.219276,Jio Prepaid Mobile Recharge,192.0,Bills,expense,Credit Card,False,0.0
+2,2025-07-07 07:43:12.219276,GitHub Copilot Subscription,329.0,Bills,expense,NetBanking,False,0.0
+2,2025-07-07 06:56:12.219276,Cough syrup & vitamins,990.0,Healthcare,expense,NetBanking,False,0.0
+2,2025-07-07 09:25:12.219276,Cloud storage Google One,2397.0,Bills,expense,Credit Card,False,0.0
+2,2025-07-09 01:09:12.219276,Student Mess Fees Monthly,407.0,Food,expense,Credit Card,False,0.0
+2,2025-07-10 05:05:12.219276,Laundry detergent detergent shop,71.0,Miscellaneous,expense,NetBanking,False,0.0
+2,2025-07-11 11:10:12.219276,Cloud storage Google One,373.0,Bills,expense,NetBanking,False,0.0
+2,2025-07-12 10:30:12.219276,Airtel broadband wifi,2482.0,Bills,expense,NetBanking,False,0.0
+2,2025-07-12 20:52:12.219276,Amazon shopping clothes,1516.0,Shopping,expense,NetBanking,False,0.0
+2,2025-07-13 23:08:12.219276,Gas cylinder booking Indane,1333.0,Bills,expense,NetBanking,False,0.0
+2,2025-07-14 07:23:12.219276,Airtel broadband wifi,152.0,Bills,expense,NetBanking,False,0.0
+2,2025-07-16 00:26:12.219276,Noodles corner,258.0,Food,expense,NetBanking,False,0.0
+2,2025-07-16 23:47:12.219276,Sunglasses purchase store,983.0,Shopping,expense,NetBanking,False,0.0
+2,2025-07-17 19:39:12.219276,Pub weekend entry cover charge,559.0,Entertainment,expense,NetBanking,False,0.0
+2,2025-07-21 23:22:12.219276,Gym membership monthly fee,638.0,Healthcare,expense,Credit Card,False,0.0
+2,2025-07-22 22:58:12.219276,Gift box wrapper,70.0,Miscellaneous,expense,Credit Card,False,0.0
+2,2025-07-23 03:09:12.219276,Cloud storage Google One,1377.0,Bills,expense,Credit Card,False,0.0
+2,2025-07-24 00:34:12.219276,Spotify Premium monthly plan,1124.0,Entertainment,expense,NetBanking,False,0.0
+2,2025-07-25 10:51:12.219276,Jio Prepaid Mobile Recharge,1755.0,Bills,expense,Credit Card,False,0.0
+2,2025-07-27 04:08:12.219276,RedBus booking home town,4404.0,Travel,expense,Credit Card,False,0.0
+2,2025-07-27 22:58:12.219276,ATM Cash withdrawal Self,441.0,Miscellaneous,expense,Credit Card,False,0.0
+2,2025-07-29 04:54:12.219276,Cloud storage Google One,1647.0,Bills,expense,NetBanking,False,0.0
+2,2025-07-29 07:25:12.219276,Swiggy Delivery Hyderabad,382.0,Food,expense,NetBanking,False,0.0
+2,2025-07-29 22:32:12.219276,Electricity bill board,1100.0,Bills,expense,NetBanking,False,0.0
+2,2025-07-30 03:35:12.219276,Travel agent booking ticket,5460.0,Travel,expense,Credit Card,False,0.0
+2,2025-07-30 23:25:12.219276,Maggie Point Gate 2,273.0,Food,expense,NetBanking,False,0.0
+2,2025-07-31 11:06:12.219276,MakeMyTrip flight Bangalore to Delhi,7659.0,Travel,expense,NetBanking,False,0.0
+2,2025-07-31 02:05:12.219276,Airtel broadband wifi,1326.0,Bills,expense,Credit Card,False,0.0
+2,2025-08-01 03:38:12.219276,Toll plaza fee,326.0,Transport,expense,NetBanking,False,0.0
+2,2025-08-02 09:16:12.219276,Parking charges mall,184.0,Transport,expense,NetBanking,False,0.0
+2,2025-08-02 10:16:12.219276,Lost cash wallet,152.0,Miscellaneous,expense,NetBanking,False,0.0
+2,2025-08-04 09:00:12.219276,RedBus booking home town,3969.0,Travel,expense,NetBanking,False,0.0
+2,2025-08-04 05:15:12.219276,Water supply bill,933.0,Bills,expense,NetBanking,False,0.0
+2,2025-08-05 09:15:12.219276,Cloud storage Google One,2088.0,Bills,expense,Credit Card,False,0.0
+2,2025-08-07 10:00:12.219276,Myntra t-shirt purchase,1117.0,Shopping,expense,NetBanking,False,0.0
+2,2025-08-08 04:35:12.219276,Airtel broadband wifi,1586.0,Bills,expense,NetBanking,False,0.0
+2,2025-08-08 23:08:12.219276,Laundry detergent detergent shop,208.0,Miscellaneous,expense,NetBanking,False,0.0
+2,2025-08-08 13:53:12.219276,MIDNIGHT SUSPICIOUS - Amusement park ticket,2835.0,Entertainment,expense,NetBanking,True,94.01869919020227
+2,2025-08-08 20:51:12.219276,BookMyShow Movie Ticket PVR,1048.0,Entertainment,expense,Credit Card,False,0.0
+2,2025-08-10 09:30:12.219276,Travel agent booking ticket,5382.0,Travel,expense,NetBanking,False,0.0
+2,2025-08-10 09:12:12.219276,Metro Card Recharge Metro Station,163.0,Transport,expense,NetBanking,False,0.0
+2,2025-08-10 21:41:12.219276,Student Mess Fees Monthly,182.0,Food,expense,NetBanking,False,0.0
+2,2025-08-12 10:04:12.219276,Nike showroom sneakers,3208.0,Shopping,expense,NetBanking,False,0.0
+2,2025-08-12 04:46:12.219276,Flipkart electronics gadget,1110.0,Shopping,expense,NetBanking,False,0.0
+2,2025-08-12 02:35:12.219276,Shell Fuel Station,218.0,Transport,expense,Credit Card,False,0.0
+2,2025-08-12 23:39:12.219276,Student Mess Fees Monthly,396.0,Food,expense,NetBanking,False,0.0
+2,2025-08-14 10:41:12.219276,Uber Auto Ride,299.0,Transport,expense,Credit Card,False,0.0
+2,2025-08-15 00:01:12.219276,Concert ticket EDM show,739.0,Entertainment,expense,Credit Card,False,0.0
+2,2025-08-15 23:35:12.219276,Concert ticket EDM show,537.0,Entertainment,expense,Credit Card,False,0.0
+2,2025-08-16 08:17:12.219276,MakeMyTrip flight Bangalore to Delhi,2084.0,Travel,expense,NetBanking,False,0.0
+2,2025-08-15 21:40:12.219276,Laser tag game weekend,1016.0,Entertainment,expense,NetBanking,False,0.0
+2,2025-08-19 09:42:12.219276,Flipkart electronics gadget,1095.0,Shopping,expense,NetBanking,False,0.0
+2,2025-08-18 22:54:12.219276,Petrol Pump HP,301.0,Transport,expense,NetBanking,False,0.0
+2,2025-08-19 07:33:12.219276,Dominos Pizza,335.0,Food,expense,NetBanking,False,0.0
+2,2025-08-19 20:46:12.219276,RedBus booking home town,6552.0,Travel,expense,Credit Card,False,0.0
+2,2025-08-21 08:41:12.219276,Amazon shopping clothes,2326.0,Shopping,expense,Credit Card,False,0.0
+2,2025-08-22 19:52:12.219276,Local Bus Ticket,285.0,Transport,expense,NetBanking,False,0.0
+2,2025-08-23 10:14:12.219276,Zomato Order,315.0,Food,expense,Credit Card,False,0.0
+2,2025-08-24 06:20:12.219276,Maggie Point Gate 2,102.0,Food,expense,Credit Card,False,0.0
+2,2025-08-24 06:25:12.219276,Local thrift store jacket,3935.0,Shopping,expense,NetBanking,False,0.0
+2,2025-08-23 21:35:12.219276,General Physician consultation fee,564.0,Healthcare,expense,Credit Card,False,0.0
+2,2025-08-26 02:05:12.219276,Airtel broadband wifi,1570.0,Bills,expense,NetBanking,False,0.0
+2,2025-08-25 21:36:12.219276,Cough syrup & vitamins,1457.0,Healthcare,expense,Credit Card,False,0.0
+2,2025-08-27 04:43:12.219276,Airbnb stay vacation room,2648.0,Travel,expense,Credit Card,False,0.0
+2,2025-08-28 08:40:12.219276,Uber Auto Ride,292.0,Transport,expense,Credit Card,False,0.0
+2,2025-08-28 06:50:12.219276,Travel agent booking ticket,7900.0,Travel,expense,NetBanking,False,0.0
+2,2025-08-28 01:24:12.219276,Bike taxi Rapido,38.0,Transport,expense,Credit Card,False,0.0
+2,2025-08-28 06:11:12.219276,Book Store college textbooks,585.0,Shopping,expense,NetBanking,False,0.0
+2,2025-08-28 22:34:12.219276,Shell Fuel Station,303.0,Transport,expense,Credit Card,False,0.0
+2,2025-08-29 10:53:12.219276,H&M jeans,2354.0,Shopping,expense,Credit Card,False,0.0
+2,2025-09-01 03:19:12.219276,Temple donation offering,421.0,Miscellaneous,expense,Credit Card,False,0.0
+2,2025-08-31 21:51:12.219276,Juice Shop hostel,89.0,Food,expense,NetBanking,False,0.0
+2,2025-09-01 10:18:12.219276,Multivitamins health supplements,439.0,Healthcare,expense,NetBanking,False,0.0
+2,2025-09-03 07:24:12.219276,Flipkart electronics gadget,3361.0,Shopping,expense,Credit Card,False,0.0
+2,2025-09-04 07:17:12.219276,ATM Cash withdrawal Self,59.0,Miscellaneous,expense,NetBanking,False,0.0
+2,2025-09-05 07:23:12.219276,Friend Splitwise repayment,299.0,Miscellaneous,expense,NetBanking,False,0.0
+2,2025-09-07 10:22:12.219276,Local Bus Ticket,215.0,Transport,expense,NetBanking,False,0.0
+2,2025-09-09 09:23:12.219276,Airtel broadband wifi,603.0,Bills,expense,Credit Card,False,0.0
+2,2025-09-10 10:28:12.219276,BookMyShow Movie Ticket PVR,1028.0,Entertainment,expense,Credit Card,False,0.0
+2,2025-09-10 00:23:12.219276,Gift box wrapper,235.0,Miscellaneous,expense,Credit Card,False,0.0
+2,2025-09-12 02:30:12.219276,Board game cafe bill,1055.0,Entertainment,expense,Credit Card,False,0.0
+2,2025-09-12 00:07:12.219276,Water supply bill,251.0,Bills,expense,Credit Card,False,0.0
+2,2025-09-14 06:41:12.219276,Toll plaza fee,60.0,Transport,expense,NetBanking,False,0.0
+2,2025-09-14 05:10:12.219276,Chai Tapri Tea & Samosa,413.0,Food,expense,Credit Card,False,0.0
+2,2025-09-14 02:40:12.219276,Hostel Electricity surcharge,2446.0,Bills,expense,Credit Card,False,0.0
+2,2025-09-15 08:39:12.219276,Bowling Alley Arena,1080.0,Entertainment,expense,Credit Card,False,0.0
+2,2025-09-15 02:02:12.219276,Uber Auto Ride,247.0,Transport,expense,Credit Card,False,0.0
+2,2025-09-15 09:26:12.219276,Cloud storage Google One,1834.0,Bills,expense,Credit Card,False,0.0
+2,2025-09-16 04:36:12.219276,Car rental service,239.0,Transport,expense,NetBanking,False,0.0
+2,2025-09-16 04:52:12.219276,Friend Splitwise repayment,110.0,Miscellaneous,expense,NetBanking,False,0.0
+2,2025-09-17 04:47:12.219276,Nike showroom sneakers,2127.0,Shopping,expense,NetBanking,False,0.0
+2,2025-09-18 00:22:12.219276,Cloud storage Google One,1483.0,Bills,expense,Credit Card,False,0.0
+2,2025-09-18 09:43:12.219276,Decathlon sports gear,3006.0,Shopping,expense,Credit Card,False,0.0
+2,2025-09-18 22:29:12.219276,ATM Cash withdrawal Self,393.0,Miscellaneous,expense,NetBanking,False,0.0
+2,2025-09-24 07:40:12.219276,Airtel broadband wifi,211.0,Bills,expense,NetBanking,False,0.0
+2,2025-09-24 22:04:12.219276,Electricity bill board,1403.0,Bills,expense,Credit Card,False,0.0
+2,2025-09-26 21:59:12.219276,Sunglasses purchase store,2587.0,Shopping,expense,NetBanking,False,0.0
+2,2025-09-27 02:13:12.219276,Metro Card Recharge Metro Station,314.0,Transport,expense,Credit Card,False,0.0
+2,2025-09-28 05:47:12.219276,Hostel Electricity surcharge,1954.0,Bills,expense,NetBanking,False,0.0
+2,2025-09-29 22:24:12.219276,Gift box wrapper,410.0,Miscellaneous,expense,Credit Card,False,0.0
+2,2025-09-29 22:56:12.219276,Bike taxi Rapido,45.0,Transport,expense,Credit Card,False,0.0
+2,2025-10-01 06:46:12.219276,MakeMyTrip flight Bangalore to Delhi,3814.0,Travel,expense,NetBanking,False,0.0
+2,2025-10-02 01:34:12.219276,Amusement park ticket,893.0,Entertainment,expense,Credit Card,False,0.0
+2,2025-10-04 10:57:12.219276,General Physician consultation fee,449.0,Healthcare,expense,Credit Card,False,0.0
+2,2025-10-04 09:08:12.219276,ATM Cash withdrawal Self,419.0,Miscellaneous,expense,NetBanking,False,0.0
+2,2025-10-05 22:32:12.219276,Local vegetable vendor,195.0,Food,expense,Credit Card,False,0.0
+2,2025-10-06 03:49:12.219276,Airbnb stay vacation room,2196.0,Travel,expense,NetBanking,False,0.0
+2,2025-10-07 21:40:12.219276,MakeMyTrip flight Bangalore to Delhi,4469.0,Travel,expense,Credit Card,False,0.0
+2,2025-10-08 07:40:12.219276,Juice Shop hostel,106.0,Food,expense,Credit Card,False,0.0
+2,2025-10-09 09:30:12.219276,Pub weekend entry cover charge,171.0,Entertainment,expense,Credit Card,False,0.0
+2,2025-10-09 01:40:12.219276,Petrol Pump HP,43.0,Transport,expense,NetBanking,False,0.0
+2,2025-10-10 09:06:12.219276,BookMyShow Movie Ticket PVR,240.0,Entertainment,expense,NetBanking,False,0.0
+2,2025-10-11 10:12:12.219276,Gaming Zone Arcade Mall,290.0,Entertainment,expense,Credit Card,False,0.0
+2,2025-10-12 07:47:12.219276,Gaming Zone Arcade Mall,1134.0,Entertainment,expense,NetBanking,False,0.0
+2,2025-10-12 20:35:12.219276,Cloud storage Google One,896.0,Bills,expense,NetBanking,False,0.0
+2,2025-10-14 02:45:12.219276,Local thrift store jacket,1473.0,Shopping,expense,NetBanking,False,0.0
+2,2025-10-19 10:51:12.219276,GitHub Copilot Subscription,2079.0,Bills,expense,Credit Card,False,0.0
+2,2025-10-20 04:09:12.219276,DTH TV recharge Tata Sky,1644.0,Bills,expense,NetBanking,False,0.0
+2,2025-10-22 05:51:12.219276,Airbnb stay vacation room,5543.0,Travel,expense,Credit Card,False,0.0
+2,2025-10-21 21:56:12.219276,Apollo Pharmacy medicines,567.0,Healthcare,expense,NetBanking,False,0.0
+2,2025-10-24 02:19:12.219276,Hostel Electricity surcharge,1339.0,Bills,expense,NetBanking,False,0.0
+2,2025-10-25 07:24:12.219276,Lost cash wallet,54.0,Miscellaneous,expense,NetBanking,False,0.0
+2,2025-10-26 16:01:12.219276,MIDNIGHT SUSPICIOUS - Flipkart electronics gadget,10266.0,Shopping,expense,NetBanking,True,90.2600346242726
+2,2025-10-28 04:39:12.219276,MakeMyTrip flight Bangalore to Delhi,4693.0,Travel,expense,Credit Card,False,0.0
+2,2025-10-28 19:45:12.219276,Amazon shopping clothes,3785.0,Shopping,expense,Credit Card,False,0.0
+2,2025-10-31 01:12:12.219276,Local thrift store jacket,1668.0,Shopping,expense,Credit Card,False,0.0
+2,2025-11-02 07:18:12.219276,Local vegetable vendor,126.0,Food,expense,Credit Card,False,0.0
+2,2025-11-03 01:59:12.219276,Parking charges mall,266.0,Transport,expense,Credit Card,False,0.0
+2,2025-11-08 06:09:12.219276,Amazon shopping clothes,2102.0,Shopping,expense,NetBanking,False,0.0
+2,2025-11-09 05:34:12.219276,Petrol Pump HP,195.0,Transport,expense,Credit Card,False,0.0
+2,2025-11-09 06:36:12.219276,Eye test & spectacles frames,1139.0,Healthcare,expense,NetBanking,False,0.0
+2,2025-11-09 23:55:12.219276,Flipkart electronics gadget,788.0,Shopping,expense,Credit Card,False,0.0
+2,2025-11-10 10:38:12.219276,H&M jeans,3519.0,Shopping,expense,NetBanking,False,0.0
+2,2025-11-11 21:07:12.219276,Travel agent booking ticket,4692.0,Travel,expense,NetBanking,False,0.0
+2,2025-11-12 05:49:12.219276,General Physician consultation fee,248.0,Healthcare,expense,NetBanking,False,0.0
+2,2025-11-17 09:28:12.219276,Student health insurance premium,1187.0,Healthcare,expense,Credit Card,False,0.0
+2,2025-11-17 10:38:12.219276,Multivitamins health supplements,826.0,Healthcare,expense,Credit Card,False,0.0
+2,2025-11-18 08:05:12.219276,Airbnb stay vacation room,5406.0,Travel,expense,NetBanking,False,0.0
+2,2025-11-19 07:18:12.219276,General Physician consultation fee,913.0,Healthcare,expense,Credit Card,False,0.0
+2,2025-11-21 04:34:12.219276,Flipkart electronics gadget,3466.0,Shopping,expense,Credit Card,False,0.0
+2,2025-11-22 09:15:12.219276,Zomato Order,115.0,Food,expense,Credit Card,False,0.0
+2,2025-11-22 01:45:12.219276,RedBus booking home town,6117.0,Travel,expense,Credit Card,False,0.0
+2,2025-11-26 06:26:12.219276,Cough syrup & vitamins,959.0,Healthcare,expense,NetBanking,False,0.0
+2,2025-11-27 23:20:12.219276,Petrol Pump HP,249.0,Transport,expense,Credit Card,False,0.0
+2,2025-11-28 21:53:12.219276,BookMyShow Movie Ticket PVR,1183.0,Entertainment,expense,Credit Card,False,0.0
+2,2025-11-29 03:20:12.219276,Dominos Pizza,247.0,Food,expense,NetBanking,False,0.0
+2,2025-11-29 22:24:12.219276,Parking charges mall,99.0,Transport,expense,Credit Card,False,0.0
+2,2025-12-01 02:21:12.219276,Auto Fare Cash,74.0,Transport,expense,NetBanking,False,0.0
+2,2025-12-01 08:10:12.219276,Car rental service,218.0,Transport,expense,NetBanking,False,0.0
+2,2025-12-03 03:05:12.219276,Hotel room booking OYO,3185.0,Travel,expense,NetBanking,False,0.0
+2,2025-12-02 21:25:12.219276,Amusement park ticket,746.0,Entertainment,expense,Credit Card,False,0.0
+2,2025-12-04 05:26:12.219276,Netflix subscription premium,516.0,Entertainment,expense,Credit Card,False,0.0
+2,2025-12-05 07:22:12.219276,Juice Shop hostel,280.0,Food,expense,Credit Card,False,0.0
+2,2025-12-07 01:33:12.219276,Parking charges mall,105.0,Transport,expense,Credit Card,False,0.0
+2,2025-12-11 05:10:12.219276,Car rental service,122.0,Transport,expense,Credit Card,False,0.0
+2,2025-12-13 22:36:12.219276,Amazon shopping clothes,2672.0,Shopping,expense,NetBanking,False,0.0
+2,2025-12-14 01:01:12.219276,Zomato Order,143.0,Food,expense,NetBanking,False,0.0
+2,2025-12-15 02:18:12.219276,Travel agent booking ticket,4563.0,Travel,expense,NetBanking,False,0.0
+2,2025-12-18 00:59:12.219276,Dentist consultation clinic,1326.0,Healthcare,expense,Credit Card,False,0.0
+2,2025-12-19 02:19:12.219276,Student health insurance premium,1297.0,Healthcare,expense,NetBanking,False,0.0
+2,2025-12-23 10:40:12.219276,Dentist consultation clinic,452.0,Healthcare,expense,NetBanking,False,0.0
+2,2025-12-24 03:17:12.219276,General Physician consultation fee,308.0,Healthcare,expense,NetBanking,False,0.0
+2,2025-12-27 03:21:12.219276,Netflix subscription premium,1020.0,Entertainment,expense,NetBanking,False,0.0
+2,2025-12-27 01:17:12.219276,Gift box wrapper,361.0,Miscellaneous,expense,Credit Card,False,0.0
+2,2025-12-28 04:50:12.219276,Board game cafe bill,391.0,Entertainment,expense,Credit Card,False,0.0
+2,2025-12-27 21:33:12.219276,Netflix subscription premium,956.0,Entertainment,expense,NetBanking,False,0.0
+2,2025-12-28 12:56:12.219276,MIDNIGHT SUSPICIOUS - MakeMyTrip flight Bangalore to Delhi,14742.0,Travel,expense,NetBanking,True,81.50884690295007
+2,2025-12-29 03:04:12.219276,Train Ticket IRCTC,33.0,Transport,expense,NetBanking,False,0.0
+2,2025-12-30 03:41:12.219276,Electricity bill board,756.0,Bills,expense,Credit Card,False,0.0
+2,2025-12-31 07:42:12.219276,Travel agent booking ticket,7851.0,Travel,expense,Credit Card,False,0.0
+2,2025-12-30 20:23:12.219276,Ola Cab Booking,40.0,Transport,expense,NetBanking,False,0.0
+2,2025-12-31 03:13:12.219276,Hotel room booking OYO,4311.0,Travel,expense,Credit Card,False,0.0
+2,2026-01-01 03:16:12.219276,Local thrift store jacket,1551.0,Shopping,expense,NetBanking,False,0.0
+2,2026-01-03 04:32:12.219276,Supermarket Groceries,244.0,Food,expense,Credit Card,False,0.0
+2,2026-01-03 22:40:12.219276,Flipkart electronics gadget,2412.0,Shopping,expense,NetBanking,False,0.0
+2,2026-01-04 02:11:12.219276,GitHub Copilot Subscription,1622.0,Bills,expense,NetBanking,False,0.0
+2,2026-01-07 07:31:12.219276,Local thrift store jacket,2112.0,Shopping,expense,NetBanking,False,0.0
+2,2026-01-09 04:09:12.219276,Lost cash wallet,205.0,Miscellaneous,expense,NetBanking,False,0.0
+2,2026-01-10 05:39:12.219276,Uber Auto Ride,207.0,Transport,expense,NetBanking,False,0.0
+2,2026-01-15 00:53:12.219276,Stationery shop notebook,3511.0,Shopping,expense,Credit Card,False,0.0
+2,2026-01-17 07:43:12.219276,Burger King combo,194.0,Food,expense,Credit Card,False,0.0
+2,2026-01-20 07:30:12.219276,Student health insurance premium,817.0,Healthcare,expense,NetBanking,False,0.0
+2,2026-01-19 22:24:12.219276,Auto Fare Cash,285.0,Transport,expense,NetBanking,False,0.0
+2,2026-01-20 23:39:12.219276,Ola Cab Booking,325.0,Transport,expense,NetBanking,False,0.0
+2,2026-01-21 06:05:12.219276,Airtel broadband wifi,844.0,Bills,expense,NetBanking,False,0.0
+2,2026-01-21 00:25:12.219276,Multivitamins health supplements,1047.0,Healthcare,expense,NetBanking,False,0.0
+2,2026-01-24 00:32:12.219276,Starbucks Coffee,88.0,Food,expense,Credit Card,False,0.0
+2,2026-01-25 06:37:12.219276,Book Store college textbooks,3402.0,Shopping,expense,Credit Card,False,0.0
+2,2026-01-28 08:46:12.219276,DTH TV recharge Tata Sky,1658.0,Bills,expense,NetBanking,False,0.0
+2,2026-01-30 06:42:12.219276,First aid box bandage,599.0,Healthcare,expense,Credit Card,False,0.0
+2,2026-01-31 21:31:12.219276,Shoppers Stop shoes,1591.0,Shopping,expense,Credit Card,False,0.0
+2,2026-02-01 23:25:12.219276,Metro Card Recharge Metro Station,320.0,Transport,expense,Credit Card,False,0.0
+2,2026-02-02 04:04:12.219276,Gas cylinder booking Indane,465.0,Bills,expense,Credit Card,False,0.0
+2,2026-02-03 04:59:12.219276,Myntra t-shirt purchase,2729.0,Shopping,expense,NetBanking,False,0.0
+2,2026-02-02 21:13:12.219276,Parking charges mall,241.0,Transport,expense,NetBanking,False,0.0
+2,2026-02-05 07:44:12.219276,ATM Cash withdrawal Self,129.0,Miscellaneous,expense,NetBanking,False,0.0
+2,2026-02-06 08:46:12.219276,Metro Card Recharge Metro Station,85.0,Transport,expense,Credit Card,False,0.0
+2,2026-02-06 21:33:12.219276,Bowling Alley Arena,214.0,Entertainment,expense,Credit Card,False,0.0
+2,2026-02-08 07:39:12.219276,Airtel broadband wifi,442.0,Bills,expense,NetBanking,False,0.0
+2,2026-02-08 01:27:12.219276,Cloud storage Google One,1819.0,Bills,expense,NetBanking,False,0.0
+2,2026-02-09 19:43:12.219276,Shoppers Stop shoes,3120.0,Shopping,expense,NetBanking,False,0.0
+2,2026-02-11 23:18:12.219276,Maggie Point Gate 2,266.0,Food,expense,NetBanking,False,0.0
+2,2026-02-12 07:27:12.219276,Travel agent booking ticket,5735.0,Travel,expense,NetBanking,False,0.0
+2,2026-02-11 23:33:12.219276,Laundry detergent detergent shop,317.0,Miscellaneous,expense,NetBanking,False,0.0
+2,2026-02-12 23:05:12.219276,Ola Cab Booking,38.0,Transport,expense,Credit Card,False,0.0
+2,2026-02-14 07:41:12.219276,DTH TV recharge Tata Sky,967.0,Bills,expense,Credit Card,False,0.0
+2,2026-02-14 09:32:12.219276,Amusement park ticket,404.0,Entertainment,expense,Credit Card,False,0.0
+2,2026-02-19 04:16:12.219276,Board game cafe bill,652.0,Entertainment,expense,Credit Card,False,0.0
+2,2026-02-19 20:00:12.219276,Hotel room booking OYO,3703.0,Travel,expense,Credit Card,False,0.0
+2,2026-02-20 08:30:12.219276,Train Ticket IRCTC,350.0,Transport,expense,Credit Card,False,0.0
+2,2026-02-20 19:44:12.219276,Zomato Order,255.0,Food,expense,Credit Card,False,0.0
+2,2026-02-22 11:01:12.219276,Petrol Pump HP,312.0,Transport,expense,Credit Card,False,0.0
+2,2026-02-23 07:40:12.219276,Concert ticket EDM show,504.0,Entertainment,expense,NetBanking,False,0.0
+2,2026-02-23 09:30:12.219276,Airtel broadband wifi,943.0,Bills,expense,Credit Card,False,0.0
+2,2026-02-22 23:12:12.219276,Airbnb stay vacation room,6885.0,Travel,expense,NetBanking,False,0.0
+2,2026-02-25 06:43:12.219276,Shoppers Stop shoes,1404.0,Shopping,expense,NetBanking,False,0.0
+2,2026-02-27 01:12:12.219276,Campus Canteen Maggie,295.0,Food,expense,Credit Card,False,0.0
+2,2026-02-26 20:15:12.219276,DTH TV recharge Tata Sky,1068.0,Bills,expense,NetBanking,False,0.0
+2,2026-02-27 21:31:12.219276,Burger King combo,316.0,Food,expense,Credit Card,False,0.0
+2,2026-02-28 07:39:12.219276,Shell Fuel Station,184.0,Transport,expense,NetBanking,False,0.0
+2,2026-02-28 05:18:12.219276,Lost cash wallet,302.0,Miscellaneous,expense,Credit Card,False,0.0
+2,2026-03-01 02:44:12.219276,Dominos Pizza,133.0,Food,expense,Credit Card,False,0.0
+2,2026-03-02 04:18:12.219276,Auto Fare Cash,198.0,Transport,expense,Credit Card,False,0.0
+2,2026-03-03 02:39:12.219276,Hotel room booking OYO,4637.0,Travel,expense,Credit Card,False,0.0
+2,2026-03-05 01:38:12.219276,Luggage bag purchase Safari,6206.0,Travel,expense,Credit Card,False,0.0
+2,2026-03-07 01:43:12.219276,Water supply bill,2354.0,Bills,expense,Credit Card,False,0.0
+2,2026-03-10 10:47:12.219276,Dentist consultation clinic,650.0,Healthcare,expense,NetBanking,False,0.0
+2,2026-03-12 05:35:12.219276,RedBus booking home town,2104.0,Travel,expense,Credit Card,False,0.0
+2,2026-03-13 04:16:12.219276,Gas cylinder booking Indane,1953.0,Bills,expense,NetBanking,False,0.0
+2,2026-03-14 10:41:12.219276,MakeMyTrip flight Bangalore to Delhi,4888.0,Travel,expense,NetBanking,False,0.0
+2,2026-03-14 03:16:12.219276,GitHub Copilot Subscription,184.0,Bills,expense,Credit Card,False,0.0
+2,2026-03-15 06:47:12.219276,MakeMyTrip flight Bangalore to Delhi,4001.0,Travel,expense,Credit Card,False,0.0
+2,2026-03-15 10:30:12.219276,Local Bus Ticket,223.0,Transport,expense,NetBanking,False,0.0
+2,2026-03-16 04:46:12.219276,Gas cylinder booking Indane,1701.0,Bills,expense,NetBanking,False,0.0
+2,2026-03-17 00:03:12.219276,Hostel Electricity surcharge,551.0,Bills,expense,Credit Card,False,0.0
+2,2026-03-17 07:16:12.219276,Uber Auto Ride,280.0,Transport,expense,Credit Card,False,0.0
+2,2026-03-20 04:45:12.219276,Gym membership monthly fee,400.0,Healthcare,expense,NetBanking,False,0.0
+2,2026-03-20 22:42:12.219276,Friend Splitwise repayment,242.0,Miscellaneous,expense,Credit Card,False,0.0
+2,2026-03-21 09:56:12.219276,Laundry detergent detergent shop,405.0,Miscellaneous,expense,NetBanking,False,0.0
+2,2026-03-20 20:32:12.219276,Multivitamins health supplements,1061.0,Healthcare,expense,Credit Card,False,0.0
+2,2026-03-21 23:59:12.219276,Temple donation offering,499.0,Miscellaneous,expense,Credit Card,False,0.0
+2,2026-03-24 23:48:12.219276,Board game cafe bill,445.0,Entertainment,expense,Credit Card,False,0.0
+2,2026-03-29 00:03:12.219276,Electricity bill board,1920.0,Bills,expense,NetBanking,False,0.0
+2,2026-03-30 07:38:12.219276,Cloud storage Google One,673.0,Bills,expense,NetBanking,False,0.0
+2,2026-03-30 21:36:12.219276,Gas cylinder booking Indane,2494.0,Bills,expense,Credit Card,False,0.0
+2,2026-04-04 00:25:12.219276,Pub weekend entry cover charge,1120.0,Entertainment,expense,NetBanking,False,0.0
+2,2026-04-05 20:49:12.219276,Dominos Pizza,184.0,Food,expense,NetBanking,False,0.0
+2,2026-04-07 10:53:12.219276,Luggage bag purchase Safari,3845.0,Travel,expense,Credit Card,False,0.0
+2,2026-04-10 09:32:12.219276,Car rental service,218.0,Transport,expense,NetBanking,False,0.0
+2,2026-04-12 23:16:12.219276,Concert ticket EDM show,415.0,Entertainment,expense,Credit Card,False,0.0
+2,2026-04-13 05:29:12.219276,Jio Prepaid Mobile Recharge,1916.0,Bills,expense,NetBanking,False,0.0
+2,2026-04-15 20:32:12.219276,Supermarket Groceries,236.0,Food,expense,NetBanking,False,0.0
+2,2026-04-16 09:29:12.219276,Hostel Electricity surcharge,986.0,Bills,expense,NetBanking,False,0.0
+2,2026-04-18 06:10:12.219276,Water supply bill,1123.0,Bills,expense,NetBanking,False,0.0
+2,2026-04-18 04:24:12.219276,Apollo Pharmacy medicines,1460.0,Healthcare,expense,NetBanking,False,0.0
+2,2026-04-19 04:28:12.219276,Zomato Order,237.0,Food,expense,NetBanking,False,0.0
+2,2026-04-19 03:50:12.219276,Lost cash wallet,82.0,Miscellaneous,expense,NetBanking,False,0.0
+2,2026-04-22 23:35:12.219276,DTH TV recharge Tata Sky,392.0,Bills,expense,NetBanking,False,0.0
+2,2026-04-23 10:52:12.219276,Gas cylinder booking Indane,1472.0,Bills,expense,NetBanking,False,0.0
+2,2026-04-26 05:54:12.219276,Student health insurance premium,1440.0,Healthcare,expense,NetBanking,False,0.0
+2,2026-04-27 04:22:12.219276,Stationery shop notebook,463.0,Shopping,expense,Credit Card,False,0.0
+2,2026-04-28 08:56:12.219276,Decathlon sports gear,3950.0,Shopping,expense,Credit Card,False,0.0
+2,2026-04-27 22:55:12.219276,Book Store college textbooks,3254.0,Shopping,expense,NetBanking,False,0.0
+2,2026-04-29 10:32:12.219276,Toll plaza fee,53.0,Transport,expense,NetBanking,False,0.0
+2,2026-04-29 00:20:12.219276,Multivitamins health supplements,1092.0,Healthcare,expense,Credit Card,False,0.0
+2,2026-05-02 04:12:12.219276,Airbnb stay vacation room,3832.0,Travel,expense,NetBanking,False,0.0
+2,2026-05-04 05:32:12.219276,DTH TV recharge Tata Sky,1922.0,Bills,expense,Credit Card,False,0.0
+2,2026-05-04 10:50:12.219276,Toll plaza fee,91.0,Transport,expense,Credit Card,False,0.0
+2,2026-05-07 11:05:12.219276,Flipkart electronics gadget,3843.0,Shopping,expense,NetBanking,False,0.0
+2,2026-05-06 22:45:12.219276,DTH TV recharge Tata Sky,1931.0,Bills,expense,Credit Card,False,0.0
+2,2026-05-07 00:23:12.219276,Hotel room booking OYO,7411.0,Travel,expense,Credit Card,False,0.0
+2,2026-05-08 06:00:12.219276,Apollo Pharmacy medicines,1351.0,Healthcare,expense,NetBanking,False,0.0
+2,2026-05-10 01:44:12.219276,Parking charges mall,55.0,Transport,expense,NetBanking,False,0.0
+2,2026-05-10 01:32:12.219276,Laundry detergent detergent shop,490.0,Miscellaneous,expense,NetBanking,False,0.0
+2,2026-05-10 10:36:12.219276,Chai Tapri Tea & Samosa,349.0,Food,expense,Credit Card,False,0.0
+2,2026-05-11 09:06:12.219276,Eye test & spectacles frames,1440.0,Healthcare,expense,NetBanking,False,0.0
+2,2026-05-12 04:04:12.219276,DTH TV recharge Tata Sky,481.0,Bills,expense,Credit Card,False,0.0
+2,2026-05-13 07:57:12.219276,Friend Splitwise repayment,245.0,Miscellaneous,expense,Credit Card,False,0.0
+2,2026-05-14 02:37:12.219276,Spotify Premium monthly plan,439.0,Entertainment,expense,Credit Card,False,0.0
+2,2026-05-13 23:36:12.219276,Hotel room booking OYO,5373.0,Travel,expense,NetBanking,False,0.0
+2,2026-05-14 11:06:12.219276,Hotel room booking OYO,7341.0,Travel,expense,Credit Card,False,0.0
+2,2026-05-16 10:44:12.219276,Amusement park ticket,382.0,Entertainment,expense,Credit Card,False,0.0
+2,2026-05-17 11:03:12.219276,Pub weekend entry cover charge,910.0,Entertainment,expense,NetBanking,False,0.0
+2,2026-05-16 19:54:12.219276,Bowling Alley Arena,427.0,Entertainment,expense,Credit Card,False,0.0
+2,2026-05-20 06:10:12.219276,Metro Card Recharge Metro Station,297.0,Transport,expense,Credit Card,False,0.0
+2,2026-05-21 10:54:12.219276,Dominos Pizza,341.0,Food,expense,Credit Card,False,0.0
+2,2026-05-21 08:23:12.219276,GitHub Copilot Subscription,580.0,Bills,expense,Credit Card,False,0.0
+3,2025-05-21 04:17:12.219276,Airtel broadband wifi,1890.0,Bills,expense,Credit Card,False,0.0
+3,2025-05-22 01:34:12.219276,Sunglasses purchase store,443.0,Shopping,expense,NetBanking,False,0.0
+3,2025-05-21 20:12:12.219276,Gas cylinder booking Indane,485.0,Bills,expense,NetBanking,False,0.0
+3,2025-05-23 04:14:12.219276,Airbnb stay vacation room,2359.0,Travel,expense,NetBanking,False,0.0
+3,2025-05-23 10:05:12.219276,Biryani House Restaurant,95.0,Food,expense,Credit Card,False,0.0
+3,2025-05-24 02:15:12.219276,Maggie Point Gate 2,129.0,Food,expense,NetBanking,False,0.0
+3,2025-05-24 01:31:12.219276,Maggie Point Gate 2,424.0,Food,expense,NetBanking,False,0.0
+3,2025-05-28 00:51:12.219276,BookMyShow Movie Ticket PVR,785.0,Entertainment,expense,NetBanking,False,0.0
+3,2025-05-29 06:56:12.219276,Cloud storage Google One,1183.0,Bills,expense,NetBanking,False,0.0
+3,2025-05-30 07:15:12.219276,Temple donation offering,157.0,Miscellaneous,expense,Credit Card,False,0.0
+3,2025-05-29 21:33:12.219276,Friend Splitwise repayment,182.0,Miscellaneous,expense,NetBanking,False,0.0
+3,2025-05-31 08:16:12.219276,RedBus booking home town,5827.0,Travel,expense,NetBanking,False,0.0
+3,2025-06-03 04:44:12.219276,Gas cylinder booking Indane,510.0,Bills,expense,NetBanking,False,0.0
+3,2025-06-03 10:11:12.219276,Luggage bag purchase Safari,3525.0,Travel,expense,Credit Card,False,0.0
+3,2025-06-03 07:12:12.219276,Gym membership monthly fee,1169.0,Healthcare,expense,NetBanking,False,0.0
+3,2025-06-05 22:20:12.219276,Metro Card Recharge Metro Station,150.0,Transport,expense,Credit Card,False,0.0
+3,2025-06-06 08:18:12.219276,CRITICAL SPIKE - BookMyShow Movie Ticket PVR,13740.0,Entertainment,expense,Credit Card,True,73.98324510915425
+3,2025-06-07 09:12:12.219276,Airtel broadband wifi,1737.0,Bills,expense,NetBanking,False,0.0
+3,2025-06-09 23:52:12.219276,Petrol Pump HP,226.0,Transport,expense,Credit Card,False,0.0
+3,2025-06-10 00:44:12.219276,DTH TV recharge Tata Sky,2068.0,Bills,expense,Credit Card,False,0.0
+3,2025-06-12 08:01:12.219276,Laundry detergent detergent shop,401.0,Miscellaneous,expense,Credit Card,False,0.0
+3,2025-06-13 07:23:12.219276,General Physician consultation fee,1498.0,Healthcare,expense,Credit Card,False,0.0
+3,2025-06-12 23:24:12.219276,Travel agent booking ticket,4744.0,Travel,expense,NetBanking,False,0.0
+3,2025-06-14 08:37:12.219276,Jio Prepaid Mobile Recharge,2209.0,Bills,expense,Credit Card,False,0.0
+3,2025-06-14 09:57:12.219276,Hotel room booking OYO,2326.0,Travel,expense,Credit Card,False,0.0
+3,2025-06-15 08:35:12.219276,Juice Shop hostel,216.0,Food,expense,NetBanking,False,0.0
+3,2025-06-16 07:03:12.219276,H&M jeans,2421.0,Shopping,expense,NetBanking,False,0.0
+3,2025-06-16 06:36:12.219276,Board game cafe bill,1088.0,Entertainment,expense,NetBanking,False,0.0
+3,2025-06-17 22:27:12.219276,Gym membership monthly fee,245.0,Healthcare,expense,NetBanking,False,0.0
+3,2025-06-18 03:18:12.219276,Dentist consultation clinic,592.0,Healthcare,expense,NetBanking,False,0.0
+3,2025-06-19 03:34:12.219276,Biryani House Restaurant,284.0,Food,expense,NetBanking,False,0.0
+3,2025-06-20 22:48:12.219276,Hostel Electricity surcharge,1994.0,Bills,expense,NetBanking,False,0.0
+3,2025-06-23 02:08:12.219276,RedBus booking home town,5784.0,Travel,expense,Credit Card,False,0.0
+3,2025-06-24 06:02:12.219276,Local Bus Ticket,301.0,Transport,expense,NetBanking,False,0.0
+3,2025-06-25 23:58:12.219276,Gift box wrapper,301.0,Miscellaneous,expense,Credit Card,False,0.0
+3,2025-06-27 03:54:12.219276,Laundry detergent detergent shop,230.0,Miscellaneous,expense,Credit Card,False,0.0
+3,2025-06-27 01:33:12.219276,Multivitamins health supplements,1150.0,Healthcare,expense,Credit Card,False,0.0
+3,2025-06-28 01:17:12.219276,Electricity bill board,2281.0,Bills,expense,Credit Card,False,0.0
+3,2025-06-28 08:46:12.219276,Shell Fuel Station,327.0,Transport,expense,Credit Card,False,0.0
+3,2025-06-29 02:28:12.219276,Petrol Pump HP,41.0,Transport,expense,Credit Card,False,0.0
+3,2025-07-05 00:32:12.219276,Toll plaza fee,116.0,Transport,expense,NetBanking,False,0.0
+3,2025-07-04 22:03:12.219276,Amusement park ticket,580.0,Entertainment,expense,NetBanking,False,0.0
+3,2025-07-06 04:12:12.219276,Cloud storage Google One,1454.0,Bills,expense,NetBanking,False,0.0
+3,2025-07-05 19:48:12.219276,Chai Tapri Tea & Samosa,151.0,Food,expense,NetBanking,False,0.0
+3,2025-07-07 11:13:12.219276,LUXURY DIAMOND RING JEWELLER,108870.0,Bills,expense,Credit Card,True,79.10404486975435
+3,2025-07-08 01:04:12.219276,Travel agent booking ticket,3385.0,Travel,expense,Credit Card,False,0.0
+3,2025-07-10 20:27:12.219276,Water supply bill,906.0,Bills,expense,Credit Card,False,0.0
+3,2025-07-11 22:55:12.219276,Gaming Zone Arcade Mall,894.0,Entertainment,expense,Credit Card,False,0.0
+3,2025-07-14 05:10:12.219276,Bike taxi Rapido,331.0,Transport,expense,Credit Card,False,0.0
+3,2025-07-15 04:50:12.219276,Shoppers Stop shoes,2477.0,Shopping,expense,NetBanking,False,0.0
+3,2025-07-15 11:05:12.219276,MakeMyTrip flight Bangalore to Delhi,3492.0,Travel,expense,NetBanking,False,0.0
+3,2025-07-17 06:23:12.219276,Local Bus Ticket,139.0,Transport,expense,NetBanking,False,0.0
+3,2025-07-19 11:15:12.219276,Zara retail mall,2899.0,Shopping,expense,NetBanking,False,0.0
+3,2025-07-19 04:57:12.219276,General Physician consultation fee,668.0,Healthcare,expense,Credit Card,False,0.0
+3,2025-07-19 09:53:12.219276,Flipkart electronics gadget,1766.0,Shopping,expense,NetBanking,False,0.0
+3,2025-07-20 07:15:12.219276,Apollo Pharmacy medicines,1027.0,Healthcare,expense,Credit Card,False,0.0
+3,2025-07-20 07:54:12.219276,Hostel Electricity surcharge,1629.0,Bills,expense,Credit Card,False,0.0
+3,2025-07-20 22:38:12.219276,Pub weekend entry cover charge,1180.0,Entertainment,expense,NetBanking,False,0.0
+3,2025-07-22 23:04:12.219276,GitHub Copilot Subscription,1613.0,Bills,expense,NetBanking,False,0.0
+3,2025-07-23 00:29:12.219276,Sunglasses purchase store,703.0,Shopping,expense,Credit Card,False,0.0
+3,2025-07-24 04:09:12.219276,Board game cafe bill,330.0,Entertainment,expense,NetBanking,False,0.0
+3,2025-07-25 06:55:12.219276,BookMyShow Movie Ticket PVR,807.0,Entertainment,expense,Credit Card,False,0.0
+3,2025-07-27 10:30:12.219276,Spotify Premium monthly plan,1032.0,Entertainment,expense,Credit Card,False,0.0
+3,2025-07-26 19:59:12.219276,Gift box wrapper,428.0,Miscellaneous,expense,Credit Card,False,0.0
+3,2025-07-29 00:40:12.219276,Local thrift store jacket,3566.0,Shopping,expense,NetBanking,False,0.0
+3,2025-07-31 03:48:12.219276,Gaming Zone Arcade Mall,563.0,Entertainment,expense,Credit Card,False,0.0
+3,2025-07-30 23:27:12.219276,Bowling Alley Arena,205.0,Entertainment,expense,Credit Card,False,0.0
+3,2025-08-01 22:39:12.219276,Airbnb stay vacation room,3627.0,Travel,expense,Credit Card,False,0.0
+3,2025-08-02 06:00:12.219276,Spotify Premium monthly plan,1151.0,Entertainment,expense,NetBanking,False,0.0
+3,2025-08-03 19:34:12.219276,Hotel room booking OYO,6167.0,Travel,expense,Credit Card,False,0.0
+3,2025-08-06 20:43:12.219276,MakeMyTrip flight Bangalore to Delhi,4250.0,Travel,expense,NetBanking,False,0.0
+3,2025-08-10 20:30:12.219276,Gas cylinder booking Indane,216.0,Bills,expense,NetBanking,False,0.0
+3,2025-08-11 21:41:12.219276,CRITICAL SPIKE - Zara retail mall,12150.0,Shopping,expense,Credit Card,True,92.42971737360575
+3,2025-08-11 23:54:12.219276,Campus Canteen Maggie,323.0,Food,expense,NetBanking,False,0.0
+3,2025-08-12 22:49:12.219276,Toll plaza fee,78.0,Transport,expense,NetBanking,False,0.0
+3,2025-08-13 06:19:12.219276,Concert ticket EDM show,528.0,Entertainment,expense,NetBanking,False,0.0
+3,2025-08-16 05:55:12.219276,GitHub Copilot Subscription,1901.0,Bills,expense,NetBanking,False,0.0
+3,2025-08-16 10:16:12.219276,Flipkart electronics gadget,1796.0,Shopping,expense,Credit Card,False,0.0
+3,2025-08-16 20:08:12.219276,Lost cash wallet,82.0,Miscellaneous,expense,Credit Card,False,0.0
+3,2025-08-18 20:59:12.219276,BookMyShow Movie Ticket PVR,1018.0,Entertainment,expense,NetBanking,False,0.0
+3,2025-08-19 19:38:12.219276,Multivitamins health supplements,1158.0,Healthcare,expense,NetBanking,False,0.0
+3,2025-08-24 04:31:12.219276,Gym membership monthly fee,316.0,Healthcare,expense,NetBanking,False,0.0
+3,2025-08-24 06:39:12.219276,GitHub Copilot Subscription,1446.0,Bills,expense,NetBanking,False,0.0
+3,2025-08-26 19:47:12.219276,ATM Cash withdrawal Self,254.0,Miscellaneous,expense,Credit Card,False,0.0
+3,2025-08-27 07:26:12.219276,Apollo Pharmacy medicines,1135.0,Healthcare,expense,NetBanking,False,0.0
+3,2025-08-28 10:18:12.219276,Concert ticket EDM show,1063.0,Entertainment,expense,NetBanking,False,0.0
+3,2025-08-29 02:54:12.219276,Stationery shop notebook,3908.0,Shopping,expense,NetBanking,False,0.0
+3,2025-08-29 11:14:12.219276,Water supply bill,470.0,Bills,expense,NetBanking,False,0.0
+3,2025-08-30 07:22:12.219276,Concert ticket EDM show,1144.0,Entertainment,expense,Credit Card,False,0.0
+3,2025-09-01 23:28:12.219276,GitHub Copilot Subscription,1549.0,Bills,expense,Credit Card,False,0.0
+3,2025-09-07 11:29:12.219276,Luggage bag purchase Safari,7327.0,Travel,expense,NetBanking,False,0.0
+3,2025-09-07 04:31:12.219276,Myntra t-shirt purchase,3193.0,Shopping,expense,NetBanking,False,0.0
+3,2025-09-08 05:48:12.219276,Hotel room booking OYO,6410.0,Travel,expense,NetBanking,False,0.0
+3,2025-09-07 23:23:12.219276,Biryani House Restaurant,107.0,Food,expense,NetBanking,False,0.0
+3,2025-09-08 22:55:12.219276,Zara retail mall,520.0,Shopping,expense,Credit Card,False,0.0
+3,2025-09-09 08:58:12.219276,Ola Cab Booking,236.0,Transport,expense,Credit Card,False,0.0
+3,2025-09-09 06:45:12.219276,RedBus booking home town,4812.0,Travel,expense,NetBanking,False,0.0
+3,2025-09-12 01:08:12.219276,Metro Card Recharge Metro Station,126.0,Transport,expense,Credit Card,False,0.0
+3,2025-09-14 02:24:12.219276,Bowling Alley Arena,439.0,Entertainment,expense,Credit Card,False,0.0
+3,2025-09-16 21:07:12.219276,Luggage bag purchase Safari,5185.0,Travel,expense,NetBanking,False,0.0
+3,2025-09-20 01:06:12.219276,Bowling Alley Arena,257.0,Entertainment,expense,Credit Card,False,0.0
+3,2025-09-21 00:58:12.219276,Auto Fare Cash,32.0,Transport,expense,NetBanking,False,0.0
+3,2025-09-22 09:18:12.219276,General Physician consultation fee,619.0,Healthcare,expense,NetBanking,False,0.0
+3,2025-09-23 00:16:12.219276,Electricity bill board,1719.0,Bills,expense,Credit Card,False,0.0
+3,2025-09-22 21:45:12.219276,Spotify Premium monthly plan,384.0,Entertainment,expense,Credit Card,False,0.0
+3,2025-09-23 07:52:12.219276,Lost cash wallet,135.0,Miscellaneous,expense,NetBanking,False,0.0
+3,2025-09-27 20:13:12.219276,Electricity bill board,556.0,Bills,expense,Credit Card,False,0.0
+3,2025-09-28 07:52:12.219276,Biryani House Restaurant,359.0,Food,expense,Credit Card,False,0.0
+3,2025-09-29 02:43:12.219276,Airbnb stay vacation room,3254.0,Travel,expense,NetBanking,False,0.0
+3,2025-09-30 01:59:12.219276,Friend Splitwise repayment,255.0,Miscellaneous,expense,NetBanking,False,0.0
+3,2025-09-30 08:03:12.219276,Gym membership monthly fee,1143.0,Healthcare,expense,Credit Card,False,0.0
+3,2025-10-03 01:16:12.219276,DTH TV recharge Tata Sky,308.0,Bills,expense,NetBanking,False,0.0
+3,2025-10-02 20:18:12.219276,First aid box bandage,1084.0,Healthcare,expense,Credit Card,False,0.0
+3,2025-10-04 21:57:12.219276,Jio Prepaid Mobile Recharge,716.0,Bills,expense,NetBanking,False,0.0
+3,2025-10-07 01:23:12.219276,Dominos Pizza,275.0,Food,expense,Credit Card,False,0.0
+3,2025-10-07 10:11:12.219276,Biryani House Restaurant,432.0,Food,expense,NetBanking,False,0.0
+3,2025-10-07 22:30:12.219276,Noodles corner,423.0,Food,expense,NetBanking,False,0.0
+3,2025-10-08 08:32:12.219276,Water supply bill,825.0,Bills,expense,NetBanking,False,0.0
+3,2025-10-10 04:02:12.219276,Airtel broadband wifi,313.0,Bills,expense,NetBanking,False,0.0
+3,2025-10-11 07:58:12.219276,Campus Canteen Maggie,274.0,Food,expense,Credit Card,False,0.0
+3,2025-10-11 05:57:12.219276,Local vegetable vendor,424.0,Food,expense,Credit Card,False,0.0
+3,2025-10-12 02:05:12.219276,Cough syrup & vitamins,471.0,Healthcare,expense,NetBanking,False,0.0
+3,2025-10-13 21:43:12.219276,Ola Cab Booking,34.0,Transport,expense,NetBanking,False,0.0
+3,2025-10-15 06:14:12.219276,Gaming Zone Arcade Mall,252.0,Entertainment,expense,Credit Card,False,0.0
+3,2025-10-17 09:06:12.219276,Book Store college textbooks,3002.0,Shopping,expense,NetBanking,False,0.0
+3,2025-10-19 07:31:12.219276,Airtel broadband wifi,364.0,Bills,expense,Credit Card,False,0.0
+3,2025-10-18 20:21:12.219276,Biryani House Restaurant,300.0,Food,expense,Credit Card,False,0.0
+3,2025-10-20 09:56:12.219276,Water supply bill,2431.0,Bills,expense,NetBanking,False,0.0
+3,2025-10-20 06:08:12.219276,Hotel room booking OYO,6093.0,Travel,expense,Credit Card,False,0.0
+3,2025-10-21 09:03:12.219276,Pub weekend entry cover charge,499.0,Entertainment,expense,NetBanking,False,0.0
+3,2025-10-21 23:59:12.219276,KFC Chicken meal,151.0,Food,expense,Credit Card,False,0.0
+3,2025-10-24 11:12:12.219276,Maggie Point Gate 2,134.0,Food,expense,NetBanking,False,0.0
+3,2025-10-24 02:00:12.219276,Airtel broadband wifi,1063.0,Bills,expense,Credit Card,False,0.0
+3,2025-10-24 05:17:12.219276,MakeMyTrip flight Bangalore to Delhi,4523.0,Travel,expense,NetBanking,False,0.0
+3,2025-10-25 07:25:12.219276,Car rental service,96.0,Transport,expense,NetBanking,False,0.0
+3,2025-10-25 03:32:12.219276,DTH TV recharge Tata Sky,1108.0,Bills,expense,NetBanking,False,0.0
+3,2025-11-01 10:54:12.219276,Luggage bag purchase Safari,3197.0,Travel,expense,NetBanking,False,0.0
+3,2025-11-05 00:09:12.219276,ATM Cash withdrawal Self,318.0,Miscellaneous,expense,Credit Card,False,0.0
+3,2025-11-07 10:35:12.219276,DTH TV recharge Tata Sky,1721.0,Bills,expense,NetBanking,False,0.0
+3,2025-11-08 00:59:12.219276,Maggie Point Gate 2,439.0,Food,expense,NetBanking,False,0.0
+3,2025-11-09 07:47:12.219276,Dentist consultation clinic,784.0,Healthcare,expense,Credit Card,False,0.0
+3,2025-11-14 00:34:12.219276,Spotify Premium monthly plan,212.0,Entertainment,expense,Credit Card,False,0.0
+3,2025-11-15 08:45:12.219276,Swiggy Delivery Hyderabad,334.0,Food,expense,Credit Card,False,0.0
+3,2025-11-15 05:20:12.219276,Biryani House Restaurant,102.0,Food,expense,NetBanking,False,0.0
+3,2025-11-15 01:49:12.219276,RedBus booking home town,4189.0,Travel,expense,NetBanking,False,0.0
+3,2025-11-18 00:57:12.219276,Car rental service,218.0,Transport,expense,Credit Card,False,0.0
+3,2025-11-18 08:45:12.219276,GitHub Copilot Subscription,2314.0,Bills,expense,NetBanking,False,0.0
+3,2025-11-19 08:57:12.219276,Hotel room booking OYO,4395.0,Travel,expense,Credit Card,False,0.0
+3,2025-11-22 10:41:12.219276,Sunglasses purchase store,1328.0,Shopping,expense,NetBanking,False,0.0
+3,2025-11-22 00:27:12.219276,DTH TV recharge Tata Sky,535.0,Bills,expense,Credit Card,False,0.0
+3,2025-11-22 00:32:12.219276,Netflix subscription premium,1183.0,Entertainment,expense,Credit Card,False,0.0
+3,2025-11-26 06:47:12.219276,Apollo Pharmacy medicines,1423.0,Healthcare,expense,Credit Card,False,0.0
+3,2025-11-27 23:01:12.219276,Campus Canteen Maggie,438.0,Food,expense,Credit Card,False,0.0
+3,2025-11-27 22:04:12.219276,Cloud storage Google One,211.0,Bills,expense,Credit Card,False,0.0
+3,2025-12-01 09:47:12.219276,Pub weekend entry cover charge,1111.0,Entertainment,expense,NetBanking,False,0.0
+3,2025-12-02 05:28:12.219276,Toll plaza fee,294.0,Transport,expense,Credit Card,False,0.0
+3,2025-12-01 23:17:12.219276,Amazon shopping clothes,1589.0,Shopping,expense,Credit Card,False,0.0
+3,2025-12-04 20:19:12.219276,Noodles corner,334.0,Food,expense,Credit Card,False,0.0
+3,2025-12-04 21:38:12.219276,Campus Canteen Maggie,303.0,Food,expense,Credit Card,False,0.0
+3,2025-12-06 00:21:12.219276,ATM Cash withdrawal Self,168.0,Miscellaneous,expense,NetBanking,False,0.0
+3,2025-12-07 11:04:12.219276,Amusement park ticket,587.0,Entertainment,expense,Credit Card,False,0.0
+3,2025-12-08 21:22:12.219276,Cough syrup & vitamins,661.0,Healthcare,expense,Credit Card,False,0.0
+3,2025-12-10 08:02:12.219276,Apollo Pharmacy medicines,594.0,Healthcare,expense,NetBanking,False,0.0
+3,2025-12-13 05:27:12.219276,General Physician consultation fee,1151.0,Healthcare,expense,NetBanking,False,0.0
+3,2025-12-13 10:58:12.219276,Temple donation offering,217.0,Miscellaneous,expense,Credit Card,False,0.0
+3,2025-12-14 02:26:12.219276,Jio Prepaid Mobile Recharge,2418.0,Bills,expense,NetBanking,False,0.0
+3,2025-12-15 02:47:12.219276,Luggage bag purchase Safari,6260.0,Travel,expense,NetBanking,False,0.0
+3,2025-12-15 21:50:12.219276,Cloud storage Google One,2301.0,Bills,expense,NetBanking,False,0.0
+3,2025-12-17 11:03:12.219276,Laundry detergent detergent shop,51.0,Miscellaneous,expense,NetBanking,False,0.0
+3,2025-12-16 23:04:12.219276,Electricity bill board,1851.0,Bills,expense,Credit Card,False,0.0
+3,2025-12-18 00:24:12.219276,Auto Fare Cash,85.0,Transport,expense,NetBanking,False,0.0
+3,2025-12-19 08:49:12.219276,LUXURY DIAMOND RING JEWELLER,93164.0,Entertainment,expense,NetBanking,True,78.44014733598311
+3,2025-12-19 02:43:12.219276,Gaming Zone Arcade Mall,696.0,Entertainment,expense,NetBanking,False,0.0
+3,2025-12-20 02:49:12.219276,MakeMyTrip flight Bangalore to Delhi,2783.0,Travel,expense,Credit Card,False,0.0
+3,2025-12-21 09:43:12.219276,Spotify Premium monthly plan,317.0,Entertainment,expense,Credit Card,False,0.0
+3,2025-12-23 20:05:12.219276,Student Mess Fees Monthly,372.0,Food,expense,Credit Card,False,0.0
+3,2025-12-24 06:48:12.219276,Multivitamins health supplements,1068.0,Healthcare,expense,NetBanking,False,0.0
+3,2025-12-25 06:37:12.219276,Friend Splitwise repayment,483.0,Miscellaneous,expense,Credit Card,False,0.0
+3,2025-12-25 00:28:12.219276,Bike taxi Rapido,160.0,Transport,expense,NetBanking,False,0.0
+3,2025-12-25 01:07:12.219276,General Physician consultation fee,580.0,Healthcare,expense,NetBanking,False,0.0
+3,2025-12-28 10:07:12.219276,Zomato Order,273.0,Food,expense,NetBanking,False,0.0
+3,2025-12-28 10:15:12.219276,Travel agent booking ticket,5235.0,Travel,expense,Credit Card,False,0.0
+3,2025-12-28 04:07:12.219276,Lost cash wallet,452.0,Miscellaneous,expense,Credit Card,False,0.0
+3,2025-12-29 02:22:12.219276,General Physician consultation fee,965.0,Healthcare,expense,Credit Card,False,0.0
+3,2025-12-30 07:30:12.219276,Cloud storage Google One,1735.0,Bills,expense,Credit Card,False,0.0
+3,2025-12-30 08:30:12.219276,Auto Fare Cash,221.0,Transport,expense,Credit Card,False,0.0
+3,2025-12-31 00:34:12.219276,MakeMyTrip flight Bangalore to Delhi,4887.0,Travel,expense,NetBanking,False,0.0
+3,2026-01-01 23:43:12.219276,Cough syrup & vitamins,1100.0,Healthcare,expense,NetBanking,False,0.0
+3,2026-01-05 11:24:12.219276,Zomato Order,163.0,Food,expense,NetBanking,False,0.0
+3,2026-01-06 07:28:12.219276,MakeMyTrip flight Bangalore to Delhi,2655.0,Travel,expense,NetBanking,False,0.0
+3,2026-01-07 00:16:12.219276,Temple donation offering,466.0,Miscellaneous,expense,NetBanking,False,0.0
+3,2026-01-10 04:39:12.219276,DTH TV recharge Tata Sky,1737.0,Bills,expense,NetBanking,False,0.0
+3,2026-01-15 07:16:12.219276,Amazon shopping clothes,946.0,Shopping,expense,NetBanking,False,0.0
+3,2026-01-14 22:36:12.219276,Uber Auto Ride,114.0,Transport,expense,NetBanking,False,0.0
+3,2026-01-17 10:40:12.219276,KFC Chicken meal,178.0,Food,expense,Credit Card,False,0.0
+3,2026-01-17 01:18:12.219276,Concert ticket EDM show,215.0,Entertainment,expense,NetBanking,False,0.0
+3,2026-01-18 09:25:12.219276,GitHub Copilot Subscription,1355.0,Bills,expense,Credit Card,False,0.0
+3,2026-01-18 00:19:12.219276,Concert ticket EDM show,818.0,Entertainment,expense,Credit Card,False,0.0
+3,2026-01-19 06:11:12.219276,Sunglasses purchase store,700.0,Shopping,expense,NetBanking,False,0.0
+3,2026-01-20 01:56:12.219276,Amusement park ticket,219.0,Entertainment,expense,Credit Card,False,0.0
+3,2026-01-20 07:45:12.219276,Uber Auto Ride,46.0,Transport,expense,NetBanking,False,0.0
+3,2026-01-21 09:16:12.219276,Cough syrup & vitamins,1120.0,Healthcare,expense,NetBanking,False,0.0
+3,2026-01-23 09:36:12.219276,Noodles corner,448.0,Food,expense,NetBanking,False,0.0
+3,2026-01-23 03:02:12.219276,Multivitamins health supplements,1446.0,Healthcare,expense,NetBanking,False,0.0
+3,2026-01-25 02:59:12.219276,CRITICAL SPIKE - DTH TV recharge Tata Sky,17790.0,Bills,expense,Credit Card,True,75.73052112768295
+3,2026-01-25 08:35:12.219276,Student Mess Fees Monthly,104.0,Food,expense,NetBanking,False,0.0
+3,2026-01-24 21:05:12.219276,Gift box wrapper,456.0,Miscellaneous,expense,NetBanking,False,0.0
+3,2026-01-27 01:31:12.219276,H&M jeans,1597.0,Shopping,expense,Credit Card,False,0.0
+3,2026-01-27 05:08:12.219276,Eye test & spectacles frames,535.0,Healthcare,expense,NetBanking,False,0.0
+3,2026-01-31 23:25:12.219276,Electricity bill board,1493.0,Bills,expense,Credit Card,False,0.0
+3,2026-02-01 21:42:12.219276,DTH TV recharge Tata Sky,130.0,Bills,expense,Credit Card,False,0.0
+3,2026-02-03 04:36:12.219276,Jio Prepaid Mobile Recharge,1378.0,Bills,expense,Credit Card,False,0.0
+3,2026-02-05 01:19:12.219276,Apollo Pharmacy medicines,253.0,Healthcare,expense,NetBanking,False,0.0
+3,2026-02-08 04:21:12.219276,Campus Canteen Maggie,295.0,Food,expense,NetBanking,False,0.0
+3,2026-02-07 22:50:12.219276,MakeMyTrip flight Bangalore to Delhi,5843.0,Travel,expense,Credit Card,False,0.0
+3,2026-02-09 02:26:12.219276,Netflix subscription premium,1030.0,Entertainment,expense,Credit Card,False,0.0
+3,2026-02-10 10:34:12.219276,Pub weekend entry cover charge,405.0,Entertainment,expense,NetBanking,False,0.0
+3,2026-02-13 23:52:12.219276,Jio Prepaid Mobile Recharge,1793.0,Bills,expense,NetBanking,False,0.0
+3,2026-02-15 06:53:12.219276,Noodles corner,351.0,Food,expense,Credit Card,False,0.0
+3,2026-02-15 10:58:12.219276,Amusement park ticket,561.0,Entertainment,expense,NetBanking,False,0.0
+3,2026-02-16 05:21:12.219276,GitHub Copilot Subscription,1143.0,Bills,expense,NetBanking,False,0.0
+3,2026-02-18 06:40:12.219276,General Physician consultation fee,756.0,Healthcare,expense,Credit Card,False,0.0
+3,2026-02-21 10:31:12.219276,CRITICAL SPIKE - Uber Auto Ride,2415.0,Transport,expense,NetBanking,True,84.68749053946476
+3,2026-02-21 01:16:12.219276,GitHub Copilot Subscription,1087.0,Bills,expense,NetBanking,False,0.0
+3,2026-02-23 10:09:12.219276,Electricity bill board,1849.0,Bills,expense,NetBanking,False,0.0
+3,2026-02-26 22:39:12.219276,Electricity bill board,2283.0,Bills,expense,Credit Card,False,0.0
+3,2026-03-01 01:27:12.219276,Temple donation offering,349.0,Miscellaneous,expense,Credit Card,False,0.0
+3,2026-03-01 08:45:12.219276,Gift box wrapper,340.0,Miscellaneous,expense,Credit Card,False,0.0
+3,2026-02-28 22:29:12.219276,General Physician consultation fee,969.0,Healthcare,expense,Credit Card,False,0.0
+3,2026-03-04 09:44:12.219276,Shell Fuel Station,309.0,Transport,expense,NetBanking,False,0.0
+3,2026-03-04 01:22:12.219276,KFC Chicken meal,450.0,Food,expense,NetBanking,False,0.0
+3,2026-03-06 10:36:12.219276,Temple donation offering,453.0,Miscellaneous,expense,Credit Card,False,0.0
+3,2026-03-08 02:54:12.219276,Local Bus Ticket,241.0,Transport,expense,NetBanking,False,0.0
+3,2026-03-07 21:00:12.219276,Juice Shop hostel,445.0,Food,expense,Credit Card,False,0.0
+3,2026-03-11 05:20:12.219276,H&M jeans,668.0,Shopping,expense,Credit Card,False,0.0
+3,2026-03-12 05:29:12.219276,Student health insurance premium,926.0,Healthcare,expense,NetBanking,False,0.0
+3,2026-03-14 20:23:12.219276,General Physician consultation fee,1042.0,Healthcare,expense,NetBanking,False,0.0
+3,2026-03-17 02:27:12.219276,Gaming Zone Arcade Mall,592.0,Entertainment,expense,NetBanking,False,0.0
+3,2026-03-18 10:20:12.219276,Ola Cab Booking,78.0,Transport,expense,Credit Card,False,0.0
+3,2026-03-21 04:20:12.219276,Cough syrup & vitamins,1167.0,Healthcare,expense,Credit Card,False,0.0
+3,2026-03-23 01:44:12.219276,Hotel room booking OYO,2216.0,Travel,expense,Credit Card,False,0.0
+3,2026-03-26 00:13:12.219276,Train Ticket IRCTC,350.0,Transport,expense,Credit Card,False,0.0
+3,2026-03-26 20:24:12.219276,Hostel Electricity surcharge,265.0,Bills,expense,NetBanking,False,0.0
+3,2026-03-27 03:04:12.219276,Laundry detergent detergent shop,449.0,Miscellaneous,expense,NetBanking,False,0.0
+3,2026-03-27 10:18:12.219276,Water supply bill,318.0,Bills,expense,NetBanking,False,0.0
+3,2026-03-29 02:43:12.219276,Decathlon sports gear,3609.0,Shopping,expense,Credit Card,False,0.0
+3,2026-04-02 07:00:12.219276,Water supply bill,2355.0,Bills,expense,Credit Card,False,0.0
+3,2026-04-01 23:17:12.219276,Local Bus Ticket,37.0,Transport,expense,Credit Card,False,0.0
+3,2026-04-06 21:13:12.219276,Electricity bill board,296.0,Bills,expense,Credit Card,False,0.0
+3,2026-04-09 01:29:12.219276,Toll plaza fee,194.0,Transport,expense,Credit Card,False,0.0
+3,2026-04-09 09:14:12.219276,Friend Splitwise repayment,496.0,Miscellaneous,expense,Credit Card,False,0.0
+3,2026-04-09 03:35:12.219276,Amazon shopping clothes,3389.0,Shopping,expense,NetBanking,False,0.0
+3,2026-04-09 00:37:12.219276,Airbnb stay vacation room,5626.0,Travel,expense,Credit Card,False,0.0
+3,2026-04-10 00:12:12.219276,Sunglasses purchase store,2051.0,Shopping,expense,Credit Card,False,0.0
+3,2026-04-11 02:39:12.219276,Water supply bill,899.0,Bills,expense,Credit Card,False,0.0
+3,2026-04-12 06:58:12.219276,Board game cafe bill,800.0,Entertainment,expense,Credit Card,False,0.0
+3,2026-04-11 20:43:12.219276,Electricity bill board,790.0,Bills,expense,NetBanking,False,0.0
+3,2026-04-13 04:37:12.219276,ATM Cash withdrawal Self,468.0,Miscellaneous,expense,NetBanking,False,0.0
+3,2026-04-15 01:10:12.219276,Parking charges mall,129.0,Transport,expense,Credit Card,False,0.0
+3,2026-04-16 08:35:12.219276,Bike taxi Rapido,120.0,Transport,expense,NetBanking,False,0.0
+3,2026-04-17 06:34:12.219276,Gas cylinder booking Indane,752.0,Bills,expense,Credit Card,False,0.0
+3,2026-04-21 05:15:12.219276,Laundry detergent detergent shop,418.0,Miscellaneous,expense,NetBanking,False,0.0
+3,2026-04-22 09:58:12.219276,Airtel broadband wifi,1063.0,Bills,expense,Credit Card,False,0.0
+3,2026-04-23 11:13:12.219276,Dentist consultation clinic,1457.0,Healthcare,expense,Credit Card,False,0.0
+3,2026-04-23 21:24:12.219276,Shoppers Stop shoes,2514.0,Shopping,expense,Credit Card,False,0.0
+3,2026-04-25 08:20:12.219276,Electricity bill board,1576.0,Bills,expense,Credit Card,False,0.0
+3,2026-04-26 01:23:12.219276,Swiggy Delivery Hyderabad,424.0,Food,expense,NetBanking,False,0.0
+3,2026-04-27 03:29:12.219276,Gift box wrapper,344.0,Miscellaneous,expense,Credit Card,False,0.0
+3,2026-04-28 01:32:12.219276,Lost cash wallet,419.0,Miscellaneous,expense,Credit Card,False,0.0
+3,2026-04-27 22:48:12.219276,Gaming Zone Arcade Mall,853.0,Entertainment,expense,NetBanking,False,0.0
+3,2026-04-30 02:51:12.219276,Amazon shopping clothes,1215.0,Shopping,expense,NetBanking,False,0.0
+3,2026-04-29 21:54:12.219276,Zomato Order,266.0,Food,expense,NetBanking,False,0.0
+3,2026-04-30 01:40:12.219276,Cloud storage Google One,540.0,Bills,expense,NetBanking,False,0.0
+3,2026-05-02 21:12:12.219276,ATM Cash withdrawal Self,406.0,Miscellaneous,expense,Credit Card,False,0.0
+3,2026-05-03 07:44:12.219276,Temple donation offering,335.0,Miscellaneous,expense,NetBanking,False,0.0
+3,2026-05-03 08:37:12.219276,Shoppers Stop shoes,2683.0,Shopping,expense,Credit Card,False,0.0
+3,2026-05-04 06:21:12.219276,Airtel broadband wifi,666.0,Bills,expense,NetBanking,False,0.0
+3,2026-05-04 07:24:12.219276,GitHub Copilot Subscription,1490.0,Bills,expense,Credit Card,False,0.0
+3,2026-05-03 22:39:12.219276,Hostel Electricity surcharge,828.0,Bills,expense,NetBanking,False,0.0
+3,2026-05-04 21:47:12.219276,BookMyShow Movie Ticket PVR,387.0,Entertainment,expense,NetBanking,False,0.0
+3,2026-05-06 04:52:12.219276,Laser tag game weekend,523.0,Entertainment,expense,NetBanking,False,0.0
+3,2026-05-06 05:15:12.219276,Travel agent booking ticket,3819.0,Travel,expense,Credit Card,False,0.0
+3,2026-05-09 04:05:12.219276,Apollo Pharmacy medicines,384.0,Healthcare,expense,Credit Card,False,0.0
+3,2026-05-08 20:08:12.219276,Local thrift store jacket,3339.0,Shopping,expense,NetBanking,False,0.0
+3,2026-05-10 04:04:12.219276,Airbnb stay vacation room,4628.0,Travel,expense,NetBanking,False,0.0
+3,2026-05-13 07:18:12.219276,Friend Splitwise repayment,171.0,Miscellaneous,expense,NetBanking,False,0.0
+3,2026-05-13 04:00:12.219276,Pub weekend entry cover charge,566.0,Entertainment,expense,NetBanking,False,0.0
+3,2026-05-13 02:44:12.219276,Train Ticket IRCTC,267.0,Transport,expense,Credit Card,False,0.0
+3,2026-05-13 21:44:12.219276,MakeMyTrip flight Bangalore to Delhi,3530.0,Travel,expense,Credit Card,False,0.0
+3,2026-05-14 05:42:12.219276,Laundry detergent detergent shop,418.0,Miscellaneous,expense,Credit Card,False,0.0
+3,2026-05-15 09:56:12.219276,Campus Canteen Maggie,363.0,Food,expense,Credit Card,False,0.0

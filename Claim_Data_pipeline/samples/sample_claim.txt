@@ -1,0 +1,6 @@
+This is a sample claim document.
+Claim Title: Hurricane Relief Fund 2026
+Eligibility: Residents of Florida affected by the recent hurricane.
+Reward: $5,000 per household.
+Deadline: 2026-12-31
+Category: Disaster Relief

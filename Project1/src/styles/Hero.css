@@ -1,0 +1,129 @@
+.hero {
+  position: relative;
+  height: 100vh;
+  width: 100%;
+  display: flex;
+  align-items: center;
+  overflow: hidden;
+  background: var(--primary);
+}
+
+.hero-bg {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  z-index: 1;
+}
+
+.hero-bg img {
+  width: 100%;
+  height: 110%;
+  object-fit: cover;
+}
+
+.hero-overlay {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  background: linear-gradient(
+    to right, 
+    rgba(10, 10, 10, 0.9) 0%, 
+    rgba(10, 10, 10, 0.4) 50%,
+    rgba(10, 10, 10, 0.1) 100%
+  );
+}
+
+.hero-content {
+  position: relative;
+  z-index: 2;
+  margin-top: 5rem;
+}
+
+.hero-text h1 {
+  font-size: clamp(3rem, 8vw, 6rem);
+  color: var(--secondary);
+  line-height: 1;
+  margin-bottom: 2rem;
+}
+
+.text-accent {
+  color: var(--accent);
+}
+
+.underline-gold {
+  background: linear-gradient(to right, var(--gold), var(--gold));
+  background-size: 0% 4px;
+  background-repeat: no-repeat;
+  background-position: left bottom;
+  animation: underline-reveal 1.5s ease 1s forwards;
+}
+
+@keyframes underline-reveal {
+  to { background-size: 100% 4px; }
+}
+
+.hero-subtext {
+  font-size: clamp(1rem, 1.5vw, 1.2rem);
+  color: var(--text-muted);
+  max-width: 600px;
+  margin-bottom: 3rem;
+  line-height: 1.6;
+}
+
+.btn-primary-large, .btn-secondary {
+  text-decoration: none;
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  gap: 0.5rem;
+}
+
+.btn-primary-large {
+  background: var(--accent);
+  color: white;
+  padding: 1.2rem 2.5rem;
+  font-size: 1rem;
+  font-weight: 700;
+  letter-spacing: 0.05em;
+  text-transform: uppercase;
+  border-radius: 4px;
+  transition: var(--transition-smooth);
+}
+
+.btn-primary-large:hover {
+  background: #ff2d6a;
+  transform: scale(1.05);
+  box-shadow: 0 15px 30px rgba(255, 79, 129, 0.4);
+}
+
+.btn-secondary {
+  display: flex;
+  align-items: center;
+  gap: 0.5rem;
+  background: transparent;
+  color: var(--secondary);
+  border: 1px solid var(--glass-border);
+  padding: 1.2rem 2.5rem;
+  font-size: 1rem;
+  font-weight: 600;
+  text-transform: uppercase;
+  letter-spacing: 0.05em;
+  border-radius: 4px;
+  transition: var(--transition-smooth);
+  backdrop-filter: blur(10px);
+}
+
+.btn-secondary:hover {
+  background: var(--glass-bg);
+  border-color: var(--secondary);
+}
+
+@media (max-width: 768px) {
+  .hero-btns {
+    flex-direction: column;
+  }
+}

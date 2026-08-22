@@ -1,0 +1,132 @@
+.navbar {
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100%;
+  z-index: 1000;
+  padding: 1.5rem 0;
+  transition: var(--transition-smooth);
+}
+
+.navbar.scrolled {
+  background: rgba(10, 10, 10, 0.8);
+  backdrop-filter: blur(20px);
+  padding: 1rem 0;
+  border-bottom: 1px solid var(--glass-border);
+}
+
+.nav-container {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.brand-logo {
+  display: flex;
+  align-items: center;
+  gap: 0.4rem;
+  font-family: var(--font-logo);
+  cursor: pointer;
+  letter-spacing: -0.02em;
+}
+
+.logo-text {
+  font-size: 1.6rem;
+  font-weight: 800;
+  text-transform: uppercase;
+  transition: var(--transition-smooth);
+}
+
+.logo-text.main {
+  color: var(--accent);
+}
+
+.logo-text.ampersand {
+  font-family: var(--font-serif);
+  font-style: italic;
+  font-size: 1.4rem;
+  font-weight: 400;
+  color: var(--text-muted);
+  text-transform: lowercase;
+  margin: 0 0.1rem;
+}
+
+.logo-text.secondary {
+  color: var(--text-main);
+  letter-spacing: 0.05em;
+  font-weight: 600;
+}
+
+.brand-logo:hover .logo-text.main {
+  transform: translateY(-2px);
+  text-shadow: 0 5px 15px rgba(255, 79, 129, 0.4);
+}
+
+.nav-links-desktop {
+  display: flex;
+  align-items: center;
+  gap: 2.5rem;
+}
+
+.nav-link {
+  font-size: 0.9rem;
+  font-weight: 500;
+  text-transform: uppercase;
+  letter-spacing: 0.1em;
+  color: var(--text-muted);
+}
+
+.nav-link:hover {
+  color: var(--accent);
+}
+
+.btn-primary {
+  background: var(--accent);
+  color: white;
+  padding: 0.8rem 1.5rem;
+  border-radius: 4px;
+  font-weight: 600;
+  text-transform: uppercase;
+  letter-spacing: 0.05em;
+  font-size: 0.8rem;
+  transition: var(--transition-smooth);
+}
+
+.btn-primary:hover {
+  background: #ff2d6a;
+  transform: translateY(-2px);
+  box-shadow: 0 10px 20px rgba(255, 79, 129, 0.3);
+}
+
+.mobile-toggle {
+  display: none;
+  color: var(--text-main);
+  cursor: pointer;
+}
+
+.mobile-menu {
+  display: none;
+  background: var(--primary);
+  flex-direction: column;
+  padding: 2rem;
+  gap: 1.5rem;
+  border-top: 1px solid var(--glass-border);
+}
+
+.mobile-nav-link {
+  font-size: 1.2rem;
+  font-weight: 700;
+  text-transform: uppercase;
+}
+
+@media (max-width: 768px) {
+  .nav-links-desktop {
+    display: none;
+  }
+  .mobile-toggle {
+    display: block;
+  }
+  .mobile-menu {
+    display: flex;
+  }
+}

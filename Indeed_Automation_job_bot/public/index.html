@@ -1,0 +1,197 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Indeed-Only AutoPilot Bot</title>
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="style.css">
+    <script src="https://cdn.jsdelivr.net/npm/feather-icons/dist/feather.min.js"></script>
+</head>
+
+<body>
+    <div class="app-container">
+        <!-- Sidebar Navigation -->
+        <aside class="sidebar">
+            <div class="logo">
+                <i data-feather="briefcase"></i>
+                <h2>Indeed AutoPilot<br><small
+                        style="font-size:0.6rem; color: #ef4444; font-weight:400; text-transform:uppercase;">(Indeed.com
+                        Only)</small></h2>
+            </div>
+            <nav class="nav-menu">
+                <a href="#" class="nav-item active" id="nav-config"><i data-feather="settings"></i> Configuration</a>
+                <a href="#" class="nav-item" id="nav-jobs"><i data-feather="list"></i> Applied Jobs</a>
+                <a href="#" class="nav-item" id="nav-about"><i data-feather="info"></i> About</a>
+            </nav>
+            <div class="bot-status">
+                <div class="status-indicator offline" id="status-indicator"></div>
+                <span id="status-text">Bot Offline</span>
+            </div>
+        </aside>
+
+        <!-- Main Content Area -->
+        <main class="main-content">
+            <header class="topbar">
+                <h1>Dashboard overview</h1>
+                <div class="controls">
+                    <button class="btn btn-primary" id="btn-start"><i data-feather="play"></i> Start Bot</button>
+                    <button class="btn btn-danger" id="btn-stop" disabled><i data-feather="square"></i> Stop</button>
+                </div>
+            </header>
+
+            <div id="alert-container"></div>
+
+            <div class="dashboard-grid" id="config-section">
+                <!-- Configuration Form -->
+                <div class="card glass config-card">
+                    <div class="card-header">
+                        <h3>Profile & Settings</h3>
+                        <span>Configure your application parameters.</span>
+                    </div>
+                    <form id="config-form">
+                        <div class="form-row">
+                            <div class="form-group">
+                                <label for="role">Job Role Target</label>
+                                <input type="text" id="role" name="role" placeholder="e.g. Frontend Developer" required>
+                            </div>
+                            <div class="form-group">
+                                <label for="location">Location / Remote</label>
+                                <input type="text" id="location" name="location" placeholder="e.g. Remote or New York"
+                                    required>
+                            </div>
+                        </div>
+
+                        <div class="form-group">
+                            <label for="skills">Your Skills (comma separated)</label>
+                            <textarea id="skills" name="skills" rows="3"
+                                placeholder="React, Node.js, JavaScript, CSS..." required></textarea>
+                            <small>These skills are used to match against job descriptions.</small>
+                        </div>
+
+                        <div class="form-row">
+                            <div class="form-group">
+                                <label for="name">Full Name</label>
+                                <input type="text" id="name" name="name" required>
+                            </div>
+                            <div class="form-group">
+                                <label for="email">Contact Email</label>
+                                <input type="email" id="email" name="email" required>
+                            </div>
+                            <div class="form-group">
+                                <label for="password">Indeed Password</label>
+                                <input type="password" id="password" name="password" placeholder="Indeed account password">
+                            </div>
+                        </div>
+
+                        <div class="form-row">
+                            <div class="form-group">
+                                <label for="resumePath">Absolute Resume Path (.pdf)</label>
+                                <input type="text" id="resumePath" name="resumePath"
+                                    placeholder="C:\Users\User\Documents\resume.pdf" required>
+                            </div>
+                            <div class="form-group">
+                                <label for="matchThreshold">Match Threshold (%)</label>
+                                <input type="number" id="matchThreshold" name="matchThreshold" min="0" max="100"
+                                    value="70">
+                            </div>
+                        </div>
+
+                        <button type="submit" class="btn btn-save" id="btn-save">Save Configuration</button>
+                    </form>
+                </div>
+
+                <!-- Email Configuration Card -->
+                <div class="card glass email-card" style="margin-top: 2rem;">
+                    <div class="card-header">
+                        <h3>Email Notifications (SMTP)</h3>
+                        <span>Configure how you receive application confirmations.</span>
+                    </div>
+                    <div style="padding: 1.5rem;">
+                        <div class="form-row">
+                            <div class="form-group">
+                                <label for="smtpHost">SMTP Host</label>
+                                <input type="text" id="smtpHost" name="smtpHost" form="config-form" placeholder="e.g. smtp.gmail.com">
+                            </div>
+                            <div class="form-group">
+                                <label for="smtpPort">SMTP Port</label>
+                                <input type="number" id="smtpPort" name="smtpPort" form="config-form" value="587">
+                            </div>
+                        </div>
+                        <div class="form-row">
+                            <div class="form-group">
+                                <label for="smtpUser">SMTP User (Email)</label>
+                                <input type="email" id="smtpUser" name="smtpUser" form="config-form" placeholder="your-email@gmail.com">
+                            </div>
+                            <div class="form-group">
+                                <label for="smtpPass">SMTP Password / App Pass</label>
+                                <input type="password" id="smtpPass" name="smtpPass" form="config-form" placeholder="Your app password">
+                            </div>
+                        </div>
+                        <small style="color: var(--text-muted); display: block; margin-top: 0.5rem;">
+                            Note: For Gmail, use an <b>App Password</b> instead of your regular password.
+                        </small>
+                    </div>
+                </div>
+
+                <!-- Live Logs / Terminal Output -->
+                <div class="card glass terminal-card">
+                    <div class="card-header">
+                        <h3>Live Bot Output</h3>
+                        <span>Real-time execution stream via Server-Sent Events</span>
+                    </div>
+                    <div class="terminal-window" id="terminal-output">
+                        <div class="log-entry info">[System] Ready to start. Enter your configuration and click 'Start
+                            Bot'.</div>
+                    </div>
+                </div>
+            </div>
+
+            <div class="card glass mt-4" id="applied-jobs-section">
+                <div class="card-header">
+                    <h3>Recent Applications</h3>
+                </div>
+                <div class="table-container">
+                    <table class="applications-table">
+                        <thead>
+                            <tr>
+                                <th>Date</th>
+                                <th>Job Title</th>
+                                <th>Company</th>
+                                <th>Match %</th>
+                                <th>Status</th>
+                            </tr>
+                        </thead>
+                        <tbody id="logs-body">
+                            <!-- Populated dynamically -->
+                            <tr>
+                                <td colspan="5" style="text-align: center; color: var(--text-muted)">No applications
+                                    yet.</td>
+                            </tr>
+                        </tbody>
+                    </table>
+                </div>
+            </div>
+        </main>
+    </div>
+
+    <!-- Success Modal -->
+    <div id="success-modal" class="modal glass" style="display: none; position: fixed; top: 0; left: 0; width: 100%; height: 100%; z-index: 2000; align-items: center; justify-content: center; background: rgba(0,0,0,0.6);">
+        <div class="modal-content card glass animate-success" style="max-width: 400px; padding: 2rem; text-align: center;">
+            <div class="success-icon" style="font-size: 3rem; color: var(--success); margin-bottom: 1rem;">
+                <i data-feather="check-circle" style="width: 64px; height: 64px;"></i>
+            </div>
+            <h2 id="success-title">Application Sent!</h2>
+            <p id="success-details" style="color: var(--text-muted); margin: 1rem 0;"></p>
+            <button class="btn btn-primary w-100" id="btn-close-success">Great, keep going!</button>
+        </div>
+    </div>
+
+    <script src="script.js"></script>
+    <script>
+        feather.replace();
+    </script>
+</body>
+
+</html>
